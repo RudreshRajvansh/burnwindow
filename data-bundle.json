@@ -1,0 +1,20 @@
+{
+  "url": "https://github.com/RudreshRajvansh/burnwindow/releases/download/v1.0.0/burnwindow-data-v1.zip",
+  "bytes": 157302644,
+  "sha256": "0a157780eafcf5abdd4041e67983f3afbe6299edbd0a20630f76438cbc3fd3f9",
+  "files": {
+    "data/fire.sqlite": "0b3c1a4773abfaef098814ff06cdbd61ea93d0e7739cedacafcfa1eb78850276",
+    "data/cities.json": "2c887ad524719eed7cf811b2f240f31fd0717b0071c95cfcb3f4c39d90cc3a7c",
+    "data/validation/aqua-pixel-evidence/MYD14.A2024228.0955.061.2024229110927.hdf.npz": "f80f1b3b8f55167f3c74289d3749a963ba27278edd413a078bde6e2c2e6eb19d",
+    "data/validation/aqua-pixel-evidence/MYD14.A2024228.1135.061.2024229111336.hdf.npz": "034faf47569cfaf04ac6acdab0f30b291daa890646b6be726144464360ff5820",
+    "data/validation/aqua-pixel-evidence/MYD14.A2024228.2100.061.2024229112158.hdf.npz": "4122f3e4719316101c3a8353a00509fe95cd445240a0f4f75d8efe975c970194",
+    "data/validation/aqua-pixel-evidence/MYD14.A2024228.2105.061.2024229112242.hdf.npz": "553ea65d7250c9a400812f182e292264464b69e44075a76328088d13b992c31d",
+    "data/validation/aqua-pixel-evidence/MYD14.A2024228.2240.061.2024229112642.hdf.npz": "6601bda0602d60911c684bebb1305993832ae552bb8c6c0647279485a94e5db3",
+    "data/validation/nasa-viirs-pixel-evidence/VJ114IMG.A2024228.0842.002.2024228143623.nc.npz": "f0858e4924262fa2df642c1269956aaaac2c7163da9c6b3f54552ffbc6e2271b",
+    "data/validation/nasa-viirs-pixel-evidence/VJ114IMG.A2024228.1024.002.2024228171720.nc.npz": "17b83bd12be13d686dfb5ec67e61e8dc59b28a233f5b6f57c93e052fa13e556b",
+    "data/validation/nasa-viirs-pixel-evidence/VJ114IMG.A2024228.2006.002.2024229023225.nc.npz": "86178920ce55bbf18460d265e3f05cb285e8d900de737161e459dabde0e8da32",
+    "data/validation/nasa-viirs-pixel-evidence/VJ114IMG.A2024228.2148.002.2024229044423.nc.npz": "d32d0b6ea01f46ce1b0f5a47ed42cc118108892f1fe9d0d63067b4e47a80ad92",
+    "data/validation/pixel-evidence/EFIRE-VIIRSI_v1r3_n20_s202408150842267_e202408150843512_c202408150928222.nc.npz": "9609ca1079dacd2319fd8b06c88c671439dbd3375d5ab463899b609b60737bcd",
+    "data/validation/pixel-evidence/EFIRE-VIIRSI_v1r3_n20_s202408150843525_e202408150845170_c202408150928249.nc.npz": "169deabc0ae94a6f26f278fa1b0cf9ed56e291ec8e98346d687a8e6eef51bccf"
+  }
+}

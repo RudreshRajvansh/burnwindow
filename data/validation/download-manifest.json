@@ -1,0 +1,269 @@
+[
+  {
+    "id": "modis_2024_Spain.csv",
+    "product": "modis",
+    "year": 2024,
+    "country": "Spain",
+    "bytes_advertised": 167436,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Spain.csv",
+    "sha256": "baa8e1cd86831df65750fe75c8c57b462d533b49fbcbe9a1405c5b0e8ef9def4",
+    "bytes": 167436
+  },
+  {
+    "id": "viirs-snpp_2024_Spain.csv",
+    "product": "snpp",
+    "year": 2024,
+    "country": "Spain",
+    "bytes_advertised": 654773,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Spain.csv",
+    "sha256": "b03d03a4c4d5eb5420b554be2886dd15babb139819d44065b57c8c65ac68570f",
+    "bytes": 654773
+  },
+  {
+    "id": "viirs-jpss1_2024_Spain.csv",
+    "product": "noaa20",
+    "year": 2024,
+    "country": "Spain",
+    "bytes_advertised": 729168,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Spain.csv",
+    "sha256": "a7505fbc46d1d10a23d64aad18c678a8139823703596d840e0f1b817829c7216",
+    "bytes": 729168
+  },
+  {
+    "id": "modis_2025_Spain.csv",
+    "product": "modis",
+    "year": 2025,
+    "country": "Spain",
+    "bytes_advertised": 757793,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Spain.csv",
+    "sha256": "28c2e7a7edbbde5e43e16b86444d0793b997a87f6493d447d0b3cad825c8ac1c",
+    "bytes": 757793
+  },
+  {
+    "id": "viirs-snpp_2025_Spain.csv",
+    "product": "snpp",
+    "year": 2025,
+    "country": "Spain",
+    "bytes_advertised": 2407569,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Spain.csv",
+    "sha256": "5d0fdaf6fb9cfe64240c6bcf9e9ddc005daba0f4ab91f753488ff6e823ed439f",
+    "bytes": 2407569
+  },
+  {
+    "id": "viirs-jpss1_2025_Spain.csv",
+    "product": "noaa20",
+    "year": 2025,
+    "country": "Spain",
+    "bytes_advertised": 2469474,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Spain.csv",
+    "sha256": "c5d8e0b239499b9e2acb79577bf3922b0e32492385a9673137eb5449e6a9604d",
+    "bytes": 2469474
+  },
+  {
+    "id": "modis_2024_Chile.csv",
+    "product": "modis",
+    "year": 2024,
+    "country": "Chile",
+    "bytes_advertised": 526327,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Chile.csv",
+    "sha256": "c1c86ecebc767911bd35b18bba1f33cb8a6f1443baf2139555bc902e61338700",
+    "bytes": 526327
+  },
+  {
+    "id": "viirs-snpp_2024_Chile.csv",
+    "product": "snpp",
+    "year": 2024,
+    "country": "Chile",
+    "bytes_advertised": 1737186,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Chile.csv",
+    "sha256": "bbf8704aeeb4ca02a2a4ff8057bad2c524ccd7ffd8d4790ed558cc15b1a4ccc5",
+    "bytes": 1737186
+  },
+  {
+    "id": "viirs-jpss1_2024_Chile.csv",
+    "product": "noaa20",
+    "year": 2024,
+    "country": "Chile",
+    "bytes_advertised": 1771440,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Chile.csv",
+    "sha256": "74a0d83a261c9bd273c46300c97a5b998e16002e8048c8463631964948cf1428",
+    "bytes": 1771440
+  },
+  {
+    "id": "modis_2025_Chile.csv",
+    "product": "modis",
+    "year": 2025,
+    "country": "Chile",
+    "bytes_advertised": 547628,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Chile.csv",
+    "sha256": "c225abab2d48f6f52644d1b7295ef3cdabf3ce492bb21d960087acea530cf2ca",
+    "bytes": 547628
+  },
+  {
+    "id": "viirs-snpp_2025_Chile.csv",
+    "product": "snpp",
+    "year": 2025,
+    "country": "Chile",
+    "bytes_advertised": 2078518,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Chile.csv",
+    "sha256": "c6ad5e85bcb65e7a49f3aa60446dcceedf835bcd3f0ee86769be7df79a3e89cf",
+    "bytes": 2078518
+  },
+  {
+    "id": "viirs-jpss1_2025_Chile.csv",
+    "product": "noaa20",
+    "year": 2025,
+    "country": "Chile",
+    "bytes_advertised": 2073080,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Chile.csv",
+    "sha256": "93fef398c4b4923ed51733b706d9a042d7223fed1b156cf270d432b86d92b9bf",
+    "bytes": 2073080
+  },
+  {
+    "id": "modis_2024_Thailand.csv",
+    "product": "modis",
+    "year": 2024,
+    "country": "Thailand",
+    "bytes_advertised": 1545203,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Thailand.csv",
+    "sha256": "668fab2f7ac0b5f9e3d056f230b152de56da8d43164c569e05687360e8b22567",
+    "bytes": 1545203
+  },
+  {
+    "id": "viirs-snpp_2024_Thailand.csv",
+    "product": "snpp",
+    "year": 2024,
+    "country": "Thailand",
+    "bytes_advertised": 11297113,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Thailand.csv",
+    "sha256": "2ca29f148a0ecc9233208350375eb31e85f6b1543b22875b00dcb7148b0b7c6d",
+    "bytes": 11297113
+  },
+  {
+    "id": "viirs-jpss1_2024_Thailand.csv",
+    "product": "noaa20",
+    "year": 2024,
+    "country": "Thailand",
+    "bytes_advertised": 11810940,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Thailand.csv",
+    "sha256": "dab18e541f924cc07e2d2beba7efa9a409a2ba923774fb2cad5840fb8865303b",
+    "bytes": 11810940
+  },
+  {
+    "id": "modis_2025_Thailand.csv",
+    "product": "modis",
+    "year": 2025,
+    "country": "Thailand",
+    "bytes_advertised": 1228690,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Thailand.csv",
+    "sha256": "3e71c9ebc0e5dbc95ec6f7d61b1dae1135085fc934c0bbc846d82984e9b2e758",
+    "bytes": 1228690
+  },
+  {
+    "id": "viirs-snpp_2025_Thailand.csv",
+    "product": "snpp",
+    "year": 2025,
+    "country": "Thailand",
+    "bytes_advertised": 8177244,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Thailand.csv",
+    "sha256": "8230e32516b5d968a445386568393b57d13dffb5754030109f848f9e0774a41f",
+    "bytes": 8177244
+  },
+  {
+    "id": "viirs-jpss1_2025_Thailand.csv",
+    "product": "noaa20",
+    "year": 2025,
+    "country": "Thailand",
+    "bytes_advertised": 8696690,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Thailand.csv",
+    "sha256": "4fca7483531bcf89dd3680278b1c09efa164541de4ef35aa2036dd110e65c98b",
+    "bytes": 8696690
+  },
+  {
+    "id": "modis_2024_Zambia.csv",
+    "product": "modis",
+    "year": 2024,
+    "country": "Zambia",
+    "bytes_advertised": 16450393,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Zambia.csv",
+    "sha256": "03a1f7773736359eac4d6aff2e89458d0f709f23421ddcdd1a190daf9259c384",
+    "bytes": 16450393
+  },
+  {
+    "id": "viirs-snpp_2024_Zambia.csv",
+    "product": "snpp",
+    "year": 2024,
+    "country": "Zambia",
+    "bytes_advertised": 61367625,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Zambia.csv",
+    "sha256": "aa50fda58208ffff371218a5cde3a0aa02460e71cb391cfa31afa88c82433184",
+    "bytes": 61367625
+  },
+  {
+    "id": "viirs-jpss1_2024_Zambia.csv",
+    "product": "noaa20",
+    "year": 2024,
+    "country": "Zambia",
+    "bytes_advertised": 73824411,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Zambia.csv",
+    "sha256": "9cdae2498bcaf1384ae3a1fcb5fe3f810b94175cbacb96bc4f243b928a889bbf",
+    "bytes": 73824411
+  },
+  {
+    "id": "modis_2025_Zambia.csv",
+    "product": "modis",
+    "year": 2025,
+    "country": "Zambia",
+    "bytes_advertised": 14851303,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Zambia.csv",
+    "sha256": "ad4e11bc0af10f6568af338f18e5baedaa2dda981ad6d4d269adaa50851d0461",
+    "bytes": 14851303
+  },
+  {
+    "id": "viirs-snpp_2025_Zambia.csv",
+    "product": "snpp",
+    "year": 2025,
+    "country": "Zambia",
+    "bytes_advertised": 68228708,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Zambia.csv",
+    "sha256": "8d941368c5240dce4d8e31eda186f1c1d6a9e53b0ce8d1befaab4e5448a4ab0f",
+    "bytes": 68228708
+  },
+  {
+    "id": "viirs-jpss1_2025_Zambia.csv",
+    "product": "noaa20",
+    "year": 2025,
+    "country": "Zambia",
+    "bytes_advertised": 69835284,
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Zambia.csv",
+    "sha256": "1282e8a9df8acb81d79d9771766900d60b4aa52b2d0ade797f203bc9729d36ab",
+    "bytes": 69835284
+  },
+  {
+    "id": "modis_2023_United_States.csv",
+    "product": "modis",
+    "year": 2023,
+    "country": "United_States",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2023_United_States.csv",
+    "sha256": "8f693b80488414db0494deac1081f4c658769618100e402a830fb823f8f6ec1f",
+    "bytes": 7572283
+  },
+  {
+    "id": "viirs-snpp_2023_United_States.csv",
+    "product": "snpp",
+    "year": 2023,
+    "country": "United_States",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2023_United_States.csv",
+    "sha256": "d419abfb7d39d8040fd4487aee7e8003b1940ae5eb0cd95aa244cd7e303d4b4d",
+    "bytes": 30962191
+  },
+  {
+    "id": "viirs-jpss1_2023_United_States.csv",
+    "product": "noaa20",
+    "year": 2023,
+    "country": "United_States",
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2023_United_States.csv",
+    "sha256": "4ba7e307439e9eb7ada988fddb80e5833f062da80b51b2253fe416e23234df69",
+    "bytes": 31926156
+  }
+]

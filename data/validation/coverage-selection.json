@@ -1,0 +1,44 @@
+{
+  "amendment_sha256": "1f3f5c7ce1a0db690c4bfdaa8e6a8423a85a5ca1d59b983242cfcf2736eae9ee",
+  "cmr_query": "https://cmr.earthdata.nasa.gov/search/granules.umm_json?short_name=VJ103IMG&version=2.1&bounding_box=-124%2C42%2C-116%2C46&temporal=2024-08-15T00%3A00%3A00Z%2C2024-08-15T23%3A59%3A59Z&page_size=200",
+  "cmr_hits": 4,
+  "candidates": [
+    {
+      "key": "VIIRS_EFIRE_VIIRSI_EDR/2024/08/15/EFIRE-VIIRSI_v1r3_n20_s202408150841028_e202408150842255_c202408150927397.nc",
+      "bytes": 1457722,
+      "timestamp": "2024-08-15T08:41:02+00:00",
+      "geolocation": {
+        "key": "VIIRS-IMG-GEO-TC/2024/08/15/GITCO_j01_d20240815_t0841028_e0842255_b34930_c20240815092121880000_oebc_ops.h5",
+        "bytes": 114729360
+      }
+    },
+    {
+      "key": "VIIRS_EFIRE_VIIRSI_EDR/2024/08/15/EFIRE-VIIRSI_v1r3_n20_s202408150842267_e202408150843512_c202408150928222.nc",
+      "bytes": 1104485,
+      "timestamp": "2024-08-15T08:42:26+00:00",
+      "geolocation": {
+        "key": "VIIRS-IMG-GEO-TC/2024/08/15/GITCO_j01_d20240815_t0842267_e0843512_b34930_c20240815092153221000_oebc_ops.h5",
+        "bytes": 119206853
+      }
+    },
+    {
+      "key": "VIIRS_EFIRE_VIIRSI_EDR/2024/08/15/EFIRE-VIIRSI_v1r3_n20_s202408150843525_e202408150845170_c202408150928249.nc",
+      "bytes": 1221153,
+      "timestamp": "2024-08-15T08:43:52+00:00",
+      "geolocation": {
+        "key": "VIIRS-IMG-GEO-TC/2024/08/15/GITCO_j01_d20240815_t0843525_e0845170_b34930_c20240815092203877000_oebc_ops.h5",
+        "bytes": 120623196
+      }
+    },
+    {
+      "key": "VIIRS_EFIRE_VIIRSI_EDR/2024/08/15/EFIRE-VIIRSI_v1r3_n20_s202408150845182_e202408150846428_c202408150929040.nc",
+      "bytes": 928487,
+      "timestamp": "2024-08-15T08:45:18+00:00",
+      "geolocation": {
+        "key": "VIIRS-IMG-GEO-TC/2024/08/15/GITCO_j01_d20240815_t0845182_e0846428_b34930_c20240815092208578000_oebc_ops.h5",
+        "bytes": 121200734
+      }
+    }
+  ],
+  "limited_sample": true
+}

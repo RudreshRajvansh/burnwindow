@@ -1,0 +1,303 @@
+{
+  "product": "NASA NOAA-20 VJ114IMG.002 + exact VJ103IMG.021 input",
+  "date": "2024-08-15",
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "granules": [
+    {
+      "mask_file": "VJ114IMG.A2024228.0842.002.2024228143623.nc",
+      "geolocation_file": "VJ103IMG.A2024228.0842.021.2024228135602.nc",
+      "state": "decoded_native_samples",
+      "product": "VJ114IMG.002",
+      "start": "2024-08-15 08:42:00.000",
+      "end": "2024-08-15 08:48:00.000",
+      "daynight": "Night",
+      "native_shape": [
+        6432,
+        6400
+      ],
+      "counts": {
+        "not_processed": 2,
+        "bowtie_deleted": 189742,
+        "sun_glint": 0,
+        "water": 3932,
+        "cloud": 179701,
+        "clear_nonfire_land": 385729,
+        "unclassified": 0,
+        "low_confidence_fire": 0,
+        "nominal_fire": 2,
+        "high_confidence_fire": 0,
+        "qa_rejected": 1,
+        "unknown_code": 0
+      },
+      "pixel_samples": 759109,
+      "unlocatable_samples_in_entire_granule": 0,
+      "alignment_checks": 424,
+      "max_alignment_error_degrees": 0.0,
+      "mask_legend": "0 not-processed (non-zero QF)\n1 bowtie\n2 glint\n3 water\n4 clouds\n5 clear land\n6 unclassified pixel\n7 low confidence fire pixel\n8 nominal confidence fire pixel\n9 high confidence fire pixel",
+      "qa_contract_source": "https://ladsweb.modaps.eosdis.nasa.gov/archive/Document%20Archive/Science%20Data%20Product%20Documentation/VIIRS_C2_AF-375m_User_Guide_1.2.pdf",
+      "sources": [
+        {
+          "file": "VJ114IMG.A2024228.0842.002.2024228143623.nc",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.0842.002.2024228143623/VJ114IMG.A2024228.0842.002.2024228143623.nc",
+          "product": "VJ114IMG.002",
+          "concept_id": "G3197610116-LPCLOUD",
+          "bytes": 1097508,
+          "sha256": "703c87aa01096d19beb9a69a6d670a890168b2df09fcd502d39c4337af92ce7a"
+        },
+        {
+          "file": "VJ103IMG.A2024228.0842.021.2024228135602.nc",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.0842.021.2024228135602.nc",
+          "product": "VJ103IMG.021",
+          "publisher_info": [
+            {
+              "Name": "Not provided",
+              "Size": 170.59215927124,
+              "SizeInBytes": 178878844,
+              "Checksum": {
+                "Value": "ec829a592cf18190da9b4684ecb1585d",
+                "Algorithm": "MD5"
+              },
+              "SizeUnit": "MB"
+            }
+          ],
+          "bytes": 178878844,
+          "sha256": "fe991ca65b431d63519047f2d1c11a04d3f008ce06c222337da7f5d984d849d9",
+          "publisher_md5_verified": true
+        }
+      ],
+      "pixel_evidence": {
+        "file": "nasa-viirs-pixel-evidence/VJ114IMG.A2024228.0842.002.2024228143623.nc.npz",
+        "sha256": "f0858e4924262fa2df642c1269956aaaac2c7163da9c6b3f54552ffbc6e2271b",
+        "bytes": 3496170
+      }
+    },
+    {
+      "mask_file": "VJ114IMG.A2024228.1024.002.2024228171720.nc",
+      "geolocation_file": "VJ103IMG.A2024228.1024.021.2024228163748.nc",
+      "state": "decoded_native_samples",
+      "product": "VJ114IMG.002",
+      "start": "2024-08-15 10:24:00.000",
+      "end": "2024-08-15 10:30:00.000",
+      "daynight": "Night",
+      "native_shape": [
+        6464,
+        6400
+      ],
+      "counts": {
+        "not_processed": 0,
+        "bowtie_deleted": 104355,
+        "sun_glint": 0,
+        "water": 16798,
+        "cloud": 527942,
+        "clear_nonfire_land": 965313,
+        "unclassified": 0,
+        "low_confidence_fire": 0,
+        "nominal_fire": 13,
+        "high_confidence_fire": 0,
+        "qa_rejected": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 1614421,
+      "unlocatable_samples_in_entire_granule": 0,
+      "alignment_checks": 315,
+      "max_alignment_error_degrees": 0.0,
+      "mask_legend": "0 not-processed (non-zero QF)\n1 bowtie\n2 glint\n3 water\n4 clouds\n5 clear land\n6 unclassified pixel\n7 low confidence fire pixel\n8 nominal confidence fire pixel\n9 high confidence fire pixel",
+      "qa_contract_source": "https://ladsweb.modaps.eosdis.nasa.gov/archive/Document%20Archive/Science%20Data%20Product%20Documentation/VIIRS_C2_AF-375m_User_Guide_1.2.pdf",
+      "sources": [
+        {
+          "file": "VJ114IMG.A2024228.1024.002.2024228171720.nc",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.1024.002.2024228171720/VJ114IMG.A2024228.1024.002.2024228171720.nc",
+          "product": "VJ114IMG.002",
+          "concept_id": "G3197704310-LPCLOUD",
+          "bytes": 683309,
+          "sha256": "a305d4a3b3f1ae213ee17a37395db133d0f8d6e8d31e99e6248362d0e5681e30"
+        },
+        {
+          "file": "VJ103IMG.A2024228.1024.021.2024228163748.nc",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.1024.021.2024228163748.nc",
+          "product": "VJ103IMG.021",
+          "publisher_info": [
+            {
+              "Name": "Not provided",
+              "Size": 139.137912750244,
+              "SizeInBytes": 145896676,
+              "Checksum": {
+                "Value": "4816f06b08fccba5116fcb144c4e092c",
+                "Algorithm": "MD5"
+              },
+              "SizeUnit": "MB"
+            }
+          ],
+          "bytes": 145896676,
+          "sha256": "63af22649b78cbcb7639703a3c3705c04cb6bc5fcfd15d0627ac00c93f44d1f9",
+          "publisher_md5_verified": true
+        }
+      ],
+      "pixel_evidence": {
+        "file": "nasa-viirs-pixel-evidence/VJ114IMG.A2024228.1024.002.2024228171720.nc.npz",
+        "sha256": "17b83bd12be13d686dfb5ec67e61e8dc59b28a233f5b6f57c93e052fa13e556b",
+        "bytes": 9790520
+      }
+    },
+    {
+      "mask_file": "VJ114IMG.A2024228.2006.002.2024229023225.nc",
+      "geolocation_file": "VJ103IMG.A2024228.2006.021.2024229014823.nc",
+      "state": "decoded_native_samples",
+      "product": "VJ114IMG.002",
+      "start": "2024-08-15 20:06:00.000",
+      "end": "2024-08-15 20:12:00.000",
+      "daynight": "Day",
+      "native_shape": [
+        6432,
+        6400
+      ],
+      "counts": {
+        "not_processed": 1,
+        "bowtie_deleted": 293606,
+        "sun_glint": 0,
+        "water": 14593,
+        "cloud": 698125,
+        "clear_nonfire_land": 719494,
+        "unclassified": 0,
+        "low_confidence_fire": 0,
+        "nominal_fire": 0,
+        "high_confidence_fire": 0,
+        "qa_rejected": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 1725819,
+      "unlocatable_samples_in_entire_granule": 0,
+      "alignment_checks": 318,
+      "max_alignment_error_degrees": 0.0,
+      "mask_legend": "0 not-processed (non-zero QF)\n1 bowtie\n2 glint\n3 water\n4 clouds\n5 clear land\n6 unclassified pixel\n7 low confidence fire pixel\n8 nominal confidence fire pixel\n9 high confidence fire pixel",
+      "qa_contract_source": "https://ladsweb.modaps.eosdis.nasa.gov/archive/Document%20Archive/Science%20Data%20Product%20Documentation/VIIRS_C2_AF-375m_User_Guide_1.2.pdf",
+      "sources": [
+        {
+          "file": "VJ114IMG.A2024228.2006.002.2024229023225.nc",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.2006.002.2024229023225/VJ114IMG.A2024228.2006.002.2024229023225.nc",
+          "product": "VJ114IMG.002",
+          "concept_id": "G3198185726-LPCLOUD",
+          "bytes": 3723106,
+          "sha256": "f4e139a6112ec78e6f005f9cfe8585a64e7908c8b3f6eccc1b29bbaa830ddbd1"
+        },
+        {
+          "file": "VJ103IMG.A2024228.2006.021.2024229014823.nc",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.2006.021.2024229014823.nc",
+          "product": "VJ103IMG.021",
+          "publisher_info": [
+            {
+              "Name": "Not provided",
+              "Size": 173.735398292542,
+              "SizeInBytes": 182174769,
+              "Checksum": {
+                "Value": "6b9a567527fa88c0b71036bc0718926a",
+                "Algorithm": "MD5"
+              },
+              "SizeUnit": "MB"
+            }
+          ],
+          "bytes": 182174769,
+          "sha256": "01b27037c91c062aac466025cacdb885d5d98d3b17187148fa77159192f8209f",
+          "publisher_md5_verified": true
+        }
+      ],
+      "pixel_evidence": {
+        "file": "nasa-viirs-pixel-evidence/VJ114IMG.A2024228.2006.002.2024229023225.nc.npz",
+        "sha256": "86178920ce55bbf18460d265e3f05cb285e8d900de737161e459dabde0e8da32",
+        "bytes": 10571537
+      }
+    },
+    {
+      "mask_file": "VJ114IMG.A2024228.2148.002.2024229044423.nc",
+      "geolocation_file": "VJ103IMG.A2024228.2148.021.2024229014821.nc",
+      "state": "decoded_native_samples",
+      "product": "VJ114IMG.002",
+      "start": "2024-08-15 21:48:00.000",
+      "end": "2024-08-15 21:54:00.000",
+      "daynight": "Day",
+      "native_shape": [
+        6464,
+        6400
+      ],
+      "counts": {
+        "not_processed": 5,
+        "bowtie_deleted": 393983,
+        "sun_glint": 0,
+        "water": 11611,
+        "cloud": 751859,
+        "clear_nonfire_land": 442082,
+        "unclassified": 2,
+        "low_confidence_fire": 0,
+        "nominal_fire": 8,
+        "high_confidence_fire": 0,
+        "qa_rejected": 1,
+        "unknown_code": 0
+      },
+      "pixel_samples": 1599551,
+      "unlocatable_samples_in_entire_granule": 0,
+      "alignment_checks": 59,
+      "max_alignment_error_degrees": 0.0,
+      "mask_legend": "0 not-processed (non-zero QF)\n1 bowtie\n2 glint\n3 water\n4 clouds\n5 clear land\n6 unclassified pixel\n7 low confidence fire pixel\n8 nominal confidence fire pixel\n9 high confidence fire pixel",
+      "qa_contract_source": "https://ladsweb.modaps.eosdis.nasa.gov/archive/Document%20Archive/Science%20Data%20Product%20Documentation/VIIRS_C2_AF-375m_User_Guide_1.2.pdf",
+      "sources": [
+        {
+          "file": "VJ114IMG.A2024228.2148.002.2024229044423.nc",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.2148.002.2024229044423/VJ114IMG.A2024228.2148.002.2024229044423.nc",
+          "product": "VJ114IMG.002",
+          "concept_id": "G3198315339-LPCLOUD",
+          "bytes": 1993092,
+          "sha256": "d273a9ee460b250ff2efe2a847f917f90a85670a655adf9d2d8ef34fc148ba92"
+        },
+        {
+          "file": "VJ103IMG.A2024228.2148.021.2024229014821.nc",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.2148.021.2024229014821.nc",
+          "product": "VJ103IMG.021",
+          "publisher_info": [
+            {
+              "Name": "Not provided",
+              "Size": 147.354177474976,
+              "SizeInBytes": 154512054,
+              "Checksum": {
+                "Value": "86f5d53bb7979f7b1dbb16703526ed9e",
+                "Algorithm": "MD5"
+              },
+              "SizeUnit": "MB"
+            }
+          ],
+          "bytes": 154512054,
+          "sha256": "1146b41b1d2fdcb1f5f3029aba75bd898ac31561f180b965a046b049eff354b5",
+          "publisher_md5_verified": true
+        }
+      ],
+      "pixel_evidence": {
+        "file": "nasa-viirs-pixel-evidence/VJ114IMG.A2024228.2148.002.2024229044423.nc.npz",
+        "sha256": "d32d0b6ea01f46ce1b0f5a47ed42cc118108892f1fe9d0d63067b4e47a80ad92",
+        "bytes": 8014504
+      }
+    }
+  ],
+  "counts": {
+    "not_processed": 8,
+    "bowtie_deleted": 981686,
+    "sun_glint": 0,
+    "water": 46934,
+    "cloud": 2157627,
+    "clear_nonfire_land": 2512618,
+    "unclassified": 2,
+    "low_confidence_fire": 0,
+    "nominal_fire": 23,
+    "high_confidence_fire": 0,
+    "qa_rejected": 2,
+    "unknown_code": 0
+  },
+  "pixel_samples": 5698900,
+  "all_selected_decoded": true,
+  "interpretation": "Native pixel observations in the selected box/day. Not pixel-area weighting or a global/history-wide observation denominator. Both day/night swaths remain separate and unobserved areas/times unknown. Product decoding and geolocation are checked; cloud-label physical accuracy is not independently established.",
+  "processor_sha256": "f55b00a464fba35ffe5f18bfbd2a17b3729fc5a22690908f634563d544dc28af",
+  "processed_at_utc": "2026-11-15T14:09:06.772784+00:00"
+}

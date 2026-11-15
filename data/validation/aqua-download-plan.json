@@ -1,0 +1,96 @@
+{
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "date": "2024-08-15",
+  "collection": "MODIS C6.1",
+  "status": "awaiting_user_Earthdata_authentication",
+  "sources": [
+    {
+      "file": "MYD14.A2024228.0955.061.2024229110927.hdf",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.0955.061.2024229110927/MYD14.A2024228.0955.061.2024229110927.hdf",
+      "product": "MYD14.061",
+      "concept_id": "G3199009200-LPCLOUD"
+    },
+    {
+      "file": "MYD03.A2024228.0955.061.2024229150250.hdf",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.0955.061.2024229150250.hdf",
+      "product": "MYD03.061"
+    },
+    {
+      "file": "MYD14.A2024228.1135.061.2024229111336.hdf",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.1135.061.2024229111336/MYD14.A2024228.1135.061.2024229111336.hdf",
+      "product": "MYD14.061",
+      "concept_id": "G3199008932-LPCLOUD"
+    },
+    {
+      "file": "MYD03.A2024228.1135.061.2024229150250.hdf",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.1135.061.2024229150250.hdf",
+      "product": "MYD03.061"
+    },
+    {
+      "file": "MYD14.A2024228.2100.061.2024229112158.hdf",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2100.061.2024229112158/MYD14.A2024228.2100.061.2024229112158.hdf",
+      "product": "MYD14.061",
+      "concept_id": "G3199009194-LPCLOUD"
+    },
+    {
+      "file": "MYD03.A2024228.2100.061.2024229150925.hdf",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2100.061.2024229150925.hdf",
+      "product": "MYD03.061"
+    },
+    {
+      "file": "MYD14.A2024228.2105.061.2024229112242.hdf",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2105.061.2024229112242/MYD14.A2024228.2105.061.2024229112242.hdf",
+      "product": "MYD14.061",
+      "concept_id": "G3199009935-LPCLOUD"
+    },
+    {
+      "file": "MYD03.A2024228.2105.061.2024229150914.hdf",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2105.061.2024229150914.hdf",
+      "product": "MYD03.061"
+    },
+    {
+      "file": "MYD14.A2024228.2240.061.2024229112642.hdf",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2240.061.2024229112642/MYD14.A2024228.2240.061.2024229112642.hdf",
+      "product": "MYD14.061",
+      "concept_id": "G3199009857-LPCLOUD"
+    },
+    {
+      "file": "MYD03.A2024228.2240.061.2024229151443.hdf",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2240.061.2024229151443.hdf",
+      "product": "MYD03.061"
+    }
+  ],
+  "pairs": [
+    {
+      "mask": "MYD14.A2024228.0955.061.2024229110927.hdf",
+      "geolocation": "MYD03.A2024228.0955.061.2024229150250.hdf",
+      "acquisition": "A2024228.0955"
+    },
+    {
+      "mask": "MYD14.A2024228.1135.061.2024229111336.hdf",
+      "geolocation": "MYD03.A2024228.1135.061.2024229150250.hdf",
+      "acquisition": "A2024228.1135"
+    },
+    {
+      "mask": "MYD14.A2024228.2100.061.2024229112158.hdf",
+      "geolocation": "MYD03.A2024228.2100.061.2024229150925.hdf",
+      "acquisition": "A2024228.2100"
+    },
+    {
+      "mask": "MYD14.A2024228.2105.061.2024229112242.hdf",
+      "geolocation": "MYD03.A2024228.2105.061.2024229150914.hdf",
+      "acquisition": "A2024228.2105"
+    },
+    {
+      "mask": "MYD14.A2024228.2240.061.2024229112642.hdf",
+      "geolocation": "MYD03.A2024228.2240.061.2024229151443.hdf",
+      "acquisition": "A2024228.2240"
+    }
+  ],
+  "note": "Exact acquisition and collection pairing from CMR; decoder must still verify shapes and geolocation. No QA results inferred before native products are downloaded."
+}

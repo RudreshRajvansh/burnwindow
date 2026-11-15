@@ -1,0 +1,750 @@
+{
+  "countryInfo.txt": {
+    "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+    "bytes": 32112,
+    "sha256": "79f8f59ea01cbb40438bf1856dd6c2ff201f03f8fc72d0530b2646aaf603ef04",
+    "retrieved_at": "2026-11-15T11:35:10Z"
+  },
+  "snpp-7d.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/active_fire/suomi-npp-viirs-c2/csv/SUOMI_VIIRS_C2_Global_7d.csv",
+    "bytes": 112,
+    "sha256": "fe0401e40606fd90dd4cf24dff508a93539089a4aecf701e2a3c85851fe9bf40",
+    "retrieved_at": "2026-11-15T11:35:11Z"
+  },
+  "world.geojson": {
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "bytes": 838726,
+    "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+    "retrieved_at": "2026-11-15T11:35:10Z"
+  },
+  "modis_2018_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2018_Greece.csv",
+    "bytes": 65529,
+    "sha256": "e3a91967ed530e14e3d054ba6ebed869edda53efd67d6ac8d8b0ee299a9678f4",
+    "retrieved_at": "2026-11-15T11:35:13Z"
+  },
+  "modis_2018_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2018_Kenya.csv",
+    "bytes": 135014,
+    "sha256": "072c22d4f6d9092287c54edb1a531d31895348b5b73a9a48b3bf553559bd685c",
+    "retrieved_at": "2026-11-15T11:35:14Z"
+  },
+  "modis_2018_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2018_Portugal.csv",
+    "bytes": 102991,
+    "sha256": "320e89ce1d21ecd56b4fde4bb32d76953f86ea902876ae1bcee59df4f5671d34",
+    "retrieved_at": "2026-11-15T11:36:58Z"
+  },
+  "modis-7d.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/active_fire/modis-c6.1/csv/MODIS_C6_1_Global_7d.csv",
+    "bytes": 5653329,
+    "sha256": "61b11dd6d21f738f138880b83712cef9a04d59b047150f18317e90778f42eacf",
+    "retrieved_at": "2026-11-15T11:35:15Z"
+  },
+  "modis_2019_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2019_Greece.csv",
+    "bytes": 80383,
+    "sha256": "683fa2469284078fe13d084937f2d89192443b40f316e9ea41b1d1ef744a3e21",
+    "retrieved_at": "2026-11-15T11:36:58Z"
+  },
+  "cities1000.zip": {
+    "url": "https://download.geonames.org/export/dump/cities1000.zip",
+    "bytes": 11096882,
+    "sha256": "94b9d1b363ed0d3dd32f1a0a34622bfd3bdb5cfd454d5c9463d1f6c3e3ef31f3",
+    "retrieved_at": "2026-11-15T11:35:12Z"
+  },
+  "noaa20-7d.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-20-viirs-c2/csv/J1_VIIRS_C2_Global_7d.csv",
+    "bytes": 32092635,
+    "sha256": "1b9c631f391bc5fecdc6e0d967fb5b1e881c06e58dc426f35f100f343d88f67c",
+    "retrieved_at": "2026-11-15T11:37:03Z"
+  },
+  "noaa21-7d.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/active_fire/noaa-21-viirs-c2/csv/J2_VIIRS_C2_Global_7d.csv",
+    "bytes": 30516328,
+    "sha256": "390d50a94511f3e6150050c90a540d273bf843abdbb8223b4f5dd2b21a8b35b8",
+    "retrieved_at": "2026-11-15T11:37:04Z"
+  },
+  "modis_2020_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2020_Greece.csv",
+    "bytes": 89710,
+    "sha256": "ad3075cbdc748811d0e87b387db2a7c6304e5af7fbf52ef7f461198574e80c32",
+    "retrieved_at": "2026-11-15T11:46:31Z"
+  },
+  "modis_2019_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2019_Portugal.csv",
+    "bytes": 100031,
+    "sha256": "75c05687f29938bc26c5ffbf6c23d7492798a090ddb239290a62fd9c88212ac4",
+    "retrieved_at": "2026-11-15T11:46:32Z"
+  },
+  "modis_2020_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2020_Portugal.csv",
+    "bytes": 106460,
+    "sha256": "05733eaeabcd7be8571f9a5e010a1fc6109dc2771538d1f2cf8527e3337c57fd",
+    "retrieved_at": "2026-11-15T11:46:32Z"
+  },
+  "modis_2019_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2019_Kenya.csv",
+    "bytes": 253101,
+    "sha256": "ce3c9ce402f6911a718ecd1b7b77e2bead738605db46dffc7494baf21360f298",
+    "retrieved_at": "2026-11-15T11:46:32Z"
+  },
+  "modis_2020_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2020_Kenya.csv",
+    "bytes": 283682,
+    "sha256": "8c0e706f10c953a89b60023e2d4fcf05731dbfcf5156209bada704389bb82c09",
+    "retrieved_at": "2026-11-15T11:46:33Z"
+  },
+  "challenge.html": {
+    "url": "https://www.spaceappschallenge.org/2026/challenges/harmonization-of-modis-and-viirs-hot-spots/",
+    "error": "HTTPSConnectionPool(host='www.spaceappschallenge.org', port=443): Max retries exceeded with url: /2026/challenges/harmonization-of-modis-and-viirs-hot-spots/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+  },
+  "modis_2021_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2021_Greece.csv",
+    "bytes": 196787,
+    "sha256": "5aaedfb1739565c3570a8cd2c0ccc188dd2d871d73cf33f5e5c190684682432e",
+    "retrieved_at": "2026-11-15T11:46:34Z"
+  },
+  "modis_2021_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2021_Portugal.csv",
+    "bytes": 74425,
+    "sha256": "c801bee9cd6fe681734c618caf180d130adcdfa0489aff3f9401465c1b6e4f74",
+    "retrieved_at": "2026-11-15T11:46:34Z"
+  },
+  "modis_2022_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2022_Greece.csv",
+    "bytes": 89652,
+    "sha256": "ee0f93bb988ba88ee41bd8c7a72163b02100986236132678c07d34e6ec9e21dc",
+    "retrieved_at": "2026-11-15T11:46:34Z"
+  },
+  "modis_2021_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2021_Kenya.csv",
+    "bytes": 290435,
+    "sha256": "1baba69ffcbbd9438604775a87a24f7a58aceba491abc1b6248a69163d6eecac",
+    "retrieved_at": "2026-11-15T11:46:34Z"
+  },
+  "modis_2022_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2022_Kenya.csv",
+    "bytes": 124756,
+    "sha256": "65c729e362f1bf2fbf4e3052606fcf12e9a0efa063f14e38b55c42395890970a",
+    "retrieved_at": "2026-11-15T11:46:35Z"
+  },
+  "modis_2022_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2022_Portugal.csv",
+    "bytes": 179244,
+    "sha256": "5660c6bef3bb901c03f0ef1fbf3f6b9c4265b29fe633e584106eeacabda3887e",
+    "retrieved_at": "2026-11-15T11:46:36Z"
+  },
+  "modis_2023_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2023_Portugal.csv",
+    "bytes": 84920,
+    "sha256": "ec571c1ad891a2394efe2ba68ea5d1cd19b9fecce03655bcf271caaf2f8b4522",
+    "retrieved_at": "2026-11-15T11:46:36Z"
+  },
+  "modis_2023_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2023_Greece.csv",
+    "bytes": 260442,
+    "sha256": "3130a6465f3eefcbd206ad39e0b0fba36c6e09714de2e9aac106499fadc57a9d",
+    "retrieved_at": "2026-11-15T11:46:36Z"
+  },
+  "modis_2023_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2023_Kenya.csv",
+    "bytes": 182529,
+    "sha256": "1885461d1cc1c391d0d80f8330643ab9a913aeb9447ab45868664e89c68a54bd",
+    "retrieved_at": "2026-11-15T11:46:36Z"
+  },
+  "modis_2024_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Greece.csv",
+    "bytes": 102412,
+    "sha256": "909c3c4edfc1d0ffa813377cba5ffccfc465ab91c277f33f1d24779cf5186992",
+    "retrieved_at": "2026-11-15T11:46:37Z"
+  },
+  "modis_2025_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Greece.csv",
+    "bytes": 94741,
+    "sha256": "3cc082501bdbcde41422856ef009b96f1ea3e0b0e23baf3c9f381109054e6110",
+    "retrieved_at": "2026-11-15T11:46:38Z"
+  },
+  "modis_2024_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Portugal.csv",
+    "bytes": 252905,
+    "sha256": "95a510eed0b7cec71bf0cda1adafc3c54618fed61f96cd8119d09a39d683c2b7",
+    "retrieved_at": "2026-11-15T11:46:38Z"
+  },
+  "modis_2024_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Kenya.csv",
+    "bytes": 243893,
+    "sha256": "7ed4692ae4a6c0a9d8b593703a7f4f3b735517aa112dc538b97195ae042b9165",
+    "retrieved_at": "2026-11-15T11:46:39Z"
+  },
+  "modis_2025_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Portugal.csv",
+    "bytes": 391329,
+    "sha256": "5fe8915feff1be2784912bc86a836f5ea4f276445afb38138f3c29be0a9db8d1",
+    "retrieved_at": "2026-11-15T11:46:39Z"
+  },
+  "modis_2025_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Kenya.csv",
+    "bytes": 341517,
+    "sha256": "71ca2ad8b39a07a686df1f590642a520ead18058fe75fd9d696121c03edf71b0",
+    "retrieved_at": "2026-11-15T11:46:39Z"
+  },
+  "viirs-jpss1_2018_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2018_Greece.csv",
+    "bytes": 281707,
+    "sha256": "ae7080cae596b84e9d97625ed2ab08895da530c02e38a0efa5a1bf3016ebe3e9",
+    "retrieved_at": "2026-11-15T11:46:39Z"
+  },
+  "viirs-jpss1_2018_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2018_Portugal.csv",
+    "bytes": 295333,
+    "sha256": "6f38e5bda394d16196bc828bc106248cbc9b60cb9c8acdf7d75830dc613a48dc",
+    "retrieved_at": "2026-11-15T11:46:41Z"
+  },
+  "viirs-jpss1_2018_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2018_Kenya.csv",
+    "bytes": 517855,
+    "sha256": "256b9b05e3de330f32ad81c7fd525d0d80e9635a78f36e892bc0e25293169728",
+    "retrieved_at": "2026-11-15T11:46:41Z"
+  },
+  "viirs-jpss1_2019_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2019_Portugal.csv",
+    "bytes": 289171,
+    "sha256": "0b692c2a7602e0db78cefdf3c30638d32a50487a6cad972c8acf588b003f048d",
+    "retrieved_at": "2026-11-15T11:46:42Z"
+  },
+  "viirs-jpss1_2019_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2019_Greece.csv",
+    "bytes": 413509,
+    "sha256": "6b5f8bc57abda745c444355bf2d10843c83d22ce040d65baad2a587223a2857f",
+    "retrieved_at": "2026-11-15T11:46:42Z"
+  },
+  "viirs-jpss1_2020_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2020_Greece.csv",
+    "bytes": 378662,
+    "sha256": "68345bce4b031feaf7737321251ce73b2bd8e0ec3a119537877a97416faa39a9",
+    "retrieved_at": "2026-11-15T11:46:42Z"
+  },
+  "viirs-jpss1_2019_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2019_Kenya.csv",
+    "bytes": 1616513,
+    "sha256": "f5facbfbb08d653b3d8b738c4d107cb793c159c564ccb859af69945667bb285a",
+    "retrieved_at": "2026-11-15T11:46:42Z"
+  },
+  "viirs-jpss1_2020_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2020_Portugal.csv",
+    "bytes": 320762,
+    "sha256": "915748d97cd8367cc48cd8ab59fa7892fced5c288e320275a59862e1e65dfc71",
+    "retrieved_at": "2026-11-15T11:46:44Z"
+  },
+  "viirs-jpss1_2020_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2020_Kenya.csv",
+    "bytes": 1783161,
+    "sha256": "3019a60b5bb82ac9af27204a8e629a40c552c30b188df2b9f8bc40244ec69ea9",
+    "retrieved_at": "2026-11-15T11:46:44Z"
+  },
+  "viirs-jpss1_2021_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2021_Portugal.csv",
+    "bytes": 200957,
+    "sha256": "13be9621acd55e33a293ad65e93e10a921de0afbcb89c91fded8c13811969679",
+    "retrieved_at": "2026-11-15T11:46:44Z"
+  },
+  "viirs-jpss1_2022_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2022_Greece.csv",
+    "bytes": 404066,
+    "sha256": "7d6fcfb7e3b8a187f20aa4048b73fbb2c9c21c1db6cfab133cdde76c2ff4c6cd",
+    "retrieved_at": "2026-11-15T11:46:45Z"
+  },
+  "viirs-jpss1_2021_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2021_Greece.csv",
+    "bytes": 888944,
+    "sha256": "22d3574be389ab357922bdd1788cb4a01fff40955625f9b9216ef91720acc998",
+    "retrieved_at": "2026-11-15T11:46:45Z"
+  },
+  "viirs-jpss1_2021_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2021_Kenya.csv",
+    "bytes": 1709897,
+    "sha256": "ec9d05bdd7ad2baa60b8a16011131ec624529adfae648a7cd9b8993888e3f041",
+    "retrieved_at": "2026-11-15T11:46:45Z"
+  },
+  "viirs-jpss1_2022_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2022_Kenya.csv",
+    "bytes": 926226,
+    "sha256": "9b41b1bc27e903b37b1916cdb2688b09bdf16e1d007047961846a7efe7c7e3ef",
+    "retrieved_at": "2026-11-15T11:46:47Z"
+  },
+  "viirs-jpss1_2022_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2022_Portugal.csv",
+    "bytes": 471146,
+    "sha256": "746eacbf638a9ce3194cf828ecaff27e3e019a29569a8f1177ba8587cbb671ae",
+    "retrieved_at": "2026-11-15T11:46:47Z"
+  },
+  "viirs-jpss1_2023_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2023_Greece.csv",
+    "bytes": 855918,
+    "sha256": "4e8e1ca9f8ccf7c96108565eae7b1a0804f9ffa15e0de90c73cb04064c1a2cbc",
+    "retrieved_at": "2026-11-15T11:46:47Z"
+  },
+  "viirs-jpss1_2025_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Greece.csv",
+    "bytes": 335553,
+    "sha256": "3fa8b4a0b78b4bd5200e487f7a986915fda4b828a945cac5c4b220ae23b1e82e",
+    "retrieved_at": "2026-11-15T11:36:57Z"
+  },
+  "viirs-jpss1_2025_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Kenya.csv",
+    "bytes": 1965872,
+    "sha256": "ce4c61d9da48885bbc5794098d32faf2e9ae6290b937317722de87dece393182",
+    "retrieved_at": "2026-11-15T11:36:58Z"
+  },
+  "viirs-jpss1_2025_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Portugal.csv",
+    "bytes": 1113849,
+    "sha256": "fd8de11d7232e23eeafdf1bd33e8d7ce0f03fc51b40e8c505352a378f8c033b8",
+    "retrieved_at": "2026-11-15T11:37:00Z"
+  },
+  "viirs-snpp_2018_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2018_Greece.csv",
+    "bytes": 314295,
+    "sha256": "6c2f483c726a9c129e19eacf5d3821f04e0f08b304c2866a74fffd92db6d9feb",
+    "retrieved_at": "2026-11-15T11:37:00Z"
+  },
+  "viirs-snpp_2018_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2018_Kenya.csv",
+    "bytes": 923510,
+    "sha256": "59caa555adfa276b4d271ca2691cdc6d70c3547231189c653a07df9ff4c4d18a",
+    "retrieved_at": "2026-11-15T11:37:02Z"
+  },
+  "viirs-snpp_2018_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2018_Portugal.csv",
+    "bytes": 299634,
+    "sha256": "8cb80293d22bf0c697e856d8756ca443bdeed0706776d49f39c5928f9a567a3d",
+    "retrieved_at": "2026-11-15T11:37:02Z"
+  },
+  "viirs-snpp_2019_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2019_Greece.csv",
+    "bytes": 388512,
+    "sha256": "6df57bab705b6f80bb88e9b1cc3811f1c431ea060ff9805867f13c6a24eac7a1",
+    "retrieved_at": "2026-11-15T11:37:03Z"
+  },
+  "viirs-snpp_2019_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2019_Kenya.csv",
+    "bytes": 1561474,
+    "sha256": "3141df060748c15c12be1af88e951036070cc3eabba89e4c49edd08577158e9c",
+    "retrieved_at": "2026-11-15T11:37:04Z"
+  },
+  "viirs-snpp_2019_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2019_Portugal.csv",
+    "bytes": 297234,
+    "sha256": "79cab83d9a05741935c7f24b680613b7794987e2bc1d0dab7ac02031f8fb909a",
+    "retrieved_at": "2026-11-15T11:37:04Z"
+  },
+  "viirs-snpp_2020_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2020_Greece.csv",
+    "bytes": 352573,
+    "sha256": "6b99b736b1954fd76ae6c65083a0f96ed7e294140fda60cc53dc670e795691a5",
+    "retrieved_at": "2026-11-15T11:37:05Z"
+  },
+  "viirs-snpp_2020_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2020_Kenya.csv",
+    "bytes": 1675804,
+    "sha256": "946b3b7b7e68c0eb3cb1e0c3c5f4954c55b2c25b533f57227c9ce53e43a29648",
+    "retrieved_at": "2026-11-15T11:37:06Z"
+  },
+  "viirs-snpp_2020_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2020_Portugal.csv",
+    "bytes": 295151,
+    "sha256": "b7161890d33f3aa3ecb0670bb5282fb3d6a25ca1a7f2c693210e2a9dffe04c80",
+    "retrieved_at": "2026-11-15T11:37:06Z"
+  },
+  "viirs-snpp_2021_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2021_Greece.csv",
+    "bytes": 824271,
+    "sha256": "57f48c9349e13cb054c799695f4f9f3711425291340aedbb0c798b2cc4e70b5f",
+    "retrieved_at": "2026-11-15T11:37:07Z"
+  },
+  "viirs-snpp_2021_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2021_Kenya.csv",
+    "bytes": 1676638,
+    "sha256": "f8d0300cb540c4a59a06849b3c498589cefe0651749723cf1d041fae62fcf181",
+    "retrieved_at": "2026-11-15T11:37:09Z"
+  },
+  "viirs-snpp_2021_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2021_Portugal.csv",
+    "bytes": 203155,
+    "sha256": "fca5d2baf848553b38c7d97749c95e2d8ecda567b168cd1bb20157c4d25e86b8",
+    "retrieved_at": "2026-11-15T11:37:07Z"
+  },
+  "viirs-snpp_2022_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2022_Greece.csv",
+    "bytes": 357373,
+    "sha256": "20a4d35e431c908e69c7a7b679758aaffecd7ae8ffa999a30a7fb87eebb81534",
+    "retrieved_at": "2026-11-15T11:37:07Z"
+  },
+  "viirs-snpp_2022_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2022_Kenya.csv",
+    "bytes": 894752,
+    "sha256": "12a9a8ccc63eb08afdd57eda13d4e87659b8ae998b369adc30ad222eb9109cd1",
+    "retrieved_at": "2026-11-15T11:37:09Z"
+  },
+  "viirs-snpp_2022_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2022_Portugal.csv",
+    "bytes": 397984,
+    "sha256": "0ad346b221ee68d53d817186b7bfafa2ed981635f7cc5c2a0920597a5c32d3e2",
+    "retrieved_at": "2026-11-15T11:37:09Z"
+  },
+  "viirs-snpp_2023_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2023_Greece.csv",
+    "bytes": 820492,
+    "sha256": "4e2e64268a17f538e1cfffeab4f59aaa0d744db2613593bc0953fe51e56cd855",
+    "retrieved_at": "2026-11-15T11:37:10Z"
+  },
+  "viirs-snpp_2023_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2023_Kenya.csv",
+    "bytes": 1065837,
+    "sha256": "e0f67c8ecb8f0791cd7e7dffae5475de0b83156f8204eab535c4bd924bf44c52",
+    "retrieved_at": "2026-11-15T11:37:10Z"
+  },
+  "viirs-snpp_2023_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2023_Portugal.csv",
+    "bytes": 231545,
+    "sha256": "9814ab8bbd6466a529ade2357fa26eae6c900510c674f1d365ba3777db120500",
+    "retrieved_at": "2026-11-15T11:37:10Z"
+  },
+  "viirs-snpp_2024_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Greece.csv",
+    "bytes": 362508,
+    "sha256": "1924045681eef9ad3300918bd1dfa8685b6827527e2c8b36639436699606a109",
+    "retrieved_at": "2026-11-15T11:37:11Z"
+  },
+  "viirs-snpp_2024_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Kenya.csv",
+    "bytes": 1410735,
+    "sha256": "4829fefb5ad260635b15637d4a55aceca81f5bf1ec496bf031f32a48edb6e0c5",
+    "retrieved_at": "2026-11-15T11:37:12Z"
+  },
+  "viirs-snpp_2024_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Portugal.csv",
+    "bytes": 946487,
+    "sha256": "1f1524c8f621c234ab216098988a6f2bbfbef62aa482be27684e74fa0103e0a5",
+    "retrieved_at": "2026-11-15T11:37:17Z"
+  },
+  "viirs-snpp_2025_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Greece.csv",
+    "bytes": 335287,
+    "sha256": "e06f76145dc9ecbb0e0ef310e1d37201ebfb037c8531522217d4baab8ff590fc",
+    "retrieved_at": "2026-11-15T11:37:14Z"
+  },
+  "viirs-snpp_2025_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Kenya.csv",
+    "bytes": 1960397,
+    "sha256": "397f5160bf691948c288d38557039f82387167df15c5b4d20710c00ea549cf66",
+    "retrieved_at": "2026-11-15T11:37:14Z"
+  },
+  "viirs-snpp_2025_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Portugal.csv",
+    "bytes": 1065513,
+    "sha256": "2a7bc6273ae4cf7c3c3d6d78465a85ce9e5cedc29959b7ea146a8b5f9b69fa6f",
+    "retrieved_at": "2026-11-15T11:37:15Z"
+  },
+  "viirs-jpss1_2023_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2023_Portugal.csv",
+    "bytes": 271978,
+    "sha256": "79ae1fa715e5594b4a27c7f35d573ba630dcd87da3c68af84c5d84cbe310e574",
+    "retrieved_at": "2026-11-15T11:46:48Z"
+  },
+  "viirs-jpss1_2023_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2023_Kenya.csv",
+    "bytes": 1080319,
+    "sha256": "41a9648663a1ea43a52ae660a91a8f36fb4c16ca0bcb7b785f40d294e5ed7d1d",
+    "retrieved_at": "2026-11-15T11:46:48Z"
+  },
+  "viirs-jpss1_2024_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Greece.csv",
+    "bytes": 423376,
+    "sha256": "a411190901d0cbebb5d11dc135bf36b7617db8bc6e3081fc3b9d52958fe13a3d",
+    "retrieved_at": "2026-11-15T11:46:48Z"
+  },
+  "viirs-jpss1_2024_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Kenya.csv",
+    "bytes": 1544084,
+    "sha256": "7892c1401fabc5a750533d58284fc49d2368bf94be778d56bcca8020afe92f69",
+    "retrieved_at": "2026-11-15T11:46:50Z"
+  },
+  "viirs-jpss1_2024_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Portugal.csv",
+    "bytes": 966085,
+    "sha256": "03d4d578a1d955255c13975af563c5d2364c2bf0105d94c320d8d17ae628482f",
+    "retrieved_at": "2026-11-15T11:46:50Z"
+  },
+  "modis_2006_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2006_Portugal.csv",
+    "bytes": 206547,
+    "sha256": "7e1ae79efe56b373ee36a3bb2df7b70ad32b73ebe108026ca947160a7a1836db",
+    "retrieved_at": "2026-11-15T12:44:54.039297+00:00"
+  },
+  "modis_2003_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2003_Portugal.csv",
+    "bytes": 488211,
+    "sha256": "1cc329472d8c53d91c10862c90ae7b961c33bd3a2a72041e33e647bb5d771e83",
+    "retrieved_at": "2026-11-15T12:44:54.831060+00:00"
+  },
+  "modis_2004_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2004_Portugal.csv",
+    "bytes": 236295,
+    "sha256": "6c9895b10da725202cc94ed9df722c8db7132b15f06b2e75bca5549e5998a5f5",
+    "retrieved_at": "2026-11-15T12:44:55.779564+00:00"
+  },
+  "modis_2005_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2005_Portugal.csv",
+    "bytes": 722900,
+    "sha256": "846f52e9711c2e4d31e62616fe96c6fb925f213e1fa33f971ba30eb30d5cba35",
+    "retrieved_at": "2026-11-15T12:44:56.297239+00:00"
+  },
+  "modis_2008_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2008_Portugal.csv",
+    "bytes": 76965,
+    "sha256": "3e21bbe48399c7e2972a7f652406ebe29b553feb7c468afd168bd38368ee4a3f",
+    "retrieved_at": "2026-11-15T12:44:58.178718+00:00"
+  },
+  "modis_2007_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2007_Portugal.csv",
+    "bytes": 122625,
+    "sha256": "06d9d762826986889e5548d11cc806925d4c274f30491daf3c2629dfd5fd3b62",
+    "retrieved_at": "2026-11-15T12:44:58.396941+00:00"
+  },
+  "modis_2009_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2009_Portugal.csv",
+    "bytes": 268219,
+    "sha256": "b43f3796a5af68ca50890ed60b0966900fa5aece84fd5680d01fb31942e118a8",
+    "retrieved_at": "2026-11-15T12:44:59.191363+00:00"
+  },
+  "modis_2010_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2010_Portugal.csv",
+    "bytes": 328523,
+    "sha256": "76cc945bfdfa4bea816d64a641933416b7597e059e5808c520f30a0bdda8315e",
+    "retrieved_at": "2026-11-15T12:45:00.948427+00:00"
+  },
+  "modis_2011_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2011_Portugal.csv",
+    "bytes": 235203,
+    "sha256": "6d5a74f2b405deb221d830945510b938672daeddb91850cfcdce2d01e1ddfb07",
+    "retrieved_at": "2026-11-15T12:45:01.618244+00:00"
+  },
+  "modis_2012_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2012_Portugal.csv",
+    "bytes": 276315,
+    "sha256": "0683942f248162441e71f4a369f9461fedefb447b96586e3a695b7961abd6dd7",
+    "retrieved_at": "2026-11-15T12:45:02.482448+00:00"
+  },
+  "modis_2013_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2013_Portugal.csv",
+    "bytes": 345651,
+    "sha256": "3302c8792616f4b4528738eaaa20240aae2e3c04a99753dbe4d6016bde906e04",
+    "retrieved_at": "2026-11-15T12:45:03.593434+00:00"
+  },
+  "modis_2014_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2014_Portugal.csv",
+    "bytes": 47514,
+    "sha256": "c8a808b7c968896d571a92bc58789d0d40915c18e2dcb59ba2feade366730e73",
+    "retrieved_at": "2026-11-15T12:45:04.666381+00:00"
+  },
+  "modis_2015_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2015_Portugal.csv",
+    "bytes": 159883,
+    "sha256": "822886a003c01e4f28b01bb4956aa67d75a471eef177f8781e588fb8da37c21e",
+    "retrieved_at": "2026-11-15T12:45:04.769445+00:00"
+  },
+  "modis_2016_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2016_Portugal.csv",
+    "bytes": 373472,
+    "sha256": "ab0763a311af365e3293127f45c70d226c0c04d3108c13a2c9432039f55fb3c9",
+    "retrieved_at": "2026-11-15T12:45:06.055598+00:00"
+  },
+  "modis_2003_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2003_Greece.csv",
+    "bytes": 124962,
+    "sha256": "442706998bb5bce889204a225ec86fd187a4d9c3b033757d12cb4137001e5030",
+    "retrieved_at": "2026-11-15T12:45:07.432619+00:00"
+  },
+  "modis_2017_Portugal.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2017_Portugal.csv",
+    "bytes": 517415,
+    "sha256": "ec879bb494c173f252e66269a2613d16106962fe760001e87dcbc8ee2b25d7ef",
+    "retrieved_at": "2026-11-15T12:45:07.835571+00:00"
+  },
+  "modis_2004_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2004_Greece.csv",
+    "bytes": 163543,
+    "sha256": "12e13126abaa100923b7ee3bf4047d45d209ac62d9bac5a4fac5a9637c300c15",
+    "retrieved_at": "2026-11-15T12:45:09.075170+00:00"
+  },
+  "modis_2005_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2005_Greece.csv",
+    "bytes": 139517,
+    "sha256": "3fe597df3e23c6f2d4c0d20358762253783fa9f8a0d705447fcfd7ff57eed083",
+    "retrieved_at": "2026-11-15T12:45:09.515249+00:00"
+  },
+  "modis_2006_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2006_Greece.csv",
+    "bytes": 110019,
+    "sha256": "1001c427ae5514dc500758658938748278a689f5c319f55117f952d6fed54d53",
+    "retrieved_at": "2026-11-15T12:45:10.506661+00:00"
+  },
+  "modis_2008_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2008_Greece.csv",
+    "bytes": 209910,
+    "sha256": "01bbc152876300d4550d95e58d3f54292d9c4623def277a6107d8b4eb4fa0f1c",
+    "retrieved_at": "2026-11-15T12:45:12.042530+00:00"
+  },
+  "modis_2007_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2007_Greece.csv",
+    "bytes": 482801,
+    "sha256": "d9ff2357e893c8bfafa18d952790882ede3b566ae01b30c9edbddfe57c4453cc",
+    "retrieved_at": "2026-11-15T12:45:12.682186+00:00"
+  },
+  "modis_2010_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2010_Greece.csv",
+    "bytes": 72034,
+    "sha256": "58a6ef5e3f686c9e17051a894a5cfdd03129835f8f373bcbf7c995fc38a20e1a",
+    "retrieved_at": "2026-11-15T12:45:13.823510+00:00"
+  },
+  "modis_2009_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2009_Greece.csv",
+    "bytes": 139986,
+    "sha256": "36d535a769c35786ebba7f51b41c3096385d5e9886f35e2f1b83d4aa71a9c3c6",
+    "retrieved_at": "2026-11-15T12:45:14.036961+00:00"
+  },
+  "modis_2011_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2011_Greece.csv",
+    "bytes": 204340,
+    "sha256": "2f096e9ff6ea867177e2407961186a64cc36c110293b15a3a6ca14e28bbce964",
+    "retrieved_at": "2026-11-15T12:45:15.177412+00:00"
+  },
+  "modis_2012_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2012_Greece.csv",
+    "bytes": 166399,
+    "sha256": "79666dfa5de1d5dd74d6047c76a7baffe6efe9bc5d84add17b3ce6fcd1ae048d",
+    "retrieved_at": "2026-11-15T12:45:16.384227+00:00"
+  },
+  "modis_2014_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2014_Greece.csv",
+    "bytes": 104942,
+    "sha256": "aeafedcc665acd1e6dde6a9fb1cd987ee34283a29057e89645db0714d452e8ad",
+    "retrieved_at": "2026-11-15T12:45:16.900427+00:00"
+  },
+  "modis_2013_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2013_Greece.csv",
+    "bytes": 139906,
+    "sha256": "8e3742b79891222753950acdf34fe4785e337b68bd47d5f8b4ee00f56c40f029",
+    "retrieved_at": "2026-11-15T12:45:17.355649+00:00"
+  },
+  "modis_2015_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2015_Greece.csv",
+    "bytes": 101565,
+    "sha256": "cbc734bc420229b5bc236e603441d2a8695e2c9efe89967c3e116d35c22fbcb7",
+    "retrieved_at": "2026-11-15T12:45:18.184058+00:00"
+  },
+  "modis_2016_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2016_Greece.csv",
+    "bytes": 129400,
+    "sha256": "a35e486f1440ef6239852e814f864f579da9a2d645067a3d226c955cb7fe1e10",
+    "retrieved_at": "2026-11-15T12:45:19.436234+00:00"
+  },
+  "modis_2017_Greece.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2017_Greece.csv",
+    "bytes": 116669,
+    "sha256": "cfa42e4ff92ac1131cdea80b8831f9c8c5c213a4347c76177804c3c074d3794c",
+    "retrieved_at": "2026-11-15T12:45:19.745842+00:00"
+  },
+  "modis_2003_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2003_Kenya.csv",
+    "bytes": 431547,
+    "sha256": "134990777edcae50dfb6e2fabf237f720b716b63a9f772b557dc44a96a3b636a",
+    "retrieved_at": "2026-11-15T12:45:20.346350+00:00"
+  },
+  "modis_2004_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2004_Kenya.csv",
+    "bytes": 276009,
+    "sha256": "98d74a54af2c9a9741c45641198ba0a34fa495ef3dd3d492f180dafd0236ef1d",
+    "retrieved_at": "2026-11-15T12:45:21.783901+00:00"
+  },
+  "modis_2006_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2006_Kenya.csv",
+    "bytes": 186672,
+    "sha256": "6691256cf3796b9bd56ce471abbd887579556634df3d615c839f7cd848453df2",
+    "retrieved_at": "2026-11-15T12:45:22.505728+00:00"
+  },
+  "modis_2005_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2005_Kenya.csv",
+    "bytes": 364779,
+    "sha256": "183d02906017be9d262a9bea29798dd5dbffe5416296f478e83f28feeb44a8e5",
+    "retrieved_at": "2026-11-15T12:45:23.057784+00:00"
+  },
+  "modis_2007_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2007_Kenya.csv",
+    "bytes": 386406,
+    "sha256": "cf23be82385eaa15ffb2b833eef9bb0a108215e1efe6c23e8885208494fbf499",
+    "retrieved_at": "2026-11-15T12:45:24.562020+00:00"
+  },
+  "modis_2008_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2008_Kenya.csv",
+    "bytes": 340041,
+    "sha256": "f0ee6543decfb4364581cdbf34f5a5e341262f793c2775dacc75245f57ab41e1",
+    "retrieved_at": "2026-11-15T12:45:25.673791+00:00"
+  },
+  "modis_2010_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2010_Kenya.csv",
+    "bytes": 189889,
+    "sha256": "2016f40f8dbed6ae4b246d5814a3b7daaa8ff46998d6b97ce6c835d850f29b2a",
+    "retrieved_at": "2026-11-15T12:45:26.525096+00:00"
+  },
+  "modis_2009_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2009_Kenya.csv",
+    "bytes": 257897,
+    "sha256": "9a825fe4055c9f13577fd56ac48b71e5434d3d3cfb3c0376e73690085822b8e8",
+    "retrieved_at": "2026-11-15T12:45:27.033886+00:00"
+  },
+  "modis_2011_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2011_Kenya.csv",
+    "bytes": 215084,
+    "sha256": "275ece6619772586dc9afac4746e9ecff6ba10202c32930210ee73bb8bd75ce5",
+    "retrieved_at": "2026-11-15T12:45:28.172585+00:00"
+  },
+  "modis_2012_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2012_Kenya.csv",
+    "bytes": 475659,
+    "sha256": "74247e5e5f315e1645a34e8b4003f2f85a500f3076f8c71f3a1de9a8df34eece",
+    "retrieved_at": "2026-11-15T12:45:29.636088+00:00"
+  },
+  "modis_2013_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2013_Kenya.csv",
+    "bytes": 264465,
+    "sha256": "2ff032445d2e2a5092e356a87a68813f12a02eafc6f7f4df555f1ca8fb47cb9a",
+    "retrieved_at": "2026-11-15T12:45:31.018682+00:00"
+  },
+  "modis_2015_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2015_Kenya.csv",
+    "bytes": 298433,
+    "sha256": "6be495315eae8994110a5886688daeabbfdd9ff1a03df5f018c385d7d1794371",
+    "retrieved_at": "2026-11-15T12:45:31.785138+00:00"
+  },
+  "modis_2016_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2016_Kenya.csv",
+    "bytes": 204688,
+    "sha256": "4740475d985b742c78c08b85a7b8be593408a89918be765418867e428d55f0d6",
+    "retrieved_at": "2026-11-15T12:45:33.596847+00:00"
+  },
+  "modis_2017_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2017_Kenya.csv",
+    "bytes": 144031,
+    "sha256": "c97d1b7b4dab25b90c2f60419439f0635948a450692b024aba8ea4952bc8e1ba",
+    "retrieved_at": "2026-11-15T12:45:34.468579+00:00"
+  },
+  "modis_2014_Kenya.csv": {
+    "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2014_Kenya.csv",
+    "bytes": 198370,
+    "sha256": "dab058b11da69e50ca157208336190647aa7887229de14604cd5fe3a270425b6",
+    "retrieved_at": "2026-11-15T12:45:35.523242+00:00"
+  }
+}

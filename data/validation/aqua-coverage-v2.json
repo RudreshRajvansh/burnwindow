@@ -1,0 +1,59 @@
+{
+  "product": "Aqua MYD14.061 + MYD03.061",
+  "date": "2024-08-15",
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "granules": [
+    {
+      "mask_file": "MYD14.A2024228.0955.061.2024229110927.hdf",
+      "geolocation_file": "MYD03.A2024228.0955.061.2024229150250.hdf",
+      "state": "unverified",
+      "reason": "'int' object is not subscriptable"
+    },
+    {
+      "mask_file": "MYD14.A2024228.1135.061.2024229111336.hdf",
+      "geolocation_file": "MYD03.A2024228.1135.061.2024229150250.hdf",
+      "state": "unverified",
+      "reason": "'int' object is not subscriptable"
+    },
+    {
+      "mask_file": "MYD14.A2024228.2100.061.2024229112158.hdf",
+      "geolocation_file": "MYD03.A2024228.2100.061.2024229150925.hdf",
+      "state": "unverified",
+      "reason": "'int' object is not subscriptable"
+    },
+    {
+      "mask_file": "MYD14.A2024228.2105.061.2024229112242.hdf",
+      "geolocation_file": "MYD03.A2024228.2105.061.2024229150914.hdf",
+      "state": "unverified",
+      "reason": "'int' object is not subscriptable"
+    },
+    {
+      "mask_file": "MYD14.A2024228.2240.061.2024229112642.hdf",
+      "geolocation_file": "MYD03.A2024228.2240.061.2024229151443.hdf",
+      "state": "unverified",
+      "reason": "'int' object is not subscriptable"
+    }
+  ],
+  "counts": {
+    "missing_input": 0,
+    "obsolete_unprocessed": 0,
+    "other_unprocessed": 0,
+    "nonfire_water": 0,
+    "cloud": 0,
+    "nonfire_land": 0,
+    "unknown": 0,
+    "low_fire": 0,
+    "nominal_fire": 0,
+    "high_fire": 0,
+    "unknown_code": 0
+  },
+  "pixel_samples": 0,
+  "all_selected_decoded": false,
+  "interpretation": "Native geolocated product-class samples only. Cloud and nonfire labels are product observations, not independently verified cloud/fire truth. Full-area/day coverage and pixel-area weighting are not established. Raw MODIS QA is not interpreted with NOAA bit meanings.",
+  "processed_at_utc": "2026-11-15T14:06:31.328307+00:00"
+}

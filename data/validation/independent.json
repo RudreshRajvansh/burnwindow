@@ -1,0 +1,4737 @@
+{
+  "title": "Independent MTBS event corroboration",
+  "events": [
+    {
+      "id": "CA4185912384020230815",
+      "name": "KELLY",
+      "attributes": {
+        "objectid": 1043623,
+        "fire_id": "CA4185912384020230815",
+        "fire_name": "KELLY",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 15,
+        "fire_type": "Wildfire",
+        "acres": 90208,
+        "irwinid": "531B9F1B-1B36-4B91-8E63-2AADA4881DEB",
+        "map_id": 10030523,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230815,
+        "pre_id": "804603120230715",
+        "post_id": "804603120240717",
+        "perim_id": "804603120231019",
+        "dnbr_offst": 8,
+        "dnbr_stddv": 17,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 40,
+        "moderate_threshold": 309,
+        "high_threshold": 600,
+        "comments": null,
+        "latitude": 41.90792046,
+        "longitude": -123.85208554,
+        "st_area(shape)": 0.03963841938550077,
+        "st_perimeter(shape)": 1.709858656463843
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 64,
+            "30": 247,
+            "60": 271
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 54,
+            "30": 112,
+            "60": 119
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 396,
+            "30": 1537,
+            "60": 1636
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 628,
+            "30": 2052,
+            "60": 2275
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 611,
+            "30": 1736,
+            "60": 1883
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 944,
+            "30": 2368,
+            "60": 2606
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 67,
+            "30": 278,
+            "60": 311
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 54,
+            "30": 123,
+            "60": 131
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 398,
+            "30": 1580,
+            "60": 1689
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 631,
+            "30": 2134,
+            "60": 2381
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 617,
+            "30": 1808,
+            "60": 1981
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 949,
+            "30": 2429,
+            "60": 2687
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-15",
+      "centroid": [
+        -123.85209953075599,
+        41.90792559249017
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4545812208520230825",
+      "name": "CAMP CREEK",
+      "attributes": {
+        "objectid": 1043652,
+        "fire_id": "OR4545812208520230825",
+        "fire_name": "CAMP CREEK",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 25,
+        "fire_type": "Wildfire",
+        "acres": 2056,
+        "irwinid": "8A6D09B9-4A0B-4215-9AAC-1CC17EEC19EB",
+        "map_id": 10030774,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230825,
+        "pre_id": "804602820230715",
+        "post_id": "904602820240709",
+        "perim_id": null,
+        "dnbr_offst": 28,
+        "dnbr_stddv": 15,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 65,
+        "moderate_threshold": 346,
+        "high_threshold": 650,
+        "comments": null,
+        "latitude": 45.448931120000005,
+        "longitude": -122.08073083999999,
+        "st_area(shape)": 0.0009575761814998572,
+        "st_perimeter(shape)": 0.18478542003981302
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 8,
+            "30": 8,
+            "60": 8
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 14,
+            "30": 14,
+            "60": 14
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 22,
+            "30": 22,
+            "60": 22
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 137,
+            "30": 137,
+            "60": 137
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 32,
+            "30": 32,
+            "60": 32
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 92,
+            "30": 96,
+            "60": 96
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 8,
+            "30": 8,
+            "60": 8
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 15,
+            "30": 15,
+            "60": 15
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 23,
+            "30": 23,
+            "60": 23
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 144,
+            "30": 144,
+            "60": 144
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 35,
+            "30": 35,
+            "60": 35
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 95,
+            "30": 99,
+            "60": 99
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-25",
+      "centroid": [
+        -122.08074521298272,
+        45.44893664179729
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4397112254620230723",
+      "name": "BEDROCK",
+      "attributes": {
+        "objectid": 1043658,
+        "fire_id": "OR4397112254620230723",
+        "fire_name": "BEDROCK",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 23,
+        "fire_type": "Wildfire",
+        "acres": 31663,
+        "irwinid": "A07D9467-CE0F-46B8-ACA1-209FE8A4A9B4",
+        "map_id": 10030785,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230723,
+        "pre_id": "A10TEP20230711_30m",
+        "post_id": "B10TEP20240710_30m",
+        "perim_id": "A10TEP20230909_30m",
+        "dnbr_offst": 21,
+        "dnbr_stddv": 19,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 321,
+        "high_threshold": 600,
+        "comments": null,
+        "latitude": 43.99111537,
+        "longitude": -122.53047543,
+        "st_area(shape)": 0.014388828305499592,
+        "st_perimeter(shape)": 1.0995410008311193
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 35,
+            "30": 147,
+            "60": 151
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 18,
+            "30": 97,
+            "60": 98
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 80,
+            "30": 578,
+            "60": 586
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 301,
+            "30": 1496,
+            "60": 1544
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 127,
+            "30": 588,
+            "60": 597
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 504,
+            "30": 1669,
+            "60": 1702
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 41,
+            "30": 161,
+            "60": 166
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 22,
+            "30": 109,
+            "60": 110
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 90,
+            "30": 595,
+            "60": 603
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 322,
+            "30": 1579,
+            "60": 1635
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 143,
+            "30": 609,
+            "60": 619
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 552,
+            "30": 1765,
+            "60": 1803
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-23",
+      "centroid": [
+        -122.53048958885898,
+        43.99112075314598
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "ID4432811659120230819",
+      "name": "ANT",
+      "attributes": {
+        "objectid": 1043715,
+        "fire_id": "ID4432811659120230819",
+        "fire_name": "ANT",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 19,
+        "fire_type": "Wildfire",
+        "acres": 6564,
+        "irwinid": "47C7D170-2C7F-4244-B1F8-EECD3B314304",
+        "map_id": 10031361,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230819,
+        "pre_id": "904202920230812",
+        "post_id": "904202920230828",
+        "perim_id": null,
+        "dnbr_offst": -4,
+        "dnbr_stddv": 15,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 30,
+        "moderate_threshold": 375,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 44.331903909999994,
+        "longitude": -116.6423335,
+        "st_area(shape)": 0.003000143594000288,
+        "st_perimeter(shape)": 0.4332527353653369
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 5,
+            "30": 5,
+            "60": 5
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 16,
+            "30": 16,
+            "60": 16
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 55,
+            "30": 55,
+            "60": 55
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 12,
+            "30": 12,
+            "60": 12
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 97,
+            "30": 97,
+            "60": 97
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 5,
+            "30": 5,
+            "60": 5
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 19,
+            "30": 19,
+            "60": 19
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 58,
+            "30": 58,
+            "60": 58
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 13,
+            "30": 13,
+            "60": 13
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 104,
+            "30": 104,
+            "60": 104
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-19",
+      "centroid": [
+        -116.64234672056588,
+        44.331909884666295
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "ID4441011648820230819",
+      "name": "RILEY",
+      "attributes": {
+        "objectid": 1043730,
+        "fire_id": "ID4441011648820230819",
+        "fire_name": "RILEY",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 19,
+        "fire_type": "Wildfire",
+        "acres": 1513,
+        "irwinid": "A2792819-BC22-433E-8239-B8C89F22D0ED",
+        "map_id": 10031372,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230819,
+        "pre_id": "904202920230812",
+        "post_id": "904202920230828",
+        "perim_id": null,
+        "dnbr_offst": 4,
+        "dnbr_stddv": 14,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 50,
+        "moderate_threshold": 380,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 44.397423669999995,
+        "longitude": -116.48727329,
+        "st_area(shape)": 0.0006913936385000532,
+        "st_perimeter(shape)": 0.10645834910225989
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-19",
+      "centroid": [
+        -116.48728649559234,
+        44.397429660318856
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4337712360720230825",
+      "name": "COUGAR CR. #1",
+      "attributes": {
+        "objectid": 1043747,
+        "fire_id": "OR4337712360720230825",
+        "fire_name": "COUGAR CR. #1",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 25,
+        "fire_type": "Wildfire",
+        "acres": 6962,
+        "irwinid": "D5FE3AFF-96C9-4972-AA45-87DE90DD147C",
+        "map_id": 10030845,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230825,
+        "pre_id": "804603020230715",
+        "post_id": "904603020240709",
+        "perim_id": "804603020230917",
+        "dnbr_offst": 17,
+        "dnbr_stddv": 13,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 60,
+        "moderate_threshold": 317,
+        "high_threshold": 600,
+        "comments": null,
+        "latitude": 43.37259701,
+        "longitude": -123.59682487,
+        "st_area(shape)": 0.0031332371644998388,
+        "st_perimeter(shape)": 0.5172365730706504
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 15,
+            "30": 19,
+            "60": 19
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 21,
+            "30": 21,
+            "60": 21
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 109,
+            "30": 121,
+            "60": 121
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 243,
+            "30": 282,
+            "60": 282
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 96,
+            "30": 109,
+            "60": 109
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 210,
+            "30": 241,
+            "60": 241
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 17,
+            "30": 24,
+            "60": 24
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 25,
+            "30": 25,
+            "60": 25
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 118,
+            "30": 133,
+            "60": 133
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 280,
+            "30": 326,
+            "60": 326
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 100,
+            "30": 116,
+            "60": 116
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 246,
+            "30": 291,
+            "60": 291
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-25",
+      "centroid": [
+        -123.59683907213925,
+        43.372602260516935
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4340112273520230825",
+      "name": "CHILCOOT",
+      "attributes": {
+        "objectid": 1043749,
+        "fire_id": "OR4340112273520230825",
+        "fire_name": "CHILCOOT",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 25,
+        "fire_type": "Wildfire",
+        "acres": 1695,
+        "irwinid": "C3508196-B91F-43B1-A6BC-5EB39266B901",
+        "map_id": 10030847,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230825,
+        "pre_id": "804603020230715",
+        "post_id": "904603020240709",
+        "perim_id": "804603020230917",
+        "dnbr_offst": 8,
+        "dnbr_stddv": 16,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 60,
+        "moderate_threshold": 330,
+        "high_threshold": 625,
+        "comments": null,
+        "latitude": 43.39856793,
+        "longitude": -122.72851874999999,
+        "st_area(shape)": 0.0007626515129999565,
+        "st_perimeter(shape)": 0.1808852240897039
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 9,
+            "30": 10,
+            "60": 10
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 41,
+            "30": 42,
+            "60": 42
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 74,
+            "30": 81,
+            "60": 81
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 43,
+            "30": 46,
+            "60": 46
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 74,
+            "30": 78,
+            "60": 78
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 14,
+            "30": 16,
+            "60": 16
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 12,
+            "30": 12,
+            "60": 12
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 51,
+            "30": 52,
+            "60": 52
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 114,
+            "30": 124,
+            "60": 124
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 48,
+            "30": 51,
+            "60": 51
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 94,
+            "30": 99,
+            "60": 99
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-25",
+      "centroid": [
+        -122.72853283145355,
+        43.39857325933534
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4341012348120230825",
+      "name": "LIGHTHOUSE RD #3",
+      "attributes": {
+        "objectid": 1043750,
+        "fire_id": "OR4341012348120230825",
+        "fire_name": "LIGHTHOUSE RD #3",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 25,
+        "fire_type": "Wildfire",
+        "acres": 1286,
+        "irwinid": "6FC52B72-B9C0-4612-850B-842423F74F1E",
+        "map_id": 10030850,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230825,
+        "pre_id": "804603020230715",
+        "post_id": "904603020240709",
+        "perim_id": "804603020230917",
+        "dnbr_offst": 33,
+        "dnbr_stddv": 14,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 334,
+        "high_threshold": 625,
+        "comments": null,
+        "latitude": 43.407942469999995,
+        "longitude": -123.49160473,
+        "st_area(shape)": 0.0005782778635002126,
+        "st_perimeter(shape)": 0.11243946617678446
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 5,
+            "60": 5
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 17,
+            "30": 17,
+            "60": 17
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 37,
+            "30": 39,
+            "60": 39
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 19,
+            "30": 19,
+            "60": 19
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 31,
+            "30": 32,
+            "60": 32
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 18,
+            "30": 18,
+            "60": 18
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 44,
+            "30": 46,
+            "60": 46
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 23,
+            "30": 23,
+            "60": 23
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 35,
+            "30": 37,
+            "60": 37
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-25",
+      "centroid": [
+        -123.49161893242722,
+        43.40794772543127
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "ID4337111619520230710",
+      "name": "SOUTHTOM",
+      "attributes": {
+        "objectid": 1043764,
+        "fire_id": "ID4337111619520230710",
+        "fire_name": "SOUTHTOM",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 10,
+        "fire_type": "Wildfire",
+        "acres": 1131,
+        "irwinid": "2417360F-0D3F-41F0-9568-9DF4954704F6",
+        "map_id": 10031769,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230710,
+        "pre_id": "904103020230704",
+        "post_id": "904203020230711",
+        "perim_id": null,
+        "dnbr_offst": 1,
+        "dnbr_stddv": 8,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 20,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 43.3536841,
+        "longitude": -116.17591448,
+        "st_area(shape)": 0.0005078742160002297,
+        "st_perimeter(shape)": 0.1265142310424159
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-10",
+      "centroid": [
+        -116.17592744337324,
+        43.35369003145704
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4251612403720230716",
+      "name": "FLAT",
+      "attributes": {
+        "objectid": 1043774,
+        "fire_id": "OR4251612403720230716",
+        "fire_name": "FLAT",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 16,
+        "fire_type": "Wildfire",
+        "acres": 34472,
+        "irwinid": "76502E27-4AE0-4100-A9AD-F1850B16333D",
+        "map_id": 10030883,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230716,
+        "pre_id": "904603120220720",
+        "post_id": "904603120240709",
+        "perim_id": null,
+        "dnbr_offst": 8,
+        "dnbr_stddv": 15,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 50,
+        "moderate_threshold": 286,
+        "high_threshold": 550,
+        "comments": null,
+        "latitude": 42.45683278,
+        "longitude": -124.09593772,
+        "st_area(shape)": 0.01527977718800047,
+        "st_perimeter(shape)": 0.8675121906075719
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 96,
+            "30": 174,
+            "60": 174
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 51,
+            "30": 61,
+            "60": 61
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 505,
+            "30": 966,
+            "60": 966
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 782,
+            "30": 1223,
+            "60": 1224
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 257,
+            "30": 720,
+            "60": 720
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 295,
+            "30": 801,
+            "60": 801
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 100,
+            "30": 196,
+            "60": 196
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 54,
+            "30": 66,
+            "60": 66
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 537,
+            "30": 1033,
+            "60": 1033
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 825,
+            "30": 1279,
+            "60": 1280
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 264,
+            "30": 774,
+            "60": 774
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 303,
+            "30": 820,
+            "60": 820
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-16",
+      "centroid": [
+        -124.09595183896516,
+        42.45683792460761
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4396912190120230825",
+      "name": "PETES LAKE",
+      "attributes": {
+        "objectid": 1043784,
+        "fire_id": "OR4396912190120230825",
+        "fire_name": "PETES LAKE",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 25,
+        "fire_type": "Wildfire",
+        "acres": 3372,
+        "irwinid": "B4361260-2C9A-40BB-BEA8-D92B96122CB1",
+        "map_id": 10031414,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230825,
+        "pre_id": "904502920230801",
+        "post_id": "804502920240811",
+        "perim_id": null,
+        "dnbr_offst": 14,
+        "dnbr_stddv": 16,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 330,
+        "high_threshold": 570,
+        "comments": "Fire severity could be misrepresented in wetland areas.",
+        "latitude": 43.96696877,
+        "longitude": -121.91250575999999,
+        "st_area(shape)": 0.001530498191999763,
+        "st_perimeter(shape)": 0.3158856035278666
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 4,
+            "30": 18,
+            "60": 18
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 6,
+            "60": 6
+          },
+          "first_report_day_offset": 21,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 17,
+            "30": 89,
+            "60": 89
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 17,
+            "30": 188,
+            "60": 190
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 11,
+            "30": 99,
+            "60": 99
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 18,
+            "30": 184,
+            "60": 184
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 28,
+            "60": 28
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 6,
+            "60": 6
+          },
+          "first_report_day_offset": 21,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 19,
+            "30": 104,
+            "60": 104
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 18,
+            "30": 211,
+            "60": 213
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 14,
+            "30": 120,
+            "60": 120
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 18,
+            "30": 205,
+            "60": 205
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-25",
+      "centroid": [
+        -121.91251982186742,
+        43.966974212656844
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4480811995920230706",
+      "name": "0407 PR ALDER CREEK",
+      "attributes": {
+        "objectid": 1043785,
+        "fire_id": "OR4480811995920230706",
+        "fire_name": "0407 PR ALDER CREEK",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 6,
+        "fire_type": "Wildfire",
+        "acres": 1652,
+        "irwinid": "BA9283A2-2181-41AD-A24E-15C519686E7B",
+        "map_id": 10031415,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230706,
+        "pre_id": "804402920230701",
+        "post_id": "804402920230717",
+        "perim_id": null,
+        "dnbr_offst": -7,
+        "dnbr_stddv": 13,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 30,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 44.79770828,
+        "longitude": -119.93602017,
+        "st_area(shape)": 0.0007605972739997165,
+        "st_perimeter(shape)": 0.14427776991005342
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 15,
+            "30": 15,
+            "60": 15
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 17,
+            "30": 17,
+            "60": 17
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 22,
+            "30": 22,
+            "60": 22
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 15,
+            "30": 15,
+            "60": 15
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 22,
+            "30": 22,
+            "60": 22
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 26,
+            "30": 26,
+            "60": 26
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-06",
+      "centroid": [
+        -119.93603406161603,
+        44.797713975892236
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4306012146920230520",
+      "name": "DILLON CREEK",
+      "attributes": {
+        "objectid": 1043834,
+        "fire_id": "OR4306012146920230520",
+        "fire_name": "DILLON CREEK",
+        "year": 2023,
+        "startmonth": 5,
+        "startday": 20,
+        "fire_type": "Wildfire",
+        "acres": 3161,
+        "irwinid": "D9FE92FB-103C-447A-83C0-E4D36E8BFB5F",
+        "map_id": 10030962,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230520,
+        "pre_id": "804503020220721",
+        "post_id": "804503020240710",
+        "perim_id": "904503020230716",
+        "dnbr_offst": -38,
+        "dnbr_stddv": 31,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 30,
+        "moderate_threshold": 275,
+        "high_threshold": 500,
+        "comments": null,
+        "latitude": 43.05106433,
+        "longitude": -121.46924364,
+        "st_area(shape)": 0.0014130104075000974,
+        "st_perimeter(shape)": 0.1676297130186379
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 20,
+            "30": 28,
+            "60": 28
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 47,
+            "30": 88,
+            "60": 88
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 15,
+            "30": 20,
+            "60": 20
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 34,
+            "30": 82,
+            "60": 82
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 6,
+            "30": 6,
+            "60": 6
+          },
+          "first_report_day_offset": 4,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 33,
+            "30": 43,
+            "60": 43
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 48,
+            "30": 90,
+            "60": 90
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 19,
+            "30": 24,
+            "60": 24
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 36,
+            "30": 87,
+            "60": 87
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-05-20",
+      "centroid": [
+        -121.46925746427371,
+        43.051069756664376
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4233512140520230722",
+      "name": "GOLDEN",
+      "attributes": {
+        "objectid": 1043835,
+        "fire_id": "OR4233512140520230722",
+        "fire_name": "GOLDEN",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 22,
+        "fire_type": "Wildfire",
+        "acres": 2224,
+        "irwinid": "29AD6FD0-CEC2-4488-B46E-A9503B134A5C",
+        "map_id": 10030940,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230722,
+        "pre_id": "904503120230716",
+        "post_id": "804503120240710",
+        "perim_id": "804503120230809",
+        "dnbr_offst": -20,
+        "dnbr_stddv": 32,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 10,
+        "moderate_threshold": 252,
+        "high_threshold": 500,
+        "comments": null,
+        "latitude": 42.33280064,
+        "longitude": -121.38078271,
+        "st_area(shape)": 0.0009833633215003013,
+        "st_perimeter(shape)": 0.15595838113796953
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 66,
+            "30": 66,
+            "60": 66
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 84,
+            "30": 84,
+            "60": 84
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 80,
+            "30": 80,
+            "60": 80
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 96,
+            "30": 96,
+            "60": 96
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-22",
+      "centroid": [
+        -121.38079640214599,
+        42.33280601839749
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4292712167320230923",
+      "name": "MARSH",
+      "attributes": {
+        "objectid": 1043839,
+        "fire_id": "OR4292712167320230923",
+        "fire_name": "MARSH",
+        "year": 2023,
+        "startmonth": 9,
+        "startday": 23,
+        "fire_type": "Wildfire",
+        "acres": 2682,
+        "irwinid": "BED920A7-D8AE-42F6-921B-B376C2DCE30C",
+        "map_id": 10030961,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230923,
+        "pre_id": "A10TFN20230919_30m",
+        "post_id": "B10TFN20231001_30m",
+        "perim_id": null,
+        "dnbr_offst": 46,
+        "dnbr_stddv": 27,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 90,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 42.930188140000006,
+        "longitude": -121.67337864,
+        "st_area(shape)": 0.0011980492105001367,
+        "st_perimeter(shape)": 0.18431434988152692
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 17,
+            "30": 17,
+            "60": 17
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 20,
+            "30": 20,
+            "60": 20
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-09-23",
+      "centroid": [
+        -121.67339247822112,
+        42.93019353679053
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4545912048220230829",
+      "name": "0748 RV COTTONWOOD",
+      "attributes": {
+        "objectid": 1043845,
+        "fire_id": "OR4545912048220230829",
+        "fire_name": "0748 RV COTTONWOOD",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 29,
+        "fire_type": "Wildfire",
+        "acres": 2230,
+        "irwinid": "A0F9C985-7C10-49F0-808A-6B8EFFFC9D55",
+        "map_id": 10030971,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230829,
+        "pre_id": "A10TFR20230827_30m",
+        "post_id": "A10TFR20230906_30m",
+        "perim_id": null,
+        "dnbr_offst": 67,
+        "dnbr_stddv": 15,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 100,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 45.44895217,
+        "longitude": -120.47403095,
+        "st_area(shape)": 0.0010376115299999612,
+        "st_perimeter(shape)": 0.24896707398938123
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 5,
+            "60": 5
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-29",
+      "centroid": [
+        -120.47404506314396,
+        45.448957851029455
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4539112045420230710",
+      "name": "DEVILS BUTTE 0439 RV",
+      "attributes": {
+        "objectid": 1043846,
+        "fire_id": "OR4539112045420230710",
+        "fire_name": "DEVILS BUTTE 0439 RV",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 10,
+        "fire_type": "Wildfire",
+        "acres": 2939,
+        "irwinid": "2E30CFDF-FD45-4AD8-99C5-625FCF0294A3",
+        "map_id": 10030972,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230710,
+        "pre_id": "804502820230708",
+        "post_id": "904502820230716",
+        "perim_id": null,
+        "dnbr_offst": 23,
+        "dnbr_stddv": 9,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 40,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 45.37378752,
+        "longitude": -120.40227259999999,
+        "st_area(shape)": 0.0013654762680000445,
+        "st_perimeter(shape)": 0.25426432570225255
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 1,
+            "30": 1,
+            "60": 1
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 36,
+            "30": 36,
+            "60": 36
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 5,
+            "60": 5
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 46,
+            "30": 46,
+            "60": 46
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 2,
+            "30": 2,
+            "60": 2
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-10",
+      "centroid": [
+        -120.40228668445211,
+        45.373793208362436
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4590811915320230613",
+      "name": "HAT ROCK",
+      "attributes": {
+        "objectid": 1043864,
+        "fire_id": "OR4590811915320230613",
+        "fire_name": "HAT ROCK",
+        "year": 2023,
+        "startmonth": 6,
+        "startday": 13,
+        "fire_type": "Wildfire",
+        "acres": 17259,
+        "irwinid": "581EB6AE-9DAA-451B-8372-42E515197461",
+        "map_id": 10030627,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230613,
+        "pre_id": "804402820230530",
+        "post_id": "904402820230623",
+        "perim_id": null,
+        "dnbr_offst": -5,
+        "dnbr_stddv": 24,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 40,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 45.96067179,
+        "longitude": -118.9942221,
+        "st_area(shape)": 0.008106163200499854,
+        "st_perimeter(shape)": 0.7808339725480955
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 43,
+            "30": 43,
+            "60": 43
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 13,
+            "30": 13,
+            "60": 13
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 11,
+            "30": 11,
+            "60": 11
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 22,
+            "30": 22,
+            "60": 22
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 46,
+            "30": 46,
+            "60": 46
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 15,
+            "30": 15,
+            "60": 15
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 15,
+            "30": 15,
+            "60": 15
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 22,
+            "30": 22,
+            "60": 22
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-06-13",
+      "centroid": [
+        -118.994236065525,
+        45.960677663678354
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "WA4583112045920230721",
+      "name": "NEWELL ROAD",
+      "attributes": {
+        "objectid": 1043869,
+        "fire_id": "WA4583112045920230721",
+        "fire_name": "NEWELL ROAD",
+        "year": 2023,
+        "startmonth": 7,
+        "startday": 21,
+        "fire_type": "Wildfire",
+        "acres": 61843,
+        "irwinid": "5DF2254C-A91E-4289-B3F6-F3AC487701DD",
+        "map_id": 10030974,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230721,
+        "pre_id": "804402820230717",
+        "post_id": "904502820230801",
+        "perim_id": null,
+        "dnbr_offst": 5,
+        "dnbr_stddv": 20,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 350,
+        "high_threshold": 630,
+        "comments": null,
+        "latitude": 45.82882204,
+        "longitude": -120.35069929,
+        "st_area(shape)": 0.028974542350500374,
+        "st_perimeter(shape)": 1.316551946727544
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 52,
+            "30": 52,
+            "60": 52
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 37,
+            "30": 37,
+            "60": 37
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 296,
+            "30": 296,
+            "60": 296
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 435,
+            "30": 435,
+            "60": 435
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 60,
+            "30": 60,
+            "60": 60
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 212,
+            "30": 212,
+            "60": 212
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 60,
+            "30": 60,
+            "60": 60
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 39,
+            "30": 39,
+            "60": 39
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 301,
+            "30": 301,
+            "60": 301
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 451,
+            "30": 451,
+            "60": 451
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 74,
+            "30": 74,
+            "60": 74
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 233,
+            "30": 233,
+            "60": 233
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-07-21",
+      "centroid": [
+        -120.3507134568623,
+        45.82882776140947
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4242612068520230918",
+      "name": "MORGAN",
+      "attributes": {
+        "objectid": 1043973,
+        "fire_id": "OR4242612068520230918",
+        "fire_name": "MORGAN",
+        "year": 2023,
+        "startmonth": 9,
+        "startday": 18,
+        "fire_type": "Wildfire",
+        "acres": 2348,
+        "irwinid": "C88F4251-829A-4D08-89B5-59FA39C4FB15",
+        "map_id": 10031685,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230918,
+        "pre_id": "804403020230701",
+        "post_id": "804403020240703",
+        "perim_id": "804403020231005",
+        "dnbr_offst": 20,
+        "dnbr_stddv": 32,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 280,
+        "high_threshold": 525,
+        "comments": null,
+        "latitude": 42.41484557,
+        "longitude": -120.66598583,
+        "st_area(shape)": 0.0010405952359998436,
+        "st_perimeter(shape)": 0.18518415035747438
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 7,
+            "30": 7,
+            "60": 7
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 30,
+            "30": 30,
+            "60": 30
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 94,
+            "30": 94,
+            "60": 94
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 30,
+            "30": 30,
+            "60": 30
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 63,
+            "30": 63,
+            "60": 63
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 13,
+            "30": 13,
+            "60": 13
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 12,
+            "30": 12,
+            "60": 12
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 42,
+            "30": 42,
+            "60": 42
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 119,
+            "30": 119,
+            "60": 119
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 31,
+            "30": 31,
+            "60": 31
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 94,
+            "30": 94,
+            "60": 94
+          },
+          "first_report_day_offset": 1,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-09-18",
+      "centroid": [
+        -120.6659994150461,
+        42.41485102150582
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4311611822920230801",
+      "name": "CORBIE",
+      "attributes": {
+        "objectid": 1043995,
+        "fire_id": "OR4311611822920230801",
+        "fire_name": "CORBIE",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 1,
+        "fire_type": "Wildfire",
+        "acres": 1010,
+        "irwinid": "B07C7250-B9DF-4FFA-A4D9-44B1BBB9C203",
+        "map_id": 10031689,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230801,
+        "pre_id": "904203020230727",
+        "post_id": "904203020230812",
+        "perim_id": null,
+        "dnbr_offst": 27,
+        "dnbr_stddv": 10,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 50,
+        "moderate_threshold": 9999,
+        "high_threshold": 9999,
+        "comments": null,
+        "latitude": 43.09514822,
+        "longitude": -118.20960137,
+        "st_area(shape)": 0.00045321165882638,
+        "st_perimeter(shape)": 0.11807399770099417
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 6,
+            "30": 6,
+            "60": 6
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 13,
+            "30": 13,
+            "60": 13
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-01",
+      "centroid": [
+        -118.20961465758678,
+        43.095153950182436
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4422212214620230806",
+      "name": "LOOKOUT",
+      "attributes": {
+        "objectid": 1044562,
+        "fire_id": "OR4422212214620230806",
+        "fire_name": "LOOKOUT",
+        "year": 2023,
+        "startmonth": 8,
+        "startday": 6,
+        "fire_type": "Wildfire",
+        "acres": 25057,
+        "irwinid": "A744D6E2-59F8-44D1-A629-985CAB25DD95",
+        "map_id": 10032662,
+        "map_prog": "MTBS",
+        "asmnt_type": "Extended",
+        "ig_date": 20230806,
+        "pre_id": "804602920230731",
+        "post_id": "904602920240826",
+        "perim_id": "904502920231004",
+        "dnbr_offst": 0,
+        "dnbr_stddv": 27,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 74,
+        "moderate_threshold": 308,
+        "high_threshold": 573,
+        "comments": null,
+        "latitude": 44.22376722,
+        "longitude": -122.13118451,
+        "st_area(shape)": 0.011431476483000946,
+        "st_perimeter(shape)": 0.7921625956039512
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 48,
+            "60": 51
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 73,
+            "60": 76
+          },
+          "first_report_day_offset": 7,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 467,
+            "60": 478
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 16,
+            "30": 1232,
+            "60": 1308
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 9,
+            "30": 418,
+            "60": 434
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 19,
+            "30": 1092,
+            "60": 1176
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 2,
+            "30": 57,
+            "60": 63
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 75,
+            "60": 81
+          },
+          "first_report_day_offset": 7,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 5,
+            "30": 479,
+            "60": 492
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 16,
+            "30": 1280,
+            "60": 1373
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 9,
+            "30": 439,
+            "60": 462
+          },
+          "first_report_day_offset": 5,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 19,
+            "30": 1131,
+            "60": 1241
+          },
+          "first_report_day_offset": 2,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-08-06",
+      "centroid": [
+        -122.13119865037609,
+        44.22377265587783
+      ],
+      "state": "scored"
+    },
+    {
+      "id": "OR4478712099720230917",
+      "name": "0810 RV TROUT CREEK",
+      "attributes": {
+        "objectid": 1045597,
+        "fire_id": "OR4478712099720230917",
+        "fire_name": "0810 RV TROUT CREEK",
+        "year": 2023,
+        "startmonth": 9,
+        "startday": 17,
+        "fire_type": "Wildfire",
+        "acres": 1327,
+        "irwinid": "E6B31775-863D-4284-843D-AA4DA6E25C09",
+        "map_id": 10035137,
+        "map_prog": "MTBS",
+        "asmnt_type": "Initial",
+        "ig_date": 20230917,
+        "pre_id": "A10TFQ20230909_30m",
+        "post_id": "B10TFQ20231004_30m",
+        "perim_id": null,
+        "dnbr_offst": 14,
+        "dnbr_stddv": 0,
+        "nodata_threshold": -970,
+        "greenness_threshold": -150,
+        "low_threshold": 70,
+        "moderate_threshold": 300,
+        "high_threshold": 901,
+        "comments": null,
+        "latitude": 44.79676961,
+        "longitude": -120.97238194,
+        "st_area(shape)": 0.0006661665997378999,
+        "st_perimeter(shape)": 0.16824998160224225
+      },
+      "cases": [
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 4,
+            "30": 4,
+            "60": 4
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 0,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "D",
+          "counts": {
+            "7": 8,
+            "30": 8,
+            "60": 8
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "aqua",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "D",
+          "counts": {
+            "7": 3,
+            "30": 3,
+            "60": 3
+          },
+          "first_report_day_offset": 0,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "snpp",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "D",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        },
+        {
+          "buffer_km": 1,
+          "sensor": "noaa20",
+          "daynight": "N",
+          "counts": {
+            "7": 0,
+            "30": 0,
+            "60": 0
+          },
+          "first_report_day_offset": null,
+          "pre_ignition_7day_reports": 0
+        }
+      ],
+      "ignition": "2023-09-17",
+      "centroid": [
+        -120.97239600714421,
+        44.796775205847915
+      ],
+      "state": "scored"
+    }
+  ],
+  "summary": [
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 19,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.8260869565217391
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 19,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.8260869565217391
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 19,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.8260869565217391
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 12,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.5217391304347826
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 14,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.6086956521739131
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 14,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.6086956521739131
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 12,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.5217391304347826
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 14,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.6086956521739131
+    },
+    {
+      "sensor": "aqua",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 14,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.6086956521739131
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 21,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.9130434782608695
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "snpp",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 18,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.782608695652174
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 18,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.782608695652174
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "D",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 18,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.782608695652174
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 0,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 7,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 30,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    },
+    {
+      "sensor": "noaa20",
+      "daynight": "N",
+      "buffer_km": 1,
+      "window_days": 60,
+      "events_with_reports": 17,
+      "evaluated_events": 23,
+      "selected_events": 23,
+      "fraction": 0.7391304347826086
+    }
+  ],
+  "sources": [
+    {
+      "id": "modis_2023_United_States.csv",
+      "product": "modis",
+      "year": 2023,
+      "country": "United_States",
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2023_United_States.csv",
+      "sha256": "8f693b80488414db0494deac1081f4c658769618100e402a830fb823f8f6ec1f",
+      "bytes": 7572283,
+      "audit": {
+        "read": 94000,
+        "rejected": 0,
+        "eligible": 46270
+      }
+    },
+    {
+      "id": "viirs-snpp_2023_United_States.csv",
+      "product": "snpp",
+      "year": 2023,
+      "country": "United_States",
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2023_United_States.csv",
+      "sha256": "d419abfb7d39d8040fd4487aee7e8003b1940ae5eb0cd95aa244cd7e303d4b4d",
+      "bytes": 30962191,
+      "audit": {
+        "read": 388672,
+        "rejected": 0,
+        "eligible": 289456
+      }
+    },
+    {
+      "id": "viirs-jpss1_2023_United_States.csv",
+      "product": "noaa20",
+      "year": 2023,
+      "country": "United_States",
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2023_United_States.csv",
+      "sha256": "4ba7e307439e9eb7ada988fddb80e5833f062da80b51b2253fe416e23234df69",
+      "bytes": 31926156,
+      "audit": {
+        "read": 390873,
+        "rejected": 0,
+        "eligible": 290194
+      }
+    }
+  ],
+  "reference_manifest": {
+    "provider": "USGS/USFS MTBS",
+    "reference": "Landsat/Sentinel-2 postfire burned-area mapping with incident attributes",
+    "query_urls": [
+      "https://apps.fs.usda.gov/ArcX/rest/services/EDW/EDW_MTBS_01/MapServer/80/query?f=json&where=year%3D2023+AND+fire_type%3D%27Wildfire%27&geometry=-124%2C42%2C-116%2C46&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&returnIdsOnly=true",
+      "https://apps.fs.usda.gov/ArcX/rest/services/EDW/EDW_MTBS_01/MapServer/80/query?f=geojson&objectIds=1043623%2C1043652%2C1043658%2C1043715%2C1043730%2C1043747%2C1043749%2C1043750%2C1043764%2C1043774%2C1043784%2C1043785%2C1043834%2C1043835%2C1043839%2C1043845%2C1043846%2C1043864%2C1043869%2C1043973%2C1043995%2C1044562%2C1045597&outFields=%2A&outSR=4326&returnGeometry=true"
+    ],
+    "selected_ids": [
+      1043623,
+      1043652,
+      1043658,
+      1043715,
+      1043730,
+      1043747,
+      1043749,
+      1043750,
+      1043764,
+      1043774,
+      1043784,
+      1043785,
+      1043834,
+      1043835,
+      1043839,
+      1043845,
+      1043846,
+      1043864,
+      1043869,
+      1043973,
+      1043995,
+      1044562,
+      1045597
+    ],
+    "events": 23,
+    "sha256": "7e50d4abc88f6d5c46e4b9f3723a6fb55b9221656ccc88382505127b2507e8f2",
+    "selection_complete": true,
+    "limitations": "Large mapped fires only; omitted/unmapped/small events are not negatives. Ignition dates do not specify fire cessation or pixel burning time."
+  },
+  "spatial_filter_bounds": [
+    -124.23101612711844,
+    41.72769611446363,
+    -116.12355895721994,
+    46.04331587657433
+  ],
+  "candidate_reports": 44671,
+  "interpretation": "Mapped-event corroboration only. A report inside the eventual burned perimeter is not proof it detected that specific event. Reference dates are day-resolution, windows are [ignition, ignition + N days), incomplete/small/unmapped fires are not negatives, and no precision/recall or true detection-latency claim is made.",
+  "protocol_sha256": "e8b0549fedd46e23c42f55197aee6116308d307316a0813e4f92605422f5fdb2",
+  "scored_at_utc": "2026-11-15T13:37:10.396244+00:00",
+  "evaluator_sha256": "3631bb83a7e778833ec91569a5f15061aef9dc5a47fd034c857ec8e2ed5a3507"
+}

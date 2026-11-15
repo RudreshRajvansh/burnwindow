@@ -1,0 +1,126 @@
+{
+  "date": "2024-08-15",
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "selection": "All four NOAA-20 NASA-standard fire granules returned by the complete CMR query for the same predefined box and day. No selection by pixel outcome.",
+  "pairs": [
+    {
+      "mask": "VJ114IMG.A2024228.0842.002.2024228143623.nc",
+      "geolocation": "VJ103IMG.A2024228.0842.021.2024228135602.nc",
+      "acquisition": "A2024228.0842"
+    },
+    {
+      "mask": "VJ114IMG.A2024228.1024.002.2024228171720.nc",
+      "geolocation": "VJ103IMG.A2024228.1024.021.2024228163748.nc",
+      "acquisition": "A2024228.1024"
+    },
+    {
+      "mask": "VJ114IMG.A2024228.2006.002.2024229023225.nc",
+      "geolocation": "VJ103IMG.A2024228.2006.021.2024229014823.nc",
+      "acquisition": "A2024228.2006"
+    },
+    {
+      "mask": "VJ114IMG.A2024228.2148.002.2024229044423.nc",
+      "geolocation": "VJ103IMG.A2024228.2148.021.2024229014821.nc",
+      "acquisition": "A2024228.2148"
+    }
+  ],
+  "sources": [
+    {
+      "file": "VJ114IMG.A2024228.0842.002.2024228143623.nc",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.0842.002.2024228143623/VJ114IMG.A2024228.0842.002.2024228143623.nc",
+      "product": "VJ114IMG.002",
+      "concept_id": "G3197610116-LPCLOUD"
+    },
+    {
+      "file": "VJ103IMG.A2024228.0842.021.2024228135602.nc",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.0842.021.2024228135602.nc",
+      "product": "VJ103IMG.021",
+      "publisher_info": [
+        {
+          "Name": "Not provided",
+          "Size": 170.59215927124,
+          "SizeInBytes": 178878844,
+          "Checksum": {
+            "Value": "ec829a592cf18190da9b4684ecb1585d",
+            "Algorithm": "MD5"
+          },
+          "SizeUnit": "MB"
+        }
+      ]
+    },
+    {
+      "file": "VJ114IMG.A2024228.1024.002.2024228171720.nc",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.1024.002.2024228171720/VJ114IMG.A2024228.1024.002.2024228171720.nc",
+      "product": "VJ114IMG.002",
+      "concept_id": "G3197704310-LPCLOUD"
+    },
+    {
+      "file": "VJ103IMG.A2024228.1024.021.2024228163748.nc",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.1024.021.2024228163748.nc",
+      "product": "VJ103IMG.021",
+      "publisher_info": [
+        {
+          "Name": "Not provided",
+          "Size": 139.137912750244,
+          "SizeInBytes": 145896676,
+          "Checksum": {
+            "Value": "4816f06b08fccba5116fcb144c4e092c",
+            "Algorithm": "MD5"
+          },
+          "SizeUnit": "MB"
+        }
+      ]
+    },
+    {
+      "file": "VJ114IMG.A2024228.2006.002.2024229023225.nc",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.2006.002.2024229023225/VJ114IMG.A2024228.2006.002.2024229023225.nc",
+      "product": "VJ114IMG.002",
+      "concept_id": "G3198185726-LPCLOUD"
+    },
+    {
+      "file": "VJ103IMG.A2024228.2006.021.2024229014823.nc",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.2006.021.2024229014823.nc",
+      "product": "VJ103IMG.021",
+      "publisher_info": [
+        {
+          "Name": "Not provided",
+          "Size": 173.735398292542,
+          "SizeInBytes": 182174769,
+          "Checksum": {
+            "Value": "6b9a567527fa88c0b71036bc0718926a",
+            "Algorithm": "MD5"
+          },
+          "SizeUnit": "MB"
+        }
+      ]
+    },
+    {
+      "file": "VJ114IMG.A2024228.2148.002.2024229044423.nc",
+      "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/VJ114IMG.002/VJ114IMG.A2024228.2148.002.2024229044423/VJ114IMG.A2024228.2148.002.2024229044423.nc",
+      "product": "VJ114IMG.002",
+      "concept_id": "G3198315339-LPCLOUD"
+    },
+    {
+      "file": "VJ103IMG.A2024228.2148.021.2024229014821.nc",
+      "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/VJ103IMG/VJ103IMG.A2024228.2148.021.2024229014821.nc",
+      "product": "VJ103IMG.021",
+      "publisher_info": [
+        {
+          "Name": "Not provided",
+          "Size": 147.354177474976,
+          "SizeInBytes": 154512054,
+          "Checksum": {
+            "Value": "86f5d53bb7979f7b1dbb16703526ed9e",
+            "Algorithm": "MD5"
+          },
+          "SizeUnit": "MB"
+        }
+      ]
+    }
+  ]
+}

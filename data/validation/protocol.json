@@ -1,0 +1,3822 @@
+{
+  "id": "bw-geographic-001",
+  "frozen_at_utc": "2026-11-15T13:29:22.745205+00:00",
+  "status": "frozen_before_target_download",
+  "engine": "global-1.2",
+  "training_regions": [
+    {
+      "name": "Guarda",
+      "country": "Portugal",
+      "lat": 40.5373,
+      "lon": -7.2658
+    },
+    {
+      "name": "Alexandroupoli",
+      "country": "Greece",
+      "lat": 40.8499,
+      "lon": 25.8764
+    },
+    {
+      "name": "Nakuru",
+      "country": "Kenya",
+      "lat": -0.2833,
+      "lon": 36.0667
+    }
+  ],
+  "heldout_regions": [
+    {
+      "name": "Badajoz",
+      "country": "Spain",
+      "lat": 38.878,
+      "lon": -6.97
+    },
+    {
+      "name": "Chillan",
+      "country": "Chile",
+      "lat": -36.6066,
+      "lon": -72.1034
+    },
+    {
+      "name": "Chiang Mai",
+      "country": "Thailand",
+      "lat": 18.79,
+      "lon": 98.985
+    },
+    {
+      "name": "Kabwe",
+      "country": "Zambia",
+      "lat": -14.446,
+      "lon": 28.446
+    }
+  ],
+  "training_years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "test_years": [
+    2024,
+    2025
+  ],
+  "radius_km": 100,
+  "grid_km": 10,
+  "strata": [
+    "D",
+    "N"
+  ],
+  "platforms": [
+    "snpp",
+    "noaa20"
+  ],
+  "models": {
+    "snpp:D": {
+      "fit": {
+        "annual": 0.20759493670886076,
+        "monthly": {
+          "1": 0.17439002017978353,
+          "2": 0.20337552742616033,
+          "3": 0.17530118974328174,
+          "4": 0.16942491014220973,
+          "5": 0.215721206438506,
+          "6": 0.17162949568012859,
+          "7": 0.3391779965619628,
+          "8": 0.3579648994068367,
+          "9": 0.13612406543785624,
+          "10": 0.24041256446319736,
+          "11": 0.22247274964838257,
+          "12": 0.20337552742616033
+        }
+      },
+      "training_panel": [
+        {
+          "year": 2019,
+          "month": 1,
+          "aqua": 17,
+          "target": 120
+        },
+        {
+          "year": 2019,
+          "month": 2,
+          "aqua": 68,
+          "target": 288
+        },
+        {
+          "year": 2019,
+          "month": 3,
+          "aqua": 68,
+          "target": 400
+        },
+        {
+          "year": 2019,
+          "month": 4,
+          "aqua": 33,
+          "target": 185
+        },
+        {
+          "year": 2019,
+          "month": 5,
+          "aqua": 6,
+          "target": 27
+        },
+        {
+          "year": 2019,
+          "month": 6,
+          "aqua": 1,
+          "target": 7
+        },
+        {
+          "year": 2019,
+          "month": 7,
+          "aqua": 7,
+          "target": 9
+        },
+        {
+          "year": 2019,
+          "month": 8,
+          "aqua": 5,
+          "target": 15
+        },
+        {
+          "year": 2019,
+          "month": 9,
+          "aqua": 18,
+          "target": 39
+        },
+        {
+          "year": 2019,
+          "month": 10,
+          "aqua": 12,
+          "target": 45
+        },
+        {
+          "year": 2019,
+          "month": 11,
+          "aqua": 5,
+          "target": 37
+        },
+        {
+          "year": 2019,
+          "month": 12,
+          "aqua": 6,
+          "target": 13
+        },
+        {
+          "year": 2020,
+          "month": 1,
+          "aqua": 10,
+          "target": 51
+        },
+        {
+          "year": 2020,
+          "month": 2,
+          "aqua": 17,
+          "target": 85
+        },
+        {
+          "year": 2020,
+          "month": 3,
+          "aqua": 8,
+          "target": 90
+        },
+        {
+          "year": 2020,
+          "month": 4,
+          "aqua": 5,
+          "target": 36
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "aqua": 3,
+          "target": 11
+        },
+        {
+          "year": 2020,
+          "month": 6,
+          "aqua": 5,
+          "target": 23
+        },
+        {
+          "year": 2020,
+          "month": 7,
+          "aqua": 12,
+          "target": 27
+        },
+        {
+          "year": 2020,
+          "month": 8,
+          "aqua": 22,
+          "target": 46
+        },
+        {
+          "year": 2020,
+          "month": 9,
+          "aqua": 23,
+          "target": 59
+        },
+        {
+          "year": 2020,
+          "month": 10,
+          "aqua": 14,
+          "target": 79
+        },
+        {
+          "year": 2020,
+          "month": 11,
+          "aqua": 10,
+          "target": 75
+        },
+        {
+          "year": 2020,
+          "month": 12,
+          "aqua": 2,
+          "target": 56
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "aqua": 17,
+          "target": 115
+        },
+        {
+          "year": 2021,
+          "month": 2,
+          "aqua": 25,
+          "target": 162
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "aqua": 42,
+          "target": 281
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "aqua": 2,
+          "target": 37
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "aqua": 1,
+          "target": 21
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "aqua": 2,
+          "target": 24
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "aqua": 1,
+          "target": 8
+        },
+        {
+          "year": 2021,
+          "month": 8,
+          "aqua": 14,
+          "target": 34
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "aqua": 0,
+          "target": 24
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "aqua": 15,
+          "target": 40
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "aqua": 15,
+          "target": 64
+        },
+        {
+          "year": 2021,
+          "month": 12,
+          "aqua": 2,
+          "target": 10
+        },
+        {
+          "year": 2022,
+          "month": 1,
+          "aqua": 23,
+          "target": 114
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "aqua": 9,
+          "target": 93
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "aqua": 45,
+          "target": 308
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "aqua": 2,
+          "target": 72
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "aqua": 1,
+          "target": 22
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "aqua": 4,
+          "target": 19
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "aqua": 44,
+          "target": 56
+        },
+        {
+          "year": 2022,
+          "month": 8,
+          "aqua": 36,
+          "target": 41
+        },
+        {
+          "year": 2022,
+          "month": 9,
+          "aqua": 1,
+          "target": 18
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "aqua": 15,
+          "target": 76
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "aqua": 23,
+          "target": 96
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "aqua": 3,
+          "target": 9
+        },
+        {
+          "year": 2023,
+          "month": 1,
+          "aqua": 12,
+          "target": 107
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "aqua": 89,
+          "target": 414
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "aqua": 28,
+          "target": 176
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "aqua": 7,
+          "target": 20
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "aqua": 3,
+          "target": 13
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "aqua": 0,
+          "target": 15
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "aqua": 5,
+          "target": 23
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "aqua": 86,
+          "target": 144
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "aqua": 3,
+          "target": 38
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "aqua": 13,
+          "target": 34
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "aqua": 21,
+          "target": 33
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "aqua": 1,
+          "target": 20
+        }
+      ]
+    },
+    "snpp:N": {
+      "fit": {
+        "annual": 0.15695067264573992,
+        "monthly": {
+          "1": 0.07967648942985267,
+          "2": 0.09899562059108909,
+          "3": 0.10875651873094494,
+          "4": 0.06975585450921774,
+          "5": 0.06975585450921774,
+          "6": 0.06975585450921774,
+          "7": 0.2780891878425511,
+          "8": 0.26086696562032885,
+          "9": 0.21790400265736587,
+          "10": 0.06975585450921774,
+          "11": 0.06975585450921774,
+          "12": 0.06975585450921774
+        }
+      },
+      "training_panel": [
+        {
+          "year": 2019,
+          "month": 1,
+          "aqua": 1,
+          "target": 56
+        },
+        {
+          "year": 2019,
+          "month": 2,
+          "aqua": 4,
+          "target": 76
+        },
+        {
+          "year": 2019,
+          "month": 3,
+          "aqua": 6,
+          "target": 185
+        },
+        {
+          "year": 2019,
+          "month": 4,
+          "aqua": 1,
+          "target": 96
+        },
+        {
+          "year": 2019,
+          "month": 5,
+          "aqua": 0,
+          "target": 7
+        },
+        {
+          "year": 2019,
+          "month": 6,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2019,
+          "month": 7,
+          "aqua": 2,
+          "target": 5
+        },
+        {
+          "year": 2019,
+          "month": 8,
+          "aqua": 6,
+          "target": 13
+        },
+        {
+          "year": 2019,
+          "month": 9,
+          "aqua": 16,
+          "target": 35
+        },
+        {
+          "year": 2019,
+          "month": 10,
+          "aqua": 0,
+          "target": 6
+        },
+        {
+          "year": 2019,
+          "month": 11,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2019,
+          "month": 12,
+          "aqua": 0,
+          "target": 12
+        },
+        {
+          "year": 2020,
+          "month": 1,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2020,
+          "month": 2,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2020,
+          "month": 3,
+          "aqua": 0,
+          "target": 0
+        },
+        {
+          "year": 2020,
+          "month": 4,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2020,
+          "month": 6,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2020,
+          "month": 7,
+          "aqua": 9,
+          "target": 24
+        },
+        {
+          "year": 2020,
+          "month": 8,
+          "aqua": 9,
+          "target": 33
+        },
+        {
+          "year": 2020,
+          "month": 9,
+          "aqua": 17,
+          "target": 40
+        },
+        {
+          "year": 2020,
+          "month": 10,
+          "aqua": 1,
+          "target": 9
+        },
+        {
+          "year": 2020,
+          "month": 11,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2020,
+          "month": 12,
+          "aqua": 2,
+          "target": 12
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "aqua": 5,
+          "target": 41
+        },
+        {
+          "year": 2021,
+          "month": 2,
+          "aqua": 2,
+          "target": 32
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "aqua": 3,
+          "target": 57
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "aqua": 3,
+          "target": 9
+        },
+        {
+          "year": 2021,
+          "month": 8,
+          "aqua": 4,
+          "target": 14
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "aqua": 1,
+          "target": 11
+        },
+        {
+          "year": 2021,
+          "month": 12,
+          "aqua": 0,
+          "target": 6
+        },
+        {
+          "year": 2022,
+          "month": 1,
+          "aqua": 2,
+          "target": 26
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "aqua": 0,
+          "target": 18
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "aqua": 5,
+          "target": 73
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "aqua": 0,
+          "target": 15
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "aqua": 1,
+          "target": 5
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "aqua": 1,
+          "target": 10
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "aqua": 23,
+          "target": 54
+        },
+        {
+          "year": 2022,
+          "month": 8,
+          "aqua": 34,
+          "target": 42
+        },
+        {
+          "year": 2022,
+          "month": 9,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "aqua": 2,
+          "target": 14
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "aqua": 4,
+          "target": 22
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "aqua": 0,
+          "target": 6
+        },
+        {
+          "year": 2023,
+          "month": 1,
+          "aqua": 0,
+          "target": 34
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "aqua": 17,
+          "target": 187
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "aqua": 4,
+          "target": 48
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "aqua": 2,
+          "target": 7
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "aqua": 0,
+          "target": 7
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "aqua": 43,
+          "target": 125
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "aqua": 4,
+          "target": 15
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "aqua": 0,
+          "target": 9
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "aqua": 0,
+          "target": 6
+        }
+      ]
+    },
+    "noaa20:D": {
+      "fit": {
+        "annual": 0.19632881085395051,
+        "monthly": {
+          "1": 0.16531050913986414,
+          "2": 0.20387150503362161,
+          "3": 0.17046821353665542,
+          "4": 0.1567016937128669,
+          "5": 0.17059058260175577,
+          "6": 0.1567016937128669,
+          "7": 0.26086836037953354,
+          "8": 0.38137489632724597,
+          "9": 0.14472851363623854,
+          "10": 0.2205905826017558,
+          "11": 0.2309354101879627,
+          "12": 0.142812804823978
+        }
+      },
+      "training_panel": [
+        {
+          "year": 2019,
+          "month": 1,
+          "aqua": 17,
+          "target": 121
+        },
+        {
+          "year": 2019,
+          "month": 2,
+          "aqua": 68,
+          "target": 296
+        },
+        {
+          "year": 2019,
+          "month": 3,
+          "aqua": 68,
+          "target": 454
+        },
+        {
+          "year": 2019,
+          "month": 4,
+          "aqua": 33,
+          "target": 194
+        },
+        {
+          "year": 2019,
+          "month": 5,
+          "aqua": 6,
+          "target": 33
+        },
+        {
+          "year": 2019,
+          "month": 6,
+          "aqua": 1,
+          "target": 8
+        },
+        {
+          "year": 2019,
+          "month": 7,
+          "aqua": 7,
+          "target": 15
+        },
+        {
+          "year": 2019,
+          "month": 8,
+          "aqua": 5,
+          "target": 13
+        },
+        {
+          "year": 2019,
+          "month": 9,
+          "aqua": 18,
+          "target": 39
+        },
+        {
+          "year": 2019,
+          "month": 10,
+          "aqua": 12,
+          "target": 50
+        },
+        {
+          "year": 2019,
+          "month": 11,
+          "aqua": 5,
+          "target": 15
+        },
+        {
+          "year": 2019,
+          "month": 12,
+          "aqua": 6,
+          "target": 15
+        },
+        {
+          "year": 2020,
+          "month": 1,
+          "aqua": 10,
+          "target": 53
+        },
+        {
+          "year": 2020,
+          "month": 2,
+          "aqua": 17,
+          "target": 76
+        },
+        {
+          "year": 2020,
+          "month": 3,
+          "aqua": 8,
+          "target": 99
+        },
+        {
+          "year": 2020,
+          "month": 4,
+          "aqua": 5,
+          "target": 40
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "aqua": 3,
+          "target": 20
+        },
+        {
+          "year": 2020,
+          "month": 6,
+          "aqua": 5,
+          "target": 22
+        },
+        {
+          "year": 2020,
+          "month": 7,
+          "aqua": 12,
+          "target": 39
+        },
+        {
+          "year": 2020,
+          "month": 8,
+          "aqua": 22,
+          "target": 41
+        },
+        {
+          "year": 2020,
+          "month": 9,
+          "aqua": 23,
+          "target": 76
+        },
+        {
+          "year": 2020,
+          "month": 10,
+          "aqua": 14,
+          "target": 75
+        },
+        {
+          "year": 2020,
+          "month": 11,
+          "aqua": 10,
+          "target": 66
+        },
+        {
+          "year": 2020,
+          "month": 12,
+          "aqua": 2,
+          "target": 70
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "aqua": 17,
+          "target": 122
+        },
+        {
+          "year": 2021,
+          "month": 2,
+          "aqua": 25,
+          "target": 169
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "aqua": 42,
+          "target": 283
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "aqua": 2,
+          "target": 44
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "aqua": 1,
+          "target": 21
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "aqua": 2,
+          "target": 20
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "aqua": 1,
+          "target": 9
+        },
+        {
+          "year": 2021,
+          "month": 8,
+          "aqua": 14,
+          "target": 31
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "aqua": 0,
+          "target": 15
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "aqua": 15,
+          "target": 40
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "aqua": 15,
+          "target": 58
+        },
+        {
+          "year": 2021,
+          "month": 12,
+          "aqua": 2,
+          "target": 20
+        },
+        {
+          "year": 2022,
+          "month": 1,
+          "aqua": 23,
+          "target": 118
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "aqua": 9,
+          "target": 121
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "aqua": 45,
+          "target": 292
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "aqua": 2,
+          "target": 74
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "aqua": 1,
+          "target": 22
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "aqua": 4,
+          "target": 24
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "aqua": 44,
+          "target": 76
+        },
+        {
+          "year": 2022,
+          "month": 8,
+          "aqua": 36,
+          "target": 68
+        },
+        {
+          "year": 2022,
+          "month": 9,
+          "aqua": 1,
+          "target": 15
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "aqua": 15,
+          "target": 69
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "aqua": 23,
+          "target": 92
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "aqua": 3,
+          "target": 26
+        },
+        {
+          "year": 2023,
+          "month": 1,
+          "aqua": 12,
+          "target": 106
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "aqua": 89,
+          "target": 424
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "aqua": 28,
+          "target": 183
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "aqua": 7,
+          "target": 32
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "aqua": 3,
+          "target": 13
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "aqua": 0,
+          "target": 9
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "aqua": 5,
+          "target": 16
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "aqua": 86,
+          "target": 136
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "aqua": 3,
+          "target": 29
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "aqua": 13,
+          "target": 31
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "aqua": 21,
+          "target": 36
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "aqua": 1,
+          "target": 19
+        }
+      ]
+    },
+    "noaa20:N": {
+      "fit": {
+        "annual": 0.14705882352941177,
+        "monthly": {
+          "1": 0.07493802118548569,
+          "2": 0.08826898456977293,
+          "3": 0.10028621999171027,
+          "4": 0.06535947712418301,
+          "5": 0.06535947712418301,
+          "6": 0.06535947712418301,
+          "7": 0.21687462863933454,
+          "8": 0.31227305737109656,
+          "9": 0.2042483660130719,
+          "10": 0.06535947712418301,
+          "11": 0.06535947712418301,
+          "12": 0.06535947712418301
+        }
+      },
+      "training_panel": [
+        {
+          "year": 2019,
+          "month": 1,
+          "aqua": 1,
+          "target": 58
+        },
+        {
+          "year": 2019,
+          "month": 2,
+          "aqua": 4,
+          "target": 97
+        },
+        {
+          "year": 2019,
+          "month": 3,
+          "aqua": 6,
+          "target": 175
+        },
+        {
+          "year": 2019,
+          "month": 4,
+          "aqua": 1,
+          "target": 124
+        },
+        {
+          "year": 2019,
+          "month": 5,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2019,
+          "month": 6,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2019,
+          "month": 7,
+          "aqua": 2,
+          "target": 8
+        },
+        {
+          "year": 2019,
+          "month": 8,
+          "aqua": 6,
+          "target": 12
+        },
+        {
+          "year": 2019,
+          "month": 9,
+          "aqua": 16,
+          "target": 38
+        },
+        {
+          "year": 2019,
+          "month": 10,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2019,
+          "month": 11,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2019,
+          "month": 12,
+          "aqua": 0,
+          "target": 19
+        },
+        {
+          "year": 2020,
+          "month": 1,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2020,
+          "month": 2,
+          "aqua": 0,
+          "target": 5
+        },
+        {
+          "year": 2020,
+          "month": 3,
+          "aqua": 0,
+          "target": 0
+        },
+        {
+          "year": 2020,
+          "month": 4,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2020,
+          "month": 5,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2020,
+          "month": 6,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2020,
+          "month": 7,
+          "aqua": 9,
+          "target": 26
+        },
+        {
+          "year": 2020,
+          "month": 8,
+          "aqua": 9,
+          "target": 35
+        },
+        {
+          "year": 2020,
+          "month": 9,
+          "aqua": 17,
+          "target": 42
+        },
+        {
+          "year": 2020,
+          "month": 10,
+          "aqua": 1,
+          "target": 7
+        },
+        {
+          "year": 2020,
+          "month": 11,
+          "aqua": 0,
+          "target": 7
+        },
+        {
+          "year": 2020,
+          "month": 12,
+          "aqua": 2,
+          "target": 15
+        },
+        {
+          "year": 2021,
+          "month": 1,
+          "aqua": 5,
+          "target": 35
+        },
+        {
+          "year": 2021,
+          "month": 2,
+          "aqua": 2,
+          "target": 40
+        },
+        {
+          "year": 2021,
+          "month": 3,
+          "aqua": 3,
+          "target": 59
+        },
+        {
+          "year": 2021,
+          "month": 4,
+          "aqua": 0,
+          "target": 8
+        },
+        {
+          "year": 2021,
+          "month": 5,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2021,
+          "month": 6,
+          "aqua": 0,
+          "target": 4
+        },
+        {
+          "year": 2021,
+          "month": 7,
+          "aqua": 3,
+          "target": 11
+        },
+        {
+          "year": 2021,
+          "month": 8,
+          "aqua": 4,
+          "target": 9
+        },
+        {
+          "year": 2021,
+          "month": 9,
+          "aqua": 0,
+          "target": 8
+        },
+        {
+          "year": 2021,
+          "month": 10,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2021,
+          "month": 11,
+          "aqua": 1,
+          "target": 14
+        },
+        {
+          "year": 2021,
+          "month": 12,
+          "aqua": 0,
+          "target": 7
+        },
+        {
+          "year": 2022,
+          "month": 1,
+          "aqua": 2,
+          "target": 34
+        },
+        {
+          "year": 2022,
+          "month": 2,
+          "aqua": 0,
+          "target": 19
+        },
+        {
+          "year": 2022,
+          "month": 3,
+          "aqua": 5,
+          "target": 89
+        },
+        {
+          "year": 2022,
+          "month": 4,
+          "aqua": 0,
+          "target": 24
+        },
+        {
+          "year": 2022,
+          "month": 5,
+          "aqua": 1,
+          "target": 4
+        },
+        {
+          "year": 2022,
+          "month": 6,
+          "aqua": 1,
+          "target": 12
+        },
+        {
+          "year": 2022,
+          "month": 7,
+          "aqua": 23,
+          "target": 69
+        },
+        {
+          "year": 2022,
+          "month": 8,
+          "aqua": 34,
+          "target": 62
+        },
+        {
+          "year": 2022,
+          "month": 9,
+          "aqua": 0,
+          "target": 6
+        },
+        {
+          "year": 2022,
+          "month": 10,
+          "aqua": 2,
+          "target": 21
+        },
+        {
+          "year": 2022,
+          "month": 11,
+          "aqua": 4,
+          "target": 20
+        },
+        {
+          "year": 2022,
+          "month": 12,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2023,
+          "month": 1,
+          "aqua": 0,
+          "target": 29
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "aqua": 17,
+          "target": 202
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "aqua": 4,
+          "target": 58
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "aqua": 2,
+          "target": 9
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "aqua": 0,
+          "target": 3
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "aqua": 0,
+          "target": 2
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "aqua": 43,
+          "target": 131
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "aqua": 4,
+          "target": 16
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "aqua": 0,
+          "target": 10
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "aqua": 0,
+          "target": 1
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "aqua": 0,
+          "target": 14
+        }
+      ]
+    }
+  },
+  "training_runs": [
+    {
+      "place": "Guarda",
+      "sensor": "snpp",
+      "daynight": "D",
+      "run_id": "13f3b33d6cc90361",
+      "sources": [
+        {
+          "id": "modis_2003_Portugal.csv",
+          "sha256": "1cc329472d8c53d91c10862c90ae7b961c33bd3a2a72041e33e647bb5d771e83"
+        },
+        {
+          "id": "modis_2004_Portugal.csv",
+          "sha256": "6c9895b10da725202cc94ed9df722c8db7132b15f06b2e75bca5549e5998a5f5"
+        },
+        {
+          "id": "modis_2005_Portugal.csv",
+          "sha256": "846f52e9711c2e4d31e62616fe96c6fb925f213e1fa33f971ba30eb30d5cba35"
+        },
+        {
+          "id": "modis_2006_Portugal.csv",
+          "sha256": "7e1ae79efe56b373ee36a3bb2df7b70ad32b73ebe108026ca947160a7a1836db"
+        },
+        {
+          "id": "modis_2007_Portugal.csv",
+          "sha256": "06d9d762826986889e5548d11cc806925d4c274f30491daf3c2629dfd5fd3b62"
+        },
+        {
+          "id": "modis_2008_Portugal.csv",
+          "sha256": "3e21bbe48399c7e2972a7f652406ebe29b553feb7c468afd168bd38368ee4a3f"
+        },
+        {
+          "id": "modis_2009_Portugal.csv",
+          "sha256": "b43f3796a5af68ca50890ed60b0966900fa5aece84fd5680d01fb31942e118a8"
+        },
+        {
+          "id": "modis_2010_Portugal.csv",
+          "sha256": "76cc945bfdfa4bea816d64a641933416b7597e059e5808c520f30a0bdda8315e"
+        },
+        {
+          "id": "modis_2011_Portugal.csv",
+          "sha256": "6d5a74f2b405deb221d830945510b938672daeddb91850cfcdce2d01e1ddfb07"
+        },
+        {
+          "id": "modis_2012_Portugal.csv",
+          "sha256": "0683942f248162441e71f4a369f9461fedefb447b96586e3a695b7961abd6dd7"
+        },
+        {
+          "id": "modis_2013_Portugal.csv",
+          "sha256": "3302c8792616f4b4528738eaaa20240aae2e3c04a99753dbe4d6016bde906e04"
+        },
+        {
+          "id": "modis_2014_Portugal.csv",
+          "sha256": "c8a808b7c968896d571a92bc58789d0d40915c18e2dcb59ba2feade366730e73"
+        },
+        {
+          "id": "modis_2015_Portugal.csv",
+          "sha256": "822886a003c01e4f28b01bb4956aa67d75a471eef177f8781e588fb8da37c21e"
+        },
+        {
+          "id": "modis_2016_Portugal.csv",
+          "sha256": "ab0763a311af365e3293127f45c70d226c0c04d3108c13a2c9432039f55fb3c9"
+        },
+        {
+          "id": "modis_2017_Portugal.csv",
+          "sha256": "ec879bb494c173f252e66269a2613d16106962fe760001e87dcbc8ee2b25d7ef"
+        },
+        {
+          "id": "modis_2018_Portugal.csv",
+          "sha256": "320e89ce1d21ecd56b4fde4bb32d76953f86ea902876ae1bcee59df4f5671d34"
+        },
+        {
+          "id": "modis_2019_Portugal.csv",
+          "sha256": "75c05687f29938bc26c5ffbf6c23d7492798a090ddb239290a62fd9c88212ac4"
+        },
+        {
+          "id": "modis_2020_Portugal.csv",
+          "sha256": "05733eaeabcd7be8571f9a5e010a1fc6109dc2771538d1f2cf8527e3337c57fd"
+        },
+        {
+          "id": "modis_2021_Portugal.csv",
+          "sha256": "c801bee9cd6fe681734c618caf180d130adcdfa0489aff3f9401465c1b6e4f74"
+        },
+        {
+          "id": "modis_2022_Portugal.csv",
+          "sha256": "5660c6bef3bb901c03f0ef1fbf3f6b9c4265b29fe633e584106eeacabda3887e"
+        },
+        {
+          "id": "modis_2023_Portugal.csv",
+          "sha256": "ec571c1ad891a2394efe2ba68ea5d1cd19b9fecce03655bcf271caaf2f8b4522"
+        },
+        {
+          "id": "modis_2024_Portugal.csv",
+          "sha256": "95a510eed0b7cec71bf0cda1adafc3c54618fed61f96cd8119d09a39d683c2b7"
+        },
+        {
+          "id": "modis_2025_Portugal.csv",
+          "sha256": "5fe8915feff1be2784912bc86a836f5ea4f276445afb38138f3c29be0a9db8d1"
+        },
+        {
+          "id": "viirs-jpss1_2018_Portugal.csv",
+          "sha256": "6f38e5bda394d16196bc828bc106248cbc9b60cb9c8acdf7d75830dc613a48dc"
+        },
+        {
+          "id": "viirs-jpss1_2019_Portugal.csv",
+          "sha256": "0b692c2a7602e0db78cefdf3c30638d32a50487a6cad972c8acf588b003f048d"
+        },
+        {
+          "id": "viirs-jpss1_2020_Portugal.csv",
+          "sha256": "915748d97cd8367cc48cd8ab59fa7892fced5c288e320275a59862e1e65dfc71"
+        },
+        {
+          "id": "viirs-jpss1_2021_Portugal.csv",
+          "sha256": "13be9621acd55e33a293ad65e93e10a921de0afbcb89c91fded8c13811969679"
+        },
+        {
+          "id": "viirs-jpss1_2022_Portugal.csv",
+          "sha256": "746eacbf638a9ce3194cf828ecaff27e3e019a29569a8f1177ba8587cbb671ae"
+        },
+        {
+          "id": "viirs-jpss1_2023_Portugal.csv",
+          "sha256": "79ae1fa715e5594b4a27c7f35d573ba630dcd87da3c68af84c5d84cbe310e574"
+        },
+        {
+          "id": "viirs-jpss1_2024_Portugal.csv",
+          "sha256": "03d4d578a1d955255c13975af563c5d2364c2bf0105d94c320d8d17ae628482f"
+        },
+        {
+          "id": "viirs-jpss1_2025_Portugal.csv",
+          "sha256": "fd8de11d7232e23eeafdf1bd33e8d7ce0f03fc51b40e8c505352a378f8c033b8"
+        },
+        {
+          "id": "viirs-snpp_2018_Portugal.csv",
+          "sha256": "8cb80293d22bf0c697e856d8756ca443bdeed0706776d49f39c5928f9a567a3d"
+        },
+        {
+          "id": "viirs-snpp_2019_Portugal.csv",
+          "sha256": "79cab83d9a05741935c7f24b680613b7794987e2bc1d0dab7ac02031f8fb909a"
+        },
+        {
+          "id": "viirs-snpp_2020_Portugal.csv",
+          "sha256": "b7161890d33f3aa3ecb0670bb5282fb3d6a25ca1a7f2c693210e2a9dffe04c80"
+        },
+        {
+          "id": "viirs-snpp_2021_Portugal.csv",
+          "sha256": "fca5d2baf848553b38c7d97749c95e2d8ecda567b168cd1bb20157c4d25e86b8"
+        },
+        {
+          "id": "viirs-snpp_2022_Portugal.csv",
+          "sha256": "0ad346b221ee68d53d817186b7bfafa2ed981635f7cc5c2a0920597a5c32d3e2"
+        },
+        {
+          "id": "viirs-snpp_2023_Portugal.csv",
+          "sha256": "9814ab8bbd6466a529ade2357fa26eae6c900510c674f1d365ba3777db120500"
+        },
+        {
+          "id": "viirs-snpp_2024_Portugal.csv",
+          "sha256": "1f1524c8f621c234ab216098988a6f2bbfbef62aa482be27684e74fa0103e0a5"
+        },
+        {
+          "id": "viirs-snpp_2025_Portugal.csv",
+          "sha256": "2a7bc6273ae4cf7c3c3d6d78465a85ce9e5cedc29959b7ea146a8b5f9b69fa6f"
+        }
+      ]
+    },
+    {
+      "place": "Alexandroupoli",
+      "sensor": "snpp",
+      "daynight": "D",
+      "run_id": "c19ca835c9e490fe",
+      "sources": [
+        {
+          "id": "modis_2003_Greece.csv",
+          "sha256": "442706998bb5bce889204a225ec86fd187a4d9c3b033757d12cb4137001e5030"
+        },
+        {
+          "id": "modis_2004_Greece.csv",
+          "sha256": "12e13126abaa100923b7ee3bf4047d45d209ac62d9bac5a4fac5a9637c300c15"
+        },
+        {
+          "id": "modis_2005_Greece.csv",
+          "sha256": "3fe597df3e23c6f2d4c0d20358762253783fa9f8a0d705447fcfd7ff57eed083"
+        },
+        {
+          "id": "modis_2006_Greece.csv",
+          "sha256": "1001c427ae5514dc500758658938748278a689f5c319f55117f952d6fed54d53"
+        },
+        {
+          "id": "modis_2007_Greece.csv",
+          "sha256": "d9ff2357e893c8bfafa18d952790882ede3b566ae01b30c9edbddfe57c4453cc"
+        },
+        {
+          "id": "modis_2008_Greece.csv",
+          "sha256": "01bbc152876300d4550d95e58d3f54292d9c4623def277a6107d8b4eb4fa0f1c"
+        },
+        {
+          "id": "modis_2009_Greece.csv",
+          "sha256": "36d535a769c35786ebba7f51b41c3096385d5e9886f35e2f1b83d4aa71a9c3c6"
+        },
+        {
+          "id": "modis_2010_Greece.csv",
+          "sha256": "58a6ef5e3f686c9e17051a894a5cfdd03129835f8f373bcbf7c995fc38a20e1a"
+        },
+        {
+          "id": "modis_2011_Greece.csv",
+          "sha256": "2f096e9ff6ea867177e2407961186a64cc36c110293b15a3a6ca14e28bbce964"
+        },
+        {
+          "id": "modis_2012_Greece.csv",
+          "sha256": "79666dfa5de1d5dd74d6047c76a7baffe6efe9bc5d84add17b3ce6fcd1ae048d"
+        },
+        {
+          "id": "modis_2013_Greece.csv",
+          "sha256": "8e3742b79891222753950acdf34fe4785e337b68bd47d5f8b4ee00f56c40f029"
+        },
+        {
+          "id": "modis_2014_Greece.csv",
+          "sha256": "aeafedcc665acd1e6dde6a9fb1cd987ee34283a29057e89645db0714d452e8ad"
+        },
+        {
+          "id": "modis_2015_Greece.csv",
+          "sha256": "cbc734bc420229b5bc236e603441d2a8695e2c9efe89967c3e116d35c22fbcb7"
+        },
+        {
+          "id": "modis_2016_Greece.csv",
+          "sha256": "a35e486f1440ef6239852e814f864f579da9a2d645067a3d226c955cb7fe1e10"
+        },
+        {
+          "id": "modis_2017_Greece.csv",
+          "sha256": "cfa42e4ff92ac1131cdea80b8831f9c8c5c213a4347c76177804c3c074d3794c"
+        },
+        {
+          "id": "modis_2018_Greece.csv",
+          "sha256": "e3a91967ed530e14e3d054ba6ebed869edda53efd67d6ac8d8b0ee299a9678f4"
+        },
+        {
+          "id": "modis_2019_Greece.csv",
+          "sha256": "683fa2469284078fe13d084937f2d89192443b40f316e9ea41b1d1ef744a3e21"
+        },
+        {
+          "id": "modis_2020_Greece.csv",
+          "sha256": "ad3075cbdc748811d0e87b387db2a7c6304e5af7fbf52ef7f461198574e80c32"
+        },
+        {
+          "id": "modis_2021_Greece.csv",
+          "sha256": "5aaedfb1739565c3570a8cd2c0ccc188dd2d871d73cf33f5e5c190684682432e"
+        },
+        {
+          "id": "modis_2022_Greece.csv",
+          "sha256": "ee0f93bb988ba88ee41bd8c7a72163b02100986236132678c07d34e6ec9e21dc"
+        },
+        {
+          "id": "modis_2023_Greece.csv",
+          "sha256": "3130a6465f3eefcbd206ad39e0b0fba36c6e09714de2e9aac106499fadc57a9d"
+        },
+        {
+          "id": "modis_2024_Greece.csv",
+          "sha256": "909c3c4edfc1d0ffa813377cba5ffccfc465ab91c277f33f1d24779cf5186992"
+        },
+        {
+          "id": "modis_2025_Greece.csv",
+          "sha256": "3cc082501bdbcde41422856ef009b96f1ea3e0b0e23baf3c9f381109054e6110"
+        },
+        {
+          "id": "viirs-jpss1_2018_Greece.csv",
+          "sha256": "ae7080cae596b84e9d97625ed2ab08895da530c02e38a0efa5a1bf3016ebe3e9"
+        },
+        {
+          "id": "viirs-jpss1_2019_Greece.csv",
+          "sha256": "6b5f8bc57abda745c444355bf2d10843c83d22ce040d65baad2a587223a2857f"
+        },
+        {
+          "id": "viirs-jpss1_2020_Greece.csv",
+          "sha256": "68345bce4b031feaf7737321251ce73b2bd8e0ec3a119537877a97416faa39a9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Greece.csv",
+          "sha256": "22d3574be389ab357922bdd1788cb4a01fff40955625f9b9216ef91720acc998"
+        },
+        {
+          "id": "viirs-jpss1_2022_Greece.csv",
+          "sha256": "7d6fcfb7e3b8a187f20aa4048b73fbb2c9c21c1db6cfab133cdde76c2ff4c6cd"
+        },
+        {
+          "id": "viirs-jpss1_2023_Greece.csv",
+          "sha256": "4e8e1ca9f8ccf7c96108565eae7b1a0804f9ffa15e0de90c73cb04064c1a2cbc"
+        },
+        {
+          "id": "viirs-jpss1_2024_Greece.csv",
+          "sha256": "a411190901d0cbebb5d11dc135bf36b7617db8bc6e3081fc3b9d52958fe13a3d"
+        },
+        {
+          "id": "viirs-jpss1_2025_Greece.csv",
+          "sha256": "3fa8b4a0b78b4bd5200e487f7a986915fda4b828a945cac5c4b220ae23b1e82e"
+        },
+        {
+          "id": "viirs-snpp_2018_Greece.csv",
+          "sha256": "6c2f483c726a9c129e19eacf5d3821f04e0f08b304c2866a74fffd92db6d9feb"
+        },
+        {
+          "id": "viirs-snpp_2019_Greece.csv",
+          "sha256": "6df57bab705b6f80bb88e9b1cc3811f1c431ea060ff9805867f13c6a24eac7a1"
+        },
+        {
+          "id": "viirs-snpp_2020_Greece.csv",
+          "sha256": "6b99b736b1954fd76ae6c65083a0f96ed7e294140fda60cc53dc670e795691a5"
+        },
+        {
+          "id": "viirs-snpp_2021_Greece.csv",
+          "sha256": "57f48c9349e13cb054c799695f4f9f3711425291340aedbb0c798b2cc4e70b5f"
+        },
+        {
+          "id": "viirs-snpp_2022_Greece.csv",
+          "sha256": "20a4d35e431c908e69c7a7b679758aaffecd7ae8ffa999a30a7fb87eebb81534"
+        },
+        {
+          "id": "viirs-snpp_2023_Greece.csv",
+          "sha256": "4e2e64268a17f538e1cfffeab4f59aaa0d744db2613593bc0953fe51e56cd855"
+        },
+        {
+          "id": "viirs-snpp_2024_Greece.csv",
+          "sha256": "1924045681eef9ad3300918bd1dfa8685b6827527e2c8b36639436699606a109"
+        },
+        {
+          "id": "viirs-snpp_2025_Greece.csv",
+          "sha256": "e06f76145dc9ecbb0e0ef310e1d37201ebfb037c8531522217d4baab8ff590fc"
+        }
+      ]
+    },
+    {
+      "place": "Nakuru",
+      "sensor": "snpp",
+      "daynight": "D",
+      "run_id": "c720af7d2e8da999",
+      "sources": [
+        {
+          "id": "modis_2003_Kenya.csv",
+          "sha256": "134990777edcae50dfb6e2fabf237f720b716b63a9f772b557dc44a96a3b636a"
+        },
+        {
+          "id": "modis_2004_Kenya.csv",
+          "sha256": "98d74a54af2c9a9741c45641198ba0a34fa495ef3dd3d492f180dafd0236ef1d"
+        },
+        {
+          "id": "modis_2005_Kenya.csv",
+          "sha256": "183d02906017be9d262a9bea29798dd5dbffe5416296f478e83f28feeb44a8e5"
+        },
+        {
+          "id": "modis_2006_Kenya.csv",
+          "sha256": "6691256cf3796b9bd56ce471abbd887579556634df3d615c839f7cd848453df2"
+        },
+        {
+          "id": "modis_2007_Kenya.csv",
+          "sha256": "cf23be82385eaa15ffb2b833eef9bb0a108215e1efe6c23e8885208494fbf499"
+        },
+        {
+          "id": "modis_2008_Kenya.csv",
+          "sha256": "f0ee6543decfb4364581cdbf34f5a5e341262f793c2775dacc75245f57ab41e1"
+        },
+        {
+          "id": "modis_2009_Kenya.csv",
+          "sha256": "9a825fe4055c9f13577fd56ac48b71e5434d3d3cfb3c0376e73690085822b8e8"
+        },
+        {
+          "id": "modis_2010_Kenya.csv",
+          "sha256": "2016f40f8dbed6ae4b246d5814a3b7daaa8ff46998d6b97ce6c835d850f29b2a"
+        },
+        {
+          "id": "modis_2011_Kenya.csv",
+          "sha256": "275ece6619772586dc9afac4746e9ecff6ba10202c32930210ee73bb8bd75ce5"
+        },
+        {
+          "id": "modis_2012_Kenya.csv",
+          "sha256": "74247e5e5f315e1645a34e8b4003f2f85a500f3076f8c71f3a1de9a8df34eece"
+        },
+        {
+          "id": "modis_2013_Kenya.csv",
+          "sha256": "2ff032445d2e2a5092e356a87a68813f12a02eafc6f7f4df555f1ca8fb47cb9a"
+        },
+        {
+          "id": "modis_2014_Kenya.csv",
+          "sha256": "dab058b11da69e50ca157208336190647aa7887229de14604cd5fe3a270425b6"
+        },
+        {
+          "id": "modis_2015_Kenya.csv",
+          "sha256": "6be495315eae8994110a5886688daeabbfdd9ff1a03df5f018c385d7d1794371"
+        },
+        {
+          "id": "modis_2016_Kenya.csv",
+          "sha256": "4740475d985b742c78c08b85a7b8be593408a89918be765418867e428d55f0d6"
+        },
+        {
+          "id": "modis_2017_Kenya.csv",
+          "sha256": "c97d1b7b4dab25b90c2f60419439f0635948a450692b024aba8ea4952bc8e1ba"
+        },
+        {
+          "id": "modis_2018_Kenya.csv",
+          "sha256": "072c22d4f6d9092287c54edb1a531d31895348b5b73a9a48b3bf553559bd685c"
+        },
+        {
+          "id": "modis_2019_Kenya.csv",
+          "sha256": "ce3c9ce402f6911a718ecd1b7b77e2bead738605db46dffc7494baf21360f298"
+        },
+        {
+          "id": "modis_2020_Kenya.csv",
+          "sha256": "8c0e706f10c953a89b60023e2d4fcf05731dbfcf5156209bada704389bb82c09"
+        },
+        {
+          "id": "modis_2021_Kenya.csv",
+          "sha256": "1baba69ffcbbd9438604775a87a24f7a58aceba491abc1b6248a69163d6eecac"
+        },
+        {
+          "id": "modis_2022_Kenya.csv",
+          "sha256": "65c729e362f1bf2fbf4e3052606fcf12e9a0efa063f14e38b55c42395890970a"
+        },
+        {
+          "id": "modis_2023_Kenya.csv",
+          "sha256": "1885461d1cc1c391d0d80f8330643ab9a913aeb9447ab45868664e89c68a54bd"
+        },
+        {
+          "id": "modis_2024_Kenya.csv",
+          "sha256": "7ed4692ae4a6c0a9d8b593703a7f4f3b735517aa112dc538b97195ae042b9165"
+        },
+        {
+          "id": "modis_2025_Kenya.csv",
+          "sha256": "71ca2ad8b39a07a686df1f590642a520ead18058fe75fd9d696121c03edf71b0"
+        },
+        {
+          "id": "viirs-jpss1_2018_Kenya.csv",
+          "sha256": "256b9b05e3de330f32ad81c7fd525d0d80e9635a78f36e892bc0e25293169728"
+        },
+        {
+          "id": "viirs-jpss1_2019_Kenya.csv",
+          "sha256": "f5facbfbb08d653b3d8b738c4d107cb793c159c564ccb859af69945667bb285a"
+        },
+        {
+          "id": "viirs-jpss1_2020_Kenya.csv",
+          "sha256": "3019a60b5bb82ac9af27204a8e629a40c552c30b188df2b9f8bc40244ec69ea9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Kenya.csv",
+          "sha256": "ec9d05bdd7ad2baa60b8a16011131ec624529adfae648a7cd9b8993888e3f041"
+        },
+        {
+          "id": "viirs-jpss1_2022_Kenya.csv",
+          "sha256": "9b41b1bc27e903b37b1916cdb2688b09bdf16e1d007047961846a7efe7c7e3ef"
+        },
+        {
+          "id": "viirs-jpss1_2023_Kenya.csv",
+          "sha256": "41a9648663a1ea43a52ae660a91a8f36fb4c16ca0bcb7b785f40d294e5ed7d1d"
+        },
+        {
+          "id": "viirs-jpss1_2024_Kenya.csv",
+          "sha256": "7892c1401fabc5a750533d58284fc49d2368bf94be778d56bcca8020afe92f69"
+        },
+        {
+          "id": "viirs-jpss1_2025_Kenya.csv",
+          "sha256": "ce4c61d9da48885bbc5794098d32faf2e9ae6290b937317722de87dece393182"
+        },
+        {
+          "id": "viirs-snpp_2018_Kenya.csv",
+          "sha256": "59caa555adfa276b4d271ca2691cdc6d70c3547231189c653a07df9ff4c4d18a"
+        },
+        {
+          "id": "viirs-snpp_2019_Kenya.csv",
+          "sha256": "3141df060748c15c12be1af88e951036070cc3eabba89e4c49edd08577158e9c"
+        },
+        {
+          "id": "viirs-snpp_2020_Kenya.csv",
+          "sha256": "946b3b7b7e68c0eb3cb1e0c3c5f4954c55b2c25b533f57227c9ce53e43a29648"
+        },
+        {
+          "id": "viirs-snpp_2021_Kenya.csv",
+          "sha256": "f8d0300cb540c4a59a06849b3c498589cefe0651749723cf1d041fae62fcf181"
+        },
+        {
+          "id": "viirs-snpp_2022_Kenya.csv",
+          "sha256": "12a9a8ccc63eb08afdd57eda13d4e87659b8ae998b369adc30ad222eb9109cd1"
+        },
+        {
+          "id": "viirs-snpp_2023_Kenya.csv",
+          "sha256": "e0f67c8ecb8f0791cd7e7dffae5475de0b83156f8204eab535c4bd924bf44c52"
+        },
+        {
+          "id": "viirs-snpp_2024_Kenya.csv",
+          "sha256": "4829fefb5ad260635b15637d4a55aceca81f5bf1ec496bf031f32a48edb6e0c5"
+        },
+        {
+          "id": "viirs-snpp_2025_Kenya.csv",
+          "sha256": "397f5160bf691948c288d38557039f82387167df15c5b4d20710c00ea549cf66"
+        }
+      ]
+    },
+    {
+      "place": "Guarda",
+      "sensor": "snpp",
+      "daynight": "N",
+      "run_id": "a2195bd478a88474",
+      "sources": [
+        {
+          "id": "modis_2003_Portugal.csv",
+          "sha256": "1cc329472d8c53d91c10862c90ae7b961c33bd3a2a72041e33e647bb5d771e83"
+        },
+        {
+          "id": "modis_2004_Portugal.csv",
+          "sha256": "6c9895b10da725202cc94ed9df722c8db7132b15f06b2e75bca5549e5998a5f5"
+        },
+        {
+          "id": "modis_2005_Portugal.csv",
+          "sha256": "846f52e9711c2e4d31e62616fe96c6fb925f213e1fa33f971ba30eb30d5cba35"
+        },
+        {
+          "id": "modis_2006_Portugal.csv",
+          "sha256": "7e1ae79efe56b373ee36a3bb2df7b70ad32b73ebe108026ca947160a7a1836db"
+        },
+        {
+          "id": "modis_2007_Portugal.csv",
+          "sha256": "06d9d762826986889e5548d11cc806925d4c274f30491daf3c2629dfd5fd3b62"
+        },
+        {
+          "id": "modis_2008_Portugal.csv",
+          "sha256": "3e21bbe48399c7e2972a7f652406ebe29b553feb7c468afd168bd38368ee4a3f"
+        },
+        {
+          "id": "modis_2009_Portugal.csv",
+          "sha256": "b43f3796a5af68ca50890ed60b0966900fa5aece84fd5680d01fb31942e118a8"
+        },
+        {
+          "id": "modis_2010_Portugal.csv",
+          "sha256": "76cc945bfdfa4bea816d64a641933416b7597e059e5808c520f30a0bdda8315e"
+        },
+        {
+          "id": "modis_2011_Portugal.csv",
+          "sha256": "6d5a74f2b405deb221d830945510b938672daeddb91850cfcdce2d01e1ddfb07"
+        },
+        {
+          "id": "modis_2012_Portugal.csv",
+          "sha256": "0683942f248162441e71f4a369f9461fedefb447b96586e3a695b7961abd6dd7"
+        },
+        {
+          "id": "modis_2013_Portugal.csv",
+          "sha256": "3302c8792616f4b4528738eaaa20240aae2e3c04a99753dbe4d6016bde906e04"
+        },
+        {
+          "id": "modis_2014_Portugal.csv",
+          "sha256": "c8a808b7c968896d571a92bc58789d0d40915c18e2dcb59ba2feade366730e73"
+        },
+        {
+          "id": "modis_2015_Portugal.csv",
+          "sha256": "822886a003c01e4f28b01bb4956aa67d75a471eef177f8781e588fb8da37c21e"
+        },
+        {
+          "id": "modis_2016_Portugal.csv",
+          "sha256": "ab0763a311af365e3293127f45c70d226c0c04d3108c13a2c9432039f55fb3c9"
+        },
+        {
+          "id": "modis_2017_Portugal.csv",
+          "sha256": "ec879bb494c173f252e66269a2613d16106962fe760001e87dcbc8ee2b25d7ef"
+        },
+        {
+          "id": "modis_2018_Portugal.csv",
+          "sha256": "320e89ce1d21ecd56b4fde4bb32d76953f86ea902876ae1bcee59df4f5671d34"
+        },
+        {
+          "id": "modis_2019_Portugal.csv",
+          "sha256": "75c05687f29938bc26c5ffbf6c23d7492798a090ddb239290a62fd9c88212ac4"
+        },
+        {
+          "id": "modis_2020_Portugal.csv",
+          "sha256": "05733eaeabcd7be8571f9a5e010a1fc6109dc2771538d1f2cf8527e3337c57fd"
+        },
+        {
+          "id": "modis_2021_Portugal.csv",
+          "sha256": "c801bee9cd6fe681734c618caf180d130adcdfa0489aff3f9401465c1b6e4f74"
+        },
+        {
+          "id": "modis_2022_Portugal.csv",
+          "sha256": "5660c6bef3bb901c03f0ef1fbf3f6b9c4265b29fe633e584106eeacabda3887e"
+        },
+        {
+          "id": "modis_2023_Portugal.csv",
+          "sha256": "ec571c1ad891a2394efe2ba68ea5d1cd19b9fecce03655bcf271caaf2f8b4522"
+        },
+        {
+          "id": "modis_2024_Portugal.csv",
+          "sha256": "95a510eed0b7cec71bf0cda1adafc3c54618fed61f96cd8119d09a39d683c2b7"
+        },
+        {
+          "id": "modis_2025_Portugal.csv",
+          "sha256": "5fe8915feff1be2784912bc86a836f5ea4f276445afb38138f3c29be0a9db8d1"
+        },
+        {
+          "id": "viirs-jpss1_2018_Portugal.csv",
+          "sha256": "6f38e5bda394d16196bc828bc106248cbc9b60cb9c8acdf7d75830dc613a48dc"
+        },
+        {
+          "id": "viirs-jpss1_2019_Portugal.csv",
+          "sha256": "0b692c2a7602e0db78cefdf3c30638d32a50487a6cad972c8acf588b003f048d"
+        },
+        {
+          "id": "viirs-jpss1_2020_Portugal.csv",
+          "sha256": "915748d97cd8367cc48cd8ab59fa7892fced5c288e320275a59862e1e65dfc71"
+        },
+        {
+          "id": "viirs-jpss1_2021_Portugal.csv",
+          "sha256": "13be9621acd55e33a293ad65e93e10a921de0afbcb89c91fded8c13811969679"
+        },
+        {
+          "id": "viirs-jpss1_2022_Portugal.csv",
+          "sha256": "746eacbf638a9ce3194cf828ecaff27e3e019a29569a8f1177ba8587cbb671ae"
+        },
+        {
+          "id": "viirs-jpss1_2023_Portugal.csv",
+          "sha256": "79ae1fa715e5594b4a27c7f35d573ba630dcd87da3c68af84c5d84cbe310e574"
+        },
+        {
+          "id": "viirs-jpss1_2024_Portugal.csv",
+          "sha256": "03d4d578a1d955255c13975af563c5d2364c2bf0105d94c320d8d17ae628482f"
+        },
+        {
+          "id": "viirs-jpss1_2025_Portugal.csv",
+          "sha256": "fd8de11d7232e23eeafdf1bd33e8d7ce0f03fc51b40e8c505352a378f8c033b8"
+        },
+        {
+          "id": "viirs-snpp_2018_Portugal.csv",
+          "sha256": "8cb80293d22bf0c697e856d8756ca443bdeed0706776d49f39c5928f9a567a3d"
+        },
+        {
+          "id": "viirs-snpp_2019_Portugal.csv",
+          "sha256": "79cab83d9a05741935c7f24b680613b7794987e2bc1d0dab7ac02031f8fb909a"
+        },
+        {
+          "id": "viirs-snpp_2020_Portugal.csv",
+          "sha256": "b7161890d33f3aa3ecb0670bb5282fb3d6a25ca1a7f2c693210e2a9dffe04c80"
+        },
+        {
+          "id": "viirs-snpp_2021_Portugal.csv",
+          "sha256": "fca5d2baf848553b38c7d97749c95e2d8ecda567b168cd1bb20157c4d25e86b8"
+        },
+        {
+          "id": "viirs-snpp_2022_Portugal.csv",
+          "sha256": "0ad346b221ee68d53d817186b7bfafa2ed981635f7cc5c2a0920597a5c32d3e2"
+        },
+        {
+          "id": "viirs-snpp_2023_Portugal.csv",
+          "sha256": "9814ab8bbd6466a529ade2357fa26eae6c900510c674f1d365ba3777db120500"
+        },
+        {
+          "id": "viirs-snpp_2024_Portugal.csv",
+          "sha256": "1f1524c8f621c234ab216098988a6f2bbfbef62aa482be27684e74fa0103e0a5"
+        },
+        {
+          "id": "viirs-snpp_2025_Portugal.csv",
+          "sha256": "2a7bc6273ae4cf7c3c3d6d78465a85ce9e5cedc29959b7ea146a8b5f9b69fa6f"
+        }
+      ]
+    },
+    {
+      "place": "Alexandroupoli",
+      "sensor": "snpp",
+      "daynight": "N",
+      "run_id": "ec6cd0cb9646da78",
+      "sources": [
+        {
+          "id": "modis_2003_Greece.csv",
+          "sha256": "442706998bb5bce889204a225ec86fd187a4d9c3b033757d12cb4137001e5030"
+        },
+        {
+          "id": "modis_2004_Greece.csv",
+          "sha256": "12e13126abaa100923b7ee3bf4047d45d209ac62d9bac5a4fac5a9637c300c15"
+        },
+        {
+          "id": "modis_2005_Greece.csv",
+          "sha256": "3fe597df3e23c6f2d4c0d20358762253783fa9f8a0d705447fcfd7ff57eed083"
+        },
+        {
+          "id": "modis_2006_Greece.csv",
+          "sha256": "1001c427ae5514dc500758658938748278a689f5c319f55117f952d6fed54d53"
+        },
+        {
+          "id": "modis_2007_Greece.csv",
+          "sha256": "d9ff2357e893c8bfafa18d952790882ede3b566ae01b30c9edbddfe57c4453cc"
+        },
+        {
+          "id": "modis_2008_Greece.csv",
+          "sha256": "01bbc152876300d4550d95e58d3f54292d9c4623def277a6107d8b4eb4fa0f1c"
+        },
+        {
+          "id": "modis_2009_Greece.csv",
+          "sha256": "36d535a769c35786ebba7f51b41c3096385d5e9886f35e2f1b83d4aa71a9c3c6"
+        },
+        {
+          "id": "modis_2010_Greece.csv",
+          "sha256": "58a6ef5e3f686c9e17051a894a5cfdd03129835f8f373bcbf7c995fc38a20e1a"
+        },
+        {
+          "id": "modis_2011_Greece.csv",
+          "sha256": "2f096e9ff6ea867177e2407961186a64cc36c110293b15a3a6ca14e28bbce964"
+        },
+        {
+          "id": "modis_2012_Greece.csv",
+          "sha256": "79666dfa5de1d5dd74d6047c76a7baffe6efe9bc5d84add17b3ce6fcd1ae048d"
+        },
+        {
+          "id": "modis_2013_Greece.csv",
+          "sha256": "8e3742b79891222753950acdf34fe4785e337b68bd47d5f8b4ee00f56c40f029"
+        },
+        {
+          "id": "modis_2014_Greece.csv",
+          "sha256": "aeafedcc665acd1e6dde6a9fb1cd987ee34283a29057e89645db0714d452e8ad"
+        },
+        {
+          "id": "modis_2015_Greece.csv",
+          "sha256": "cbc734bc420229b5bc236e603441d2a8695e2c9efe89967c3e116d35c22fbcb7"
+        },
+        {
+          "id": "modis_2016_Greece.csv",
+          "sha256": "a35e486f1440ef6239852e814f864f579da9a2d645067a3d226c955cb7fe1e10"
+        },
+        {
+          "id": "modis_2017_Greece.csv",
+          "sha256": "cfa42e4ff92ac1131cdea80b8831f9c8c5c213a4347c76177804c3c074d3794c"
+        },
+        {
+          "id": "modis_2018_Greece.csv",
+          "sha256": "e3a91967ed530e14e3d054ba6ebed869edda53efd67d6ac8d8b0ee299a9678f4"
+        },
+        {
+          "id": "modis_2019_Greece.csv",
+          "sha256": "683fa2469284078fe13d084937f2d89192443b40f316e9ea41b1d1ef744a3e21"
+        },
+        {
+          "id": "modis_2020_Greece.csv",
+          "sha256": "ad3075cbdc748811d0e87b387db2a7c6304e5af7fbf52ef7f461198574e80c32"
+        },
+        {
+          "id": "modis_2021_Greece.csv",
+          "sha256": "5aaedfb1739565c3570a8cd2c0ccc188dd2d871d73cf33f5e5c190684682432e"
+        },
+        {
+          "id": "modis_2022_Greece.csv",
+          "sha256": "ee0f93bb988ba88ee41bd8c7a72163b02100986236132678c07d34e6ec9e21dc"
+        },
+        {
+          "id": "modis_2023_Greece.csv",
+          "sha256": "3130a6465f3eefcbd206ad39e0b0fba36c6e09714de2e9aac106499fadc57a9d"
+        },
+        {
+          "id": "modis_2024_Greece.csv",
+          "sha256": "909c3c4edfc1d0ffa813377cba5ffccfc465ab91c277f33f1d24779cf5186992"
+        },
+        {
+          "id": "modis_2025_Greece.csv",
+          "sha256": "3cc082501bdbcde41422856ef009b96f1ea3e0b0e23baf3c9f381109054e6110"
+        },
+        {
+          "id": "viirs-jpss1_2018_Greece.csv",
+          "sha256": "ae7080cae596b84e9d97625ed2ab08895da530c02e38a0efa5a1bf3016ebe3e9"
+        },
+        {
+          "id": "viirs-jpss1_2019_Greece.csv",
+          "sha256": "6b5f8bc57abda745c444355bf2d10843c83d22ce040d65baad2a587223a2857f"
+        },
+        {
+          "id": "viirs-jpss1_2020_Greece.csv",
+          "sha256": "68345bce4b031feaf7737321251ce73b2bd8e0ec3a119537877a97416faa39a9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Greece.csv",
+          "sha256": "22d3574be389ab357922bdd1788cb4a01fff40955625f9b9216ef91720acc998"
+        },
+        {
+          "id": "viirs-jpss1_2022_Greece.csv",
+          "sha256": "7d6fcfb7e3b8a187f20aa4048b73fbb2c9c21c1db6cfab133cdde76c2ff4c6cd"
+        },
+        {
+          "id": "viirs-jpss1_2023_Greece.csv",
+          "sha256": "4e8e1ca9f8ccf7c96108565eae7b1a0804f9ffa15e0de90c73cb04064c1a2cbc"
+        },
+        {
+          "id": "viirs-jpss1_2024_Greece.csv",
+          "sha256": "a411190901d0cbebb5d11dc135bf36b7617db8bc6e3081fc3b9d52958fe13a3d"
+        },
+        {
+          "id": "viirs-jpss1_2025_Greece.csv",
+          "sha256": "3fa8b4a0b78b4bd5200e487f7a986915fda4b828a945cac5c4b220ae23b1e82e"
+        },
+        {
+          "id": "viirs-snpp_2018_Greece.csv",
+          "sha256": "6c2f483c726a9c129e19eacf5d3821f04e0f08b304c2866a74fffd92db6d9feb"
+        },
+        {
+          "id": "viirs-snpp_2019_Greece.csv",
+          "sha256": "6df57bab705b6f80bb88e9b1cc3811f1c431ea060ff9805867f13c6a24eac7a1"
+        },
+        {
+          "id": "viirs-snpp_2020_Greece.csv",
+          "sha256": "6b99b736b1954fd76ae6c65083a0f96ed7e294140fda60cc53dc670e795691a5"
+        },
+        {
+          "id": "viirs-snpp_2021_Greece.csv",
+          "sha256": "57f48c9349e13cb054c799695f4f9f3711425291340aedbb0c798b2cc4e70b5f"
+        },
+        {
+          "id": "viirs-snpp_2022_Greece.csv",
+          "sha256": "20a4d35e431c908e69c7a7b679758aaffecd7ae8ffa999a30a7fb87eebb81534"
+        },
+        {
+          "id": "viirs-snpp_2023_Greece.csv",
+          "sha256": "4e2e64268a17f538e1cfffeab4f59aaa0d744db2613593bc0953fe51e56cd855"
+        },
+        {
+          "id": "viirs-snpp_2024_Greece.csv",
+          "sha256": "1924045681eef9ad3300918bd1dfa8685b6827527e2c8b36639436699606a109"
+        },
+        {
+          "id": "viirs-snpp_2025_Greece.csv",
+          "sha256": "e06f76145dc9ecbb0e0ef310e1d37201ebfb037c8531522217d4baab8ff590fc"
+        }
+      ]
+    },
+    {
+      "place": "Nakuru",
+      "sensor": "snpp",
+      "daynight": "N",
+      "run_id": "f39cc0782fe5803d",
+      "sources": [
+        {
+          "id": "modis_2003_Kenya.csv",
+          "sha256": "134990777edcae50dfb6e2fabf237f720b716b63a9f772b557dc44a96a3b636a"
+        },
+        {
+          "id": "modis_2004_Kenya.csv",
+          "sha256": "98d74a54af2c9a9741c45641198ba0a34fa495ef3dd3d492f180dafd0236ef1d"
+        },
+        {
+          "id": "modis_2005_Kenya.csv",
+          "sha256": "183d02906017be9d262a9bea29798dd5dbffe5416296f478e83f28feeb44a8e5"
+        },
+        {
+          "id": "modis_2006_Kenya.csv",
+          "sha256": "6691256cf3796b9bd56ce471abbd887579556634df3d615c839f7cd848453df2"
+        },
+        {
+          "id": "modis_2007_Kenya.csv",
+          "sha256": "cf23be82385eaa15ffb2b833eef9bb0a108215e1efe6c23e8885208494fbf499"
+        },
+        {
+          "id": "modis_2008_Kenya.csv",
+          "sha256": "f0ee6543decfb4364581cdbf34f5a5e341262f793c2775dacc75245f57ab41e1"
+        },
+        {
+          "id": "modis_2009_Kenya.csv",
+          "sha256": "9a825fe4055c9f13577fd56ac48b71e5434d3d3cfb3c0376e73690085822b8e8"
+        },
+        {
+          "id": "modis_2010_Kenya.csv",
+          "sha256": "2016f40f8dbed6ae4b246d5814a3b7daaa8ff46998d6b97ce6c835d850f29b2a"
+        },
+        {
+          "id": "modis_2011_Kenya.csv",
+          "sha256": "275ece6619772586dc9afac4746e9ecff6ba10202c32930210ee73bb8bd75ce5"
+        },
+        {
+          "id": "modis_2012_Kenya.csv",
+          "sha256": "74247e5e5f315e1645a34e8b4003f2f85a500f3076f8c71f3a1de9a8df34eece"
+        },
+        {
+          "id": "modis_2013_Kenya.csv",
+          "sha256": "2ff032445d2e2a5092e356a87a68813f12a02eafc6f7f4df555f1ca8fb47cb9a"
+        },
+        {
+          "id": "modis_2014_Kenya.csv",
+          "sha256": "dab058b11da69e50ca157208336190647aa7887229de14604cd5fe3a270425b6"
+        },
+        {
+          "id": "modis_2015_Kenya.csv",
+          "sha256": "6be495315eae8994110a5886688daeabbfdd9ff1a03df5f018c385d7d1794371"
+        },
+        {
+          "id": "modis_2016_Kenya.csv",
+          "sha256": "4740475d985b742c78c08b85a7b8be593408a89918be765418867e428d55f0d6"
+        },
+        {
+          "id": "modis_2017_Kenya.csv",
+          "sha256": "c97d1b7b4dab25b90c2f60419439f0635948a450692b024aba8ea4952bc8e1ba"
+        },
+        {
+          "id": "modis_2018_Kenya.csv",
+          "sha256": "072c22d4f6d9092287c54edb1a531d31895348b5b73a9a48b3bf553559bd685c"
+        },
+        {
+          "id": "modis_2019_Kenya.csv",
+          "sha256": "ce3c9ce402f6911a718ecd1b7b77e2bead738605db46dffc7494baf21360f298"
+        },
+        {
+          "id": "modis_2020_Kenya.csv",
+          "sha256": "8c0e706f10c953a89b60023e2d4fcf05731dbfcf5156209bada704389bb82c09"
+        },
+        {
+          "id": "modis_2021_Kenya.csv",
+          "sha256": "1baba69ffcbbd9438604775a87a24f7a58aceba491abc1b6248a69163d6eecac"
+        },
+        {
+          "id": "modis_2022_Kenya.csv",
+          "sha256": "65c729e362f1bf2fbf4e3052606fcf12e9a0efa063f14e38b55c42395890970a"
+        },
+        {
+          "id": "modis_2023_Kenya.csv",
+          "sha256": "1885461d1cc1c391d0d80f8330643ab9a913aeb9447ab45868664e89c68a54bd"
+        },
+        {
+          "id": "modis_2024_Kenya.csv",
+          "sha256": "7ed4692ae4a6c0a9d8b593703a7f4f3b735517aa112dc538b97195ae042b9165"
+        },
+        {
+          "id": "modis_2025_Kenya.csv",
+          "sha256": "71ca2ad8b39a07a686df1f590642a520ead18058fe75fd9d696121c03edf71b0"
+        },
+        {
+          "id": "viirs-jpss1_2018_Kenya.csv",
+          "sha256": "256b9b05e3de330f32ad81c7fd525d0d80e9635a78f36e892bc0e25293169728"
+        },
+        {
+          "id": "viirs-jpss1_2019_Kenya.csv",
+          "sha256": "f5facbfbb08d653b3d8b738c4d107cb793c159c564ccb859af69945667bb285a"
+        },
+        {
+          "id": "viirs-jpss1_2020_Kenya.csv",
+          "sha256": "3019a60b5bb82ac9af27204a8e629a40c552c30b188df2b9f8bc40244ec69ea9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Kenya.csv",
+          "sha256": "ec9d05bdd7ad2baa60b8a16011131ec624529adfae648a7cd9b8993888e3f041"
+        },
+        {
+          "id": "viirs-jpss1_2022_Kenya.csv",
+          "sha256": "9b41b1bc27e903b37b1916cdb2688b09bdf16e1d007047961846a7efe7c7e3ef"
+        },
+        {
+          "id": "viirs-jpss1_2023_Kenya.csv",
+          "sha256": "41a9648663a1ea43a52ae660a91a8f36fb4c16ca0bcb7b785f40d294e5ed7d1d"
+        },
+        {
+          "id": "viirs-jpss1_2024_Kenya.csv",
+          "sha256": "7892c1401fabc5a750533d58284fc49d2368bf94be778d56bcca8020afe92f69"
+        },
+        {
+          "id": "viirs-jpss1_2025_Kenya.csv",
+          "sha256": "ce4c61d9da48885bbc5794098d32faf2e9ae6290b937317722de87dece393182"
+        },
+        {
+          "id": "viirs-snpp_2018_Kenya.csv",
+          "sha256": "59caa555adfa276b4d271ca2691cdc6d70c3547231189c653a07df9ff4c4d18a"
+        },
+        {
+          "id": "viirs-snpp_2019_Kenya.csv",
+          "sha256": "3141df060748c15c12be1af88e951036070cc3eabba89e4c49edd08577158e9c"
+        },
+        {
+          "id": "viirs-snpp_2020_Kenya.csv",
+          "sha256": "946b3b7b7e68c0eb3cb1e0c3c5f4954c55b2c25b533f57227c9ce53e43a29648"
+        },
+        {
+          "id": "viirs-snpp_2021_Kenya.csv",
+          "sha256": "f8d0300cb540c4a59a06849b3c498589cefe0651749723cf1d041fae62fcf181"
+        },
+        {
+          "id": "viirs-snpp_2022_Kenya.csv",
+          "sha256": "12a9a8ccc63eb08afdd57eda13d4e87659b8ae998b369adc30ad222eb9109cd1"
+        },
+        {
+          "id": "viirs-snpp_2023_Kenya.csv",
+          "sha256": "e0f67c8ecb8f0791cd7e7dffae5475de0b83156f8204eab535c4bd924bf44c52"
+        },
+        {
+          "id": "viirs-snpp_2024_Kenya.csv",
+          "sha256": "4829fefb5ad260635b15637d4a55aceca81f5bf1ec496bf031f32a48edb6e0c5"
+        },
+        {
+          "id": "viirs-snpp_2025_Kenya.csv",
+          "sha256": "397f5160bf691948c288d38557039f82387167df15c5b4d20710c00ea549cf66"
+        }
+      ]
+    },
+    {
+      "place": "Guarda",
+      "sensor": "noaa20",
+      "daynight": "D",
+      "run_id": "8b87ce30bb53c79f",
+      "sources": [
+        {
+          "id": "modis_2003_Portugal.csv",
+          "sha256": "1cc329472d8c53d91c10862c90ae7b961c33bd3a2a72041e33e647bb5d771e83"
+        },
+        {
+          "id": "modis_2004_Portugal.csv",
+          "sha256": "6c9895b10da725202cc94ed9df722c8db7132b15f06b2e75bca5549e5998a5f5"
+        },
+        {
+          "id": "modis_2005_Portugal.csv",
+          "sha256": "846f52e9711c2e4d31e62616fe96c6fb925f213e1fa33f971ba30eb30d5cba35"
+        },
+        {
+          "id": "modis_2006_Portugal.csv",
+          "sha256": "7e1ae79efe56b373ee36a3bb2df7b70ad32b73ebe108026ca947160a7a1836db"
+        },
+        {
+          "id": "modis_2007_Portugal.csv",
+          "sha256": "06d9d762826986889e5548d11cc806925d4c274f30491daf3c2629dfd5fd3b62"
+        },
+        {
+          "id": "modis_2008_Portugal.csv",
+          "sha256": "3e21bbe48399c7e2972a7f652406ebe29b553feb7c468afd168bd38368ee4a3f"
+        },
+        {
+          "id": "modis_2009_Portugal.csv",
+          "sha256": "b43f3796a5af68ca50890ed60b0966900fa5aece84fd5680d01fb31942e118a8"
+        },
+        {
+          "id": "modis_2010_Portugal.csv",
+          "sha256": "76cc945bfdfa4bea816d64a641933416b7597e059e5808c520f30a0bdda8315e"
+        },
+        {
+          "id": "modis_2011_Portugal.csv",
+          "sha256": "6d5a74f2b405deb221d830945510b938672daeddb91850cfcdce2d01e1ddfb07"
+        },
+        {
+          "id": "modis_2012_Portugal.csv",
+          "sha256": "0683942f248162441e71f4a369f9461fedefb447b96586e3a695b7961abd6dd7"
+        },
+        {
+          "id": "modis_2013_Portugal.csv",
+          "sha256": "3302c8792616f4b4528738eaaa20240aae2e3c04a99753dbe4d6016bde906e04"
+        },
+        {
+          "id": "modis_2014_Portugal.csv",
+          "sha256": "c8a808b7c968896d571a92bc58789d0d40915c18e2dcb59ba2feade366730e73"
+        },
+        {
+          "id": "modis_2015_Portugal.csv",
+          "sha256": "822886a003c01e4f28b01bb4956aa67d75a471eef177f8781e588fb8da37c21e"
+        },
+        {
+          "id": "modis_2016_Portugal.csv",
+          "sha256": "ab0763a311af365e3293127f45c70d226c0c04d3108c13a2c9432039f55fb3c9"
+        },
+        {
+          "id": "modis_2017_Portugal.csv",
+          "sha256": "ec879bb494c173f252e66269a2613d16106962fe760001e87dcbc8ee2b25d7ef"
+        },
+        {
+          "id": "modis_2018_Portugal.csv",
+          "sha256": "320e89ce1d21ecd56b4fde4bb32d76953f86ea902876ae1bcee59df4f5671d34"
+        },
+        {
+          "id": "modis_2019_Portugal.csv",
+          "sha256": "75c05687f29938bc26c5ffbf6c23d7492798a090ddb239290a62fd9c88212ac4"
+        },
+        {
+          "id": "modis_2020_Portugal.csv",
+          "sha256": "05733eaeabcd7be8571f9a5e010a1fc6109dc2771538d1f2cf8527e3337c57fd"
+        },
+        {
+          "id": "modis_2021_Portugal.csv",
+          "sha256": "c801bee9cd6fe681734c618caf180d130adcdfa0489aff3f9401465c1b6e4f74"
+        },
+        {
+          "id": "modis_2022_Portugal.csv",
+          "sha256": "5660c6bef3bb901c03f0ef1fbf3f6b9c4265b29fe633e584106eeacabda3887e"
+        },
+        {
+          "id": "modis_2023_Portugal.csv",
+          "sha256": "ec571c1ad891a2394efe2ba68ea5d1cd19b9fecce03655bcf271caaf2f8b4522"
+        },
+        {
+          "id": "modis_2024_Portugal.csv",
+          "sha256": "95a510eed0b7cec71bf0cda1adafc3c54618fed61f96cd8119d09a39d683c2b7"
+        },
+        {
+          "id": "modis_2025_Portugal.csv",
+          "sha256": "5fe8915feff1be2784912bc86a836f5ea4f276445afb38138f3c29be0a9db8d1"
+        },
+        {
+          "id": "viirs-jpss1_2018_Portugal.csv",
+          "sha256": "6f38e5bda394d16196bc828bc106248cbc9b60cb9c8acdf7d75830dc613a48dc"
+        },
+        {
+          "id": "viirs-jpss1_2019_Portugal.csv",
+          "sha256": "0b692c2a7602e0db78cefdf3c30638d32a50487a6cad972c8acf588b003f048d"
+        },
+        {
+          "id": "viirs-jpss1_2020_Portugal.csv",
+          "sha256": "915748d97cd8367cc48cd8ab59fa7892fced5c288e320275a59862e1e65dfc71"
+        },
+        {
+          "id": "viirs-jpss1_2021_Portugal.csv",
+          "sha256": "13be9621acd55e33a293ad65e93e10a921de0afbcb89c91fded8c13811969679"
+        },
+        {
+          "id": "viirs-jpss1_2022_Portugal.csv",
+          "sha256": "746eacbf638a9ce3194cf828ecaff27e3e019a29569a8f1177ba8587cbb671ae"
+        },
+        {
+          "id": "viirs-jpss1_2023_Portugal.csv",
+          "sha256": "79ae1fa715e5594b4a27c7f35d573ba630dcd87da3c68af84c5d84cbe310e574"
+        },
+        {
+          "id": "viirs-jpss1_2024_Portugal.csv",
+          "sha256": "03d4d578a1d955255c13975af563c5d2364c2bf0105d94c320d8d17ae628482f"
+        },
+        {
+          "id": "viirs-jpss1_2025_Portugal.csv",
+          "sha256": "fd8de11d7232e23eeafdf1bd33e8d7ce0f03fc51b40e8c505352a378f8c033b8"
+        },
+        {
+          "id": "viirs-snpp_2018_Portugal.csv",
+          "sha256": "8cb80293d22bf0c697e856d8756ca443bdeed0706776d49f39c5928f9a567a3d"
+        },
+        {
+          "id": "viirs-snpp_2019_Portugal.csv",
+          "sha256": "79cab83d9a05741935c7f24b680613b7794987e2bc1d0dab7ac02031f8fb909a"
+        },
+        {
+          "id": "viirs-snpp_2020_Portugal.csv",
+          "sha256": "b7161890d33f3aa3ecb0670bb5282fb3d6a25ca1a7f2c693210e2a9dffe04c80"
+        },
+        {
+          "id": "viirs-snpp_2021_Portugal.csv",
+          "sha256": "fca5d2baf848553b38c7d97749c95e2d8ecda567b168cd1bb20157c4d25e86b8"
+        },
+        {
+          "id": "viirs-snpp_2022_Portugal.csv",
+          "sha256": "0ad346b221ee68d53d817186b7bfafa2ed981635f7cc5c2a0920597a5c32d3e2"
+        },
+        {
+          "id": "viirs-snpp_2023_Portugal.csv",
+          "sha256": "9814ab8bbd6466a529ade2357fa26eae6c900510c674f1d365ba3777db120500"
+        },
+        {
+          "id": "viirs-snpp_2024_Portugal.csv",
+          "sha256": "1f1524c8f621c234ab216098988a6f2bbfbef62aa482be27684e74fa0103e0a5"
+        },
+        {
+          "id": "viirs-snpp_2025_Portugal.csv",
+          "sha256": "2a7bc6273ae4cf7c3c3d6d78465a85ce9e5cedc29959b7ea146a8b5f9b69fa6f"
+        }
+      ]
+    },
+    {
+      "place": "Alexandroupoli",
+      "sensor": "noaa20",
+      "daynight": "D",
+      "run_id": "458a5a6b9db4d612",
+      "sources": [
+        {
+          "id": "modis_2003_Greece.csv",
+          "sha256": "442706998bb5bce889204a225ec86fd187a4d9c3b033757d12cb4137001e5030"
+        },
+        {
+          "id": "modis_2004_Greece.csv",
+          "sha256": "12e13126abaa100923b7ee3bf4047d45d209ac62d9bac5a4fac5a9637c300c15"
+        },
+        {
+          "id": "modis_2005_Greece.csv",
+          "sha256": "3fe597df3e23c6f2d4c0d20358762253783fa9f8a0d705447fcfd7ff57eed083"
+        },
+        {
+          "id": "modis_2006_Greece.csv",
+          "sha256": "1001c427ae5514dc500758658938748278a689f5c319f55117f952d6fed54d53"
+        },
+        {
+          "id": "modis_2007_Greece.csv",
+          "sha256": "d9ff2357e893c8bfafa18d952790882ede3b566ae01b30c9edbddfe57c4453cc"
+        },
+        {
+          "id": "modis_2008_Greece.csv",
+          "sha256": "01bbc152876300d4550d95e58d3f54292d9c4623def277a6107d8b4eb4fa0f1c"
+        },
+        {
+          "id": "modis_2009_Greece.csv",
+          "sha256": "36d535a769c35786ebba7f51b41c3096385d5e9886f35e2f1b83d4aa71a9c3c6"
+        },
+        {
+          "id": "modis_2010_Greece.csv",
+          "sha256": "58a6ef5e3f686c9e17051a894a5cfdd03129835f8f373bcbf7c995fc38a20e1a"
+        },
+        {
+          "id": "modis_2011_Greece.csv",
+          "sha256": "2f096e9ff6ea867177e2407961186a64cc36c110293b15a3a6ca14e28bbce964"
+        },
+        {
+          "id": "modis_2012_Greece.csv",
+          "sha256": "79666dfa5de1d5dd74d6047c76a7baffe6efe9bc5d84add17b3ce6fcd1ae048d"
+        },
+        {
+          "id": "modis_2013_Greece.csv",
+          "sha256": "8e3742b79891222753950acdf34fe4785e337b68bd47d5f8b4ee00f56c40f029"
+        },
+        {
+          "id": "modis_2014_Greece.csv",
+          "sha256": "aeafedcc665acd1e6dde6a9fb1cd987ee34283a29057e89645db0714d452e8ad"
+        },
+        {
+          "id": "modis_2015_Greece.csv",
+          "sha256": "cbc734bc420229b5bc236e603441d2a8695e2c9efe89967c3e116d35c22fbcb7"
+        },
+        {
+          "id": "modis_2016_Greece.csv",
+          "sha256": "a35e486f1440ef6239852e814f864f579da9a2d645067a3d226c955cb7fe1e10"
+        },
+        {
+          "id": "modis_2017_Greece.csv",
+          "sha256": "cfa42e4ff92ac1131cdea80b8831f9c8c5c213a4347c76177804c3c074d3794c"
+        },
+        {
+          "id": "modis_2018_Greece.csv",
+          "sha256": "e3a91967ed530e14e3d054ba6ebed869edda53efd67d6ac8d8b0ee299a9678f4"
+        },
+        {
+          "id": "modis_2019_Greece.csv",
+          "sha256": "683fa2469284078fe13d084937f2d89192443b40f316e9ea41b1d1ef744a3e21"
+        },
+        {
+          "id": "modis_2020_Greece.csv",
+          "sha256": "ad3075cbdc748811d0e87b387db2a7c6304e5af7fbf52ef7f461198574e80c32"
+        },
+        {
+          "id": "modis_2021_Greece.csv",
+          "sha256": "5aaedfb1739565c3570a8cd2c0ccc188dd2d871d73cf33f5e5c190684682432e"
+        },
+        {
+          "id": "modis_2022_Greece.csv",
+          "sha256": "ee0f93bb988ba88ee41bd8c7a72163b02100986236132678c07d34e6ec9e21dc"
+        },
+        {
+          "id": "modis_2023_Greece.csv",
+          "sha256": "3130a6465f3eefcbd206ad39e0b0fba36c6e09714de2e9aac106499fadc57a9d"
+        },
+        {
+          "id": "modis_2024_Greece.csv",
+          "sha256": "909c3c4edfc1d0ffa813377cba5ffccfc465ab91c277f33f1d24779cf5186992"
+        },
+        {
+          "id": "modis_2025_Greece.csv",
+          "sha256": "3cc082501bdbcde41422856ef009b96f1ea3e0b0e23baf3c9f381109054e6110"
+        },
+        {
+          "id": "viirs-jpss1_2018_Greece.csv",
+          "sha256": "ae7080cae596b84e9d97625ed2ab08895da530c02e38a0efa5a1bf3016ebe3e9"
+        },
+        {
+          "id": "viirs-jpss1_2019_Greece.csv",
+          "sha256": "6b5f8bc57abda745c444355bf2d10843c83d22ce040d65baad2a587223a2857f"
+        },
+        {
+          "id": "viirs-jpss1_2020_Greece.csv",
+          "sha256": "68345bce4b031feaf7737321251ce73b2bd8e0ec3a119537877a97416faa39a9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Greece.csv",
+          "sha256": "22d3574be389ab357922bdd1788cb4a01fff40955625f9b9216ef91720acc998"
+        },
+        {
+          "id": "viirs-jpss1_2022_Greece.csv",
+          "sha256": "7d6fcfb7e3b8a187f20aa4048b73fbb2c9c21c1db6cfab133cdde76c2ff4c6cd"
+        },
+        {
+          "id": "viirs-jpss1_2023_Greece.csv",
+          "sha256": "4e8e1ca9f8ccf7c96108565eae7b1a0804f9ffa15e0de90c73cb04064c1a2cbc"
+        },
+        {
+          "id": "viirs-jpss1_2024_Greece.csv",
+          "sha256": "a411190901d0cbebb5d11dc135bf36b7617db8bc6e3081fc3b9d52958fe13a3d"
+        },
+        {
+          "id": "viirs-jpss1_2025_Greece.csv",
+          "sha256": "3fa8b4a0b78b4bd5200e487f7a986915fda4b828a945cac5c4b220ae23b1e82e"
+        },
+        {
+          "id": "viirs-snpp_2018_Greece.csv",
+          "sha256": "6c2f483c726a9c129e19eacf5d3821f04e0f08b304c2866a74fffd92db6d9feb"
+        },
+        {
+          "id": "viirs-snpp_2019_Greece.csv",
+          "sha256": "6df57bab705b6f80bb88e9b1cc3811f1c431ea060ff9805867f13c6a24eac7a1"
+        },
+        {
+          "id": "viirs-snpp_2020_Greece.csv",
+          "sha256": "6b99b736b1954fd76ae6c65083a0f96ed7e294140fda60cc53dc670e795691a5"
+        },
+        {
+          "id": "viirs-snpp_2021_Greece.csv",
+          "sha256": "57f48c9349e13cb054c799695f4f9f3711425291340aedbb0c798b2cc4e70b5f"
+        },
+        {
+          "id": "viirs-snpp_2022_Greece.csv",
+          "sha256": "20a4d35e431c908e69c7a7b679758aaffecd7ae8ffa999a30a7fb87eebb81534"
+        },
+        {
+          "id": "viirs-snpp_2023_Greece.csv",
+          "sha256": "4e2e64268a17f538e1cfffeab4f59aaa0d744db2613593bc0953fe51e56cd855"
+        },
+        {
+          "id": "viirs-snpp_2024_Greece.csv",
+          "sha256": "1924045681eef9ad3300918bd1dfa8685b6827527e2c8b36639436699606a109"
+        },
+        {
+          "id": "viirs-snpp_2025_Greece.csv",
+          "sha256": "e06f76145dc9ecbb0e0ef310e1d37201ebfb037c8531522217d4baab8ff590fc"
+        }
+      ]
+    },
+    {
+      "place": "Nakuru",
+      "sensor": "noaa20",
+      "daynight": "D",
+      "run_id": "505f7aa00fbe7674",
+      "sources": [
+        {
+          "id": "modis_2003_Kenya.csv",
+          "sha256": "134990777edcae50dfb6e2fabf237f720b716b63a9f772b557dc44a96a3b636a"
+        },
+        {
+          "id": "modis_2004_Kenya.csv",
+          "sha256": "98d74a54af2c9a9741c45641198ba0a34fa495ef3dd3d492f180dafd0236ef1d"
+        },
+        {
+          "id": "modis_2005_Kenya.csv",
+          "sha256": "183d02906017be9d262a9bea29798dd5dbffe5416296f478e83f28feeb44a8e5"
+        },
+        {
+          "id": "modis_2006_Kenya.csv",
+          "sha256": "6691256cf3796b9bd56ce471abbd887579556634df3d615c839f7cd848453df2"
+        },
+        {
+          "id": "modis_2007_Kenya.csv",
+          "sha256": "cf23be82385eaa15ffb2b833eef9bb0a108215e1efe6c23e8885208494fbf499"
+        },
+        {
+          "id": "modis_2008_Kenya.csv",
+          "sha256": "f0ee6543decfb4364581cdbf34f5a5e341262f793c2775dacc75245f57ab41e1"
+        },
+        {
+          "id": "modis_2009_Kenya.csv",
+          "sha256": "9a825fe4055c9f13577fd56ac48b71e5434d3d3cfb3c0376e73690085822b8e8"
+        },
+        {
+          "id": "modis_2010_Kenya.csv",
+          "sha256": "2016f40f8dbed6ae4b246d5814a3b7daaa8ff46998d6b97ce6c835d850f29b2a"
+        },
+        {
+          "id": "modis_2011_Kenya.csv",
+          "sha256": "275ece6619772586dc9afac4746e9ecff6ba10202c32930210ee73bb8bd75ce5"
+        },
+        {
+          "id": "modis_2012_Kenya.csv",
+          "sha256": "74247e5e5f315e1645a34e8b4003f2f85a500f3076f8c71f3a1de9a8df34eece"
+        },
+        {
+          "id": "modis_2013_Kenya.csv",
+          "sha256": "2ff032445d2e2a5092e356a87a68813f12a02eafc6f7f4df555f1ca8fb47cb9a"
+        },
+        {
+          "id": "modis_2014_Kenya.csv",
+          "sha256": "dab058b11da69e50ca157208336190647aa7887229de14604cd5fe3a270425b6"
+        },
+        {
+          "id": "modis_2015_Kenya.csv",
+          "sha256": "6be495315eae8994110a5886688daeabbfdd9ff1a03df5f018c385d7d1794371"
+        },
+        {
+          "id": "modis_2016_Kenya.csv",
+          "sha256": "4740475d985b742c78c08b85a7b8be593408a89918be765418867e428d55f0d6"
+        },
+        {
+          "id": "modis_2017_Kenya.csv",
+          "sha256": "c97d1b7b4dab25b90c2f60419439f0635948a450692b024aba8ea4952bc8e1ba"
+        },
+        {
+          "id": "modis_2018_Kenya.csv",
+          "sha256": "072c22d4f6d9092287c54edb1a531d31895348b5b73a9a48b3bf553559bd685c"
+        },
+        {
+          "id": "modis_2019_Kenya.csv",
+          "sha256": "ce3c9ce402f6911a718ecd1b7b77e2bead738605db46dffc7494baf21360f298"
+        },
+        {
+          "id": "modis_2020_Kenya.csv",
+          "sha256": "8c0e706f10c953a89b60023e2d4fcf05731dbfcf5156209bada704389bb82c09"
+        },
+        {
+          "id": "modis_2021_Kenya.csv",
+          "sha256": "1baba69ffcbbd9438604775a87a24f7a58aceba491abc1b6248a69163d6eecac"
+        },
+        {
+          "id": "modis_2022_Kenya.csv",
+          "sha256": "65c729e362f1bf2fbf4e3052606fcf12e9a0efa063f14e38b55c42395890970a"
+        },
+        {
+          "id": "modis_2023_Kenya.csv",
+          "sha256": "1885461d1cc1c391d0d80f8330643ab9a913aeb9447ab45868664e89c68a54bd"
+        },
+        {
+          "id": "modis_2024_Kenya.csv",
+          "sha256": "7ed4692ae4a6c0a9d8b593703a7f4f3b735517aa112dc538b97195ae042b9165"
+        },
+        {
+          "id": "modis_2025_Kenya.csv",
+          "sha256": "71ca2ad8b39a07a686df1f590642a520ead18058fe75fd9d696121c03edf71b0"
+        },
+        {
+          "id": "viirs-jpss1_2018_Kenya.csv",
+          "sha256": "256b9b05e3de330f32ad81c7fd525d0d80e9635a78f36e892bc0e25293169728"
+        },
+        {
+          "id": "viirs-jpss1_2019_Kenya.csv",
+          "sha256": "f5facbfbb08d653b3d8b738c4d107cb793c159c564ccb859af69945667bb285a"
+        },
+        {
+          "id": "viirs-jpss1_2020_Kenya.csv",
+          "sha256": "3019a60b5bb82ac9af27204a8e629a40c552c30b188df2b9f8bc40244ec69ea9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Kenya.csv",
+          "sha256": "ec9d05bdd7ad2baa60b8a16011131ec624529adfae648a7cd9b8993888e3f041"
+        },
+        {
+          "id": "viirs-jpss1_2022_Kenya.csv",
+          "sha256": "9b41b1bc27e903b37b1916cdb2688b09bdf16e1d007047961846a7efe7c7e3ef"
+        },
+        {
+          "id": "viirs-jpss1_2023_Kenya.csv",
+          "sha256": "41a9648663a1ea43a52ae660a91a8f36fb4c16ca0bcb7b785f40d294e5ed7d1d"
+        },
+        {
+          "id": "viirs-jpss1_2024_Kenya.csv",
+          "sha256": "7892c1401fabc5a750533d58284fc49d2368bf94be778d56bcca8020afe92f69"
+        },
+        {
+          "id": "viirs-jpss1_2025_Kenya.csv",
+          "sha256": "ce4c61d9da48885bbc5794098d32faf2e9ae6290b937317722de87dece393182"
+        },
+        {
+          "id": "viirs-snpp_2018_Kenya.csv",
+          "sha256": "59caa555adfa276b4d271ca2691cdc6d70c3547231189c653a07df9ff4c4d18a"
+        },
+        {
+          "id": "viirs-snpp_2019_Kenya.csv",
+          "sha256": "3141df060748c15c12be1af88e951036070cc3eabba89e4c49edd08577158e9c"
+        },
+        {
+          "id": "viirs-snpp_2020_Kenya.csv",
+          "sha256": "946b3b7b7e68c0eb3cb1e0c3c5f4954c55b2c25b533f57227c9ce53e43a29648"
+        },
+        {
+          "id": "viirs-snpp_2021_Kenya.csv",
+          "sha256": "f8d0300cb540c4a59a06849b3c498589cefe0651749723cf1d041fae62fcf181"
+        },
+        {
+          "id": "viirs-snpp_2022_Kenya.csv",
+          "sha256": "12a9a8ccc63eb08afdd57eda13d4e87659b8ae998b369adc30ad222eb9109cd1"
+        },
+        {
+          "id": "viirs-snpp_2023_Kenya.csv",
+          "sha256": "e0f67c8ecb8f0791cd7e7dffae5475de0b83156f8204eab535c4bd924bf44c52"
+        },
+        {
+          "id": "viirs-snpp_2024_Kenya.csv",
+          "sha256": "4829fefb5ad260635b15637d4a55aceca81f5bf1ec496bf031f32a48edb6e0c5"
+        },
+        {
+          "id": "viirs-snpp_2025_Kenya.csv",
+          "sha256": "397f5160bf691948c288d38557039f82387167df15c5b4d20710c00ea549cf66"
+        }
+      ]
+    },
+    {
+      "place": "Guarda",
+      "sensor": "noaa20",
+      "daynight": "N",
+      "run_id": "f5524722b296e1a0",
+      "sources": [
+        {
+          "id": "modis_2003_Portugal.csv",
+          "sha256": "1cc329472d8c53d91c10862c90ae7b961c33bd3a2a72041e33e647bb5d771e83"
+        },
+        {
+          "id": "modis_2004_Portugal.csv",
+          "sha256": "6c9895b10da725202cc94ed9df722c8db7132b15f06b2e75bca5549e5998a5f5"
+        },
+        {
+          "id": "modis_2005_Portugal.csv",
+          "sha256": "846f52e9711c2e4d31e62616fe96c6fb925f213e1fa33f971ba30eb30d5cba35"
+        },
+        {
+          "id": "modis_2006_Portugal.csv",
+          "sha256": "7e1ae79efe56b373ee36a3bb2df7b70ad32b73ebe108026ca947160a7a1836db"
+        },
+        {
+          "id": "modis_2007_Portugal.csv",
+          "sha256": "06d9d762826986889e5548d11cc806925d4c274f30491daf3c2629dfd5fd3b62"
+        },
+        {
+          "id": "modis_2008_Portugal.csv",
+          "sha256": "3e21bbe48399c7e2972a7f652406ebe29b553feb7c468afd168bd38368ee4a3f"
+        },
+        {
+          "id": "modis_2009_Portugal.csv",
+          "sha256": "b43f3796a5af68ca50890ed60b0966900fa5aece84fd5680d01fb31942e118a8"
+        },
+        {
+          "id": "modis_2010_Portugal.csv",
+          "sha256": "76cc945bfdfa4bea816d64a641933416b7597e059e5808c520f30a0bdda8315e"
+        },
+        {
+          "id": "modis_2011_Portugal.csv",
+          "sha256": "6d5a74f2b405deb221d830945510b938672daeddb91850cfcdce2d01e1ddfb07"
+        },
+        {
+          "id": "modis_2012_Portugal.csv",
+          "sha256": "0683942f248162441e71f4a369f9461fedefb447b96586e3a695b7961abd6dd7"
+        },
+        {
+          "id": "modis_2013_Portugal.csv",
+          "sha256": "3302c8792616f4b4528738eaaa20240aae2e3c04a99753dbe4d6016bde906e04"
+        },
+        {
+          "id": "modis_2014_Portugal.csv",
+          "sha256": "c8a808b7c968896d571a92bc58789d0d40915c18e2dcb59ba2feade366730e73"
+        },
+        {
+          "id": "modis_2015_Portugal.csv",
+          "sha256": "822886a003c01e4f28b01bb4956aa67d75a471eef177f8781e588fb8da37c21e"
+        },
+        {
+          "id": "modis_2016_Portugal.csv",
+          "sha256": "ab0763a311af365e3293127f45c70d226c0c04d3108c13a2c9432039f55fb3c9"
+        },
+        {
+          "id": "modis_2017_Portugal.csv",
+          "sha256": "ec879bb494c173f252e66269a2613d16106962fe760001e87dcbc8ee2b25d7ef"
+        },
+        {
+          "id": "modis_2018_Portugal.csv",
+          "sha256": "320e89ce1d21ecd56b4fde4bb32d76953f86ea902876ae1bcee59df4f5671d34"
+        },
+        {
+          "id": "modis_2019_Portugal.csv",
+          "sha256": "75c05687f29938bc26c5ffbf6c23d7492798a090ddb239290a62fd9c88212ac4"
+        },
+        {
+          "id": "modis_2020_Portugal.csv",
+          "sha256": "05733eaeabcd7be8571f9a5e010a1fc6109dc2771538d1f2cf8527e3337c57fd"
+        },
+        {
+          "id": "modis_2021_Portugal.csv",
+          "sha256": "c801bee9cd6fe681734c618caf180d130adcdfa0489aff3f9401465c1b6e4f74"
+        },
+        {
+          "id": "modis_2022_Portugal.csv",
+          "sha256": "5660c6bef3bb901c03f0ef1fbf3f6b9c4265b29fe633e584106eeacabda3887e"
+        },
+        {
+          "id": "modis_2023_Portugal.csv",
+          "sha256": "ec571c1ad891a2394efe2ba68ea5d1cd19b9fecce03655bcf271caaf2f8b4522"
+        },
+        {
+          "id": "modis_2024_Portugal.csv",
+          "sha256": "95a510eed0b7cec71bf0cda1adafc3c54618fed61f96cd8119d09a39d683c2b7"
+        },
+        {
+          "id": "modis_2025_Portugal.csv",
+          "sha256": "5fe8915feff1be2784912bc86a836f5ea4f276445afb38138f3c29be0a9db8d1"
+        },
+        {
+          "id": "viirs-jpss1_2018_Portugal.csv",
+          "sha256": "6f38e5bda394d16196bc828bc106248cbc9b60cb9c8acdf7d75830dc613a48dc"
+        },
+        {
+          "id": "viirs-jpss1_2019_Portugal.csv",
+          "sha256": "0b692c2a7602e0db78cefdf3c30638d32a50487a6cad972c8acf588b003f048d"
+        },
+        {
+          "id": "viirs-jpss1_2020_Portugal.csv",
+          "sha256": "915748d97cd8367cc48cd8ab59fa7892fced5c288e320275a59862e1e65dfc71"
+        },
+        {
+          "id": "viirs-jpss1_2021_Portugal.csv",
+          "sha256": "13be9621acd55e33a293ad65e93e10a921de0afbcb89c91fded8c13811969679"
+        },
+        {
+          "id": "viirs-jpss1_2022_Portugal.csv",
+          "sha256": "746eacbf638a9ce3194cf828ecaff27e3e019a29569a8f1177ba8587cbb671ae"
+        },
+        {
+          "id": "viirs-jpss1_2023_Portugal.csv",
+          "sha256": "79ae1fa715e5594b4a27c7f35d573ba630dcd87da3c68af84c5d84cbe310e574"
+        },
+        {
+          "id": "viirs-jpss1_2024_Portugal.csv",
+          "sha256": "03d4d578a1d955255c13975af563c5d2364c2bf0105d94c320d8d17ae628482f"
+        },
+        {
+          "id": "viirs-jpss1_2025_Portugal.csv",
+          "sha256": "fd8de11d7232e23eeafdf1bd33e8d7ce0f03fc51b40e8c505352a378f8c033b8"
+        },
+        {
+          "id": "viirs-snpp_2018_Portugal.csv",
+          "sha256": "8cb80293d22bf0c697e856d8756ca443bdeed0706776d49f39c5928f9a567a3d"
+        },
+        {
+          "id": "viirs-snpp_2019_Portugal.csv",
+          "sha256": "79cab83d9a05741935c7f24b680613b7794987e2bc1d0dab7ac02031f8fb909a"
+        },
+        {
+          "id": "viirs-snpp_2020_Portugal.csv",
+          "sha256": "b7161890d33f3aa3ecb0670bb5282fb3d6a25ca1a7f2c693210e2a9dffe04c80"
+        },
+        {
+          "id": "viirs-snpp_2021_Portugal.csv",
+          "sha256": "fca5d2baf848553b38c7d97749c95e2d8ecda567b168cd1bb20157c4d25e86b8"
+        },
+        {
+          "id": "viirs-snpp_2022_Portugal.csv",
+          "sha256": "0ad346b221ee68d53d817186b7bfafa2ed981635f7cc5c2a0920597a5c32d3e2"
+        },
+        {
+          "id": "viirs-snpp_2023_Portugal.csv",
+          "sha256": "9814ab8bbd6466a529ade2357fa26eae6c900510c674f1d365ba3777db120500"
+        },
+        {
+          "id": "viirs-snpp_2024_Portugal.csv",
+          "sha256": "1f1524c8f621c234ab216098988a6f2bbfbef62aa482be27684e74fa0103e0a5"
+        },
+        {
+          "id": "viirs-snpp_2025_Portugal.csv",
+          "sha256": "2a7bc6273ae4cf7c3c3d6d78465a85ce9e5cedc29959b7ea146a8b5f9b69fa6f"
+        }
+      ]
+    },
+    {
+      "place": "Alexandroupoli",
+      "sensor": "noaa20",
+      "daynight": "N",
+      "run_id": "4a8074df87c0f830",
+      "sources": [
+        {
+          "id": "modis_2003_Greece.csv",
+          "sha256": "442706998bb5bce889204a225ec86fd187a4d9c3b033757d12cb4137001e5030"
+        },
+        {
+          "id": "modis_2004_Greece.csv",
+          "sha256": "12e13126abaa100923b7ee3bf4047d45d209ac62d9bac5a4fac5a9637c300c15"
+        },
+        {
+          "id": "modis_2005_Greece.csv",
+          "sha256": "3fe597df3e23c6f2d4c0d20358762253783fa9f8a0d705447fcfd7ff57eed083"
+        },
+        {
+          "id": "modis_2006_Greece.csv",
+          "sha256": "1001c427ae5514dc500758658938748278a689f5c319f55117f952d6fed54d53"
+        },
+        {
+          "id": "modis_2007_Greece.csv",
+          "sha256": "d9ff2357e893c8bfafa18d952790882ede3b566ae01b30c9edbddfe57c4453cc"
+        },
+        {
+          "id": "modis_2008_Greece.csv",
+          "sha256": "01bbc152876300d4550d95e58d3f54292d9c4623def277a6107d8b4eb4fa0f1c"
+        },
+        {
+          "id": "modis_2009_Greece.csv",
+          "sha256": "36d535a769c35786ebba7f51b41c3096385d5e9886f35e2f1b83d4aa71a9c3c6"
+        },
+        {
+          "id": "modis_2010_Greece.csv",
+          "sha256": "58a6ef5e3f686c9e17051a894a5cfdd03129835f8f373bcbf7c995fc38a20e1a"
+        },
+        {
+          "id": "modis_2011_Greece.csv",
+          "sha256": "2f096e9ff6ea867177e2407961186a64cc36c110293b15a3a6ca14e28bbce964"
+        },
+        {
+          "id": "modis_2012_Greece.csv",
+          "sha256": "79666dfa5de1d5dd74d6047c76a7baffe6efe9bc5d84add17b3ce6fcd1ae048d"
+        },
+        {
+          "id": "modis_2013_Greece.csv",
+          "sha256": "8e3742b79891222753950acdf34fe4785e337b68bd47d5f8b4ee00f56c40f029"
+        },
+        {
+          "id": "modis_2014_Greece.csv",
+          "sha256": "aeafedcc665acd1e6dde6a9fb1cd987ee34283a29057e89645db0714d452e8ad"
+        },
+        {
+          "id": "modis_2015_Greece.csv",
+          "sha256": "cbc734bc420229b5bc236e603441d2a8695e2c9efe89967c3e116d35c22fbcb7"
+        },
+        {
+          "id": "modis_2016_Greece.csv",
+          "sha256": "a35e486f1440ef6239852e814f864f579da9a2d645067a3d226c955cb7fe1e10"
+        },
+        {
+          "id": "modis_2017_Greece.csv",
+          "sha256": "cfa42e4ff92ac1131cdea80b8831f9c8c5c213a4347c76177804c3c074d3794c"
+        },
+        {
+          "id": "modis_2018_Greece.csv",
+          "sha256": "e3a91967ed530e14e3d054ba6ebed869edda53efd67d6ac8d8b0ee299a9678f4"
+        },
+        {
+          "id": "modis_2019_Greece.csv",
+          "sha256": "683fa2469284078fe13d084937f2d89192443b40f316e9ea41b1d1ef744a3e21"
+        },
+        {
+          "id": "modis_2020_Greece.csv",
+          "sha256": "ad3075cbdc748811d0e87b387db2a7c6304e5af7fbf52ef7f461198574e80c32"
+        },
+        {
+          "id": "modis_2021_Greece.csv",
+          "sha256": "5aaedfb1739565c3570a8cd2c0ccc188dd2d871d73cf33f5e5c190684682432e"
+        },
+        {
+          "id": "modis_2022_Greece.csv",
+          "sha256": "ee0f93bb988ba88ee41bd8c7a72163b02100986236132678c07d34e6ec9e21dc"
+        },
+        {
+          "id": "modis_2023_Greece.csv",
+          "sha256": "3130a6465f3eefcbd206ad39e0b0fba36c6e09714de2e9aac106499fadc57a9d"
+        },
+        {
+          "id": "modis_2024_Greece.csv",
+          "sha256": "909c3c4edfc1d0ffa813377cba5ffccfc465ab91c277f33f1d24779cf5186992"
+        },
+        {
+          "id": "modis_2025_Greece.csv",
+          "sha256": "3cc082501bdbcde41422856ef009b96f1ea3e0b0e23baf3c9f381109054e6110"
+        },
+        {
+          "id": "viirs-jpss1_2018_Greece.csv",
+          "sha256": "ae7080cae596b84e9d97625ed2ab08895da530c02e38a0efa5a1bf3016ebe3e9"
+        },
+        {
+          "id": "viirs-jpss1_2019_Greece.csv",
+          "sha256": "6b5f8bc57abda745c444355bf2d10843c83d22ce040d65baad2a587223a2857f"
+        },
+        {
+          "id": "viirs-jpss1_2020_Greece.csv",
+          "sha256": "68345bce4b031feaf7737321251ce73b2bd8e0ec3a119537877a97416faa39a9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Greece.csv",
+          "sha256": "22d3574be389ab357922bdd1788cb4a01fff40955625f9b9216ef91720acc998"
+        },
+        {
+          "id": "viirs-jpss1_2022_Greece.csv",
+          "sha256": "7d6fcfb7e3b8a187f20aa4048b73fbb2c9c21c1db6cfab133cdde76c2ff4c6cd"
+        },
+        {
+          "id": "viirs-jpss1_2023_Greece.csv",
+          "sha256": "4e8e1ca9f8ccf7c96108565eae7b1a0804f9ffa15e0de90c73cb04064c1a2cbc"
+        },
+        {
+          "id": "viirs-jpss1_2024_Greece.csv",
+          "sha256": "a411190901d0cbebb5d11dc135bf36b7617db8bc6e3081fc3b9d52958fe13a3d"
+        },
+        {
+          "id": "viirs-jpss1_2025_Greece.csv",
+          "sha256": "3fa8b4a0b78b4bd5200e487f7a986915fda4b828a945cac5c4b220ae23b1e82e"
+        },
+        {
+          "id": "viirs-snpp_2018_Greece.csv",
+          "sha256": "6c2f483c726a9c129e19eacf5d3821f04e0f08b304c2866a74fffd92db6d9feb"
+        },
+        {
+          "id": "viirs-snpp_2019_Greece.csv",
+          "sha256": "6df57bab705b6f80bb88e9b1cc3811f1c431ea060ff9805867f13c6a24eac7a1"
+        },
+        {
+          "id": "viirs-snpp_2020_Greece.csv",
+          "sha256": "6b99b736b1954fd76ae6c65083a0f96ed7e294140fda60cc53dc670e795691a5"
+        },
+        {
+          "id": "viirs-snpp_2021_Greece.csv",
+          "sha256": "57f48c9349e13cb054c799695f4f9f3711425291340aedbb0c798b2cc4e70b5f"
+        },
+        {
+          "id": "viirs-snpp_2022_Greece.csv",
+          "sha256": "20a4d35e431c908e69c7a7b679758aaffecd7ae8ffa999a30a7fb87eebb81534"
+        },
+        {
+          "id": "viirs-snpp_2023_Greece.csv",
+          "sha256": "4e2e64268a17f538e1cfffeab4f59aaa0d744db2613593bc0953fe51e56cd855"
+        },
+        {
+          "id": "viirs-snpp_2024_Greece.csv",
+          "sha256": "1924045681eef9ad3300918bd1dfa8685b6827527e2c8b36639436699606a109"
+        },
+        {
+          "id": "viirs-snpp_2025_Greece.csv",
+          "sha256": "e06f76145dc9ecbb0e0ef310e1d37201ebfb037c8531522217d4baab8ff590fc"
+        }
+      ]
+    },
+    {
+      "place": "Nakuru",
+      "sensor": "noaa20",
+      "daynight": "N",
+      "run_id": "2f61c17bc5cc5ade",
+      "sources": [
+        {
+          "id": "modis_2003_Kenya.csv",
+          "sha256": "134990777edcae50dfb6e2fabf237f720b716b63a9f772b557dc44a96a3b636a"
+        },
+        {
+          "id": "modis_2004_Kenya.csv",
+          "sha256": "98d74a54af2c9a9741c45641198ba0a34fa495ef3dd3d492f180dafd0236ef1d"
+        },
+        {
+          "id": "modis_2005_Kenya.csv",
+          "sha256": "183d02906017be9d262a9bea29798dd5dbffe5416296f478e83f28feeb44a8e5"
+        },
+        {
+          "id": "modis_2006_Kenya.csv",
+          "sha256": "6691256cf3796b9bd56ce471abbd887579556634df3d615c839f7cd848453df2"
+        },
+        {
+          "id": "modis_2007_Kenya.csv",
+          "sha256": "cf23be82385eaa15ffb2b833eef9bb0a108215e1efe6c23e8885208494fbf499"
+        },
+        {
+          "id": "modis_2008_Kenya.csv",
+          "sha256": "f0ee6543decfb4364581cdbf34f5a5e341262f793c2775dacc75245f57ab41e1"
+        },
+        {
+          "id": "modis_2009_Kenya.csv",
+          "sha256": "9a825fe4055c9f13577fd56ac48b71e5434d3d3cfb3c0376e73690085822b8e8"
+        },
+        {
+          "id": "modis_2010_Kenya.csv",
+          "sha256": "2016f40f8dbed6ae4b246d5814a3b7daaa8ff46998d6b97ce6c835d850f29b2a"
+        },
+        {
+          "id": "modis_2011_Kenya.csv",
+          "sha256": "275ece6619772586dc9afac4746e9ecff6ba10202c32930210ee73bb8bd75ce5"
+        },
+        {
+          "id": "modis_2012_Kenya.csv",
+          "sha256": "74247e5e5f315e1645a34e8b4003f2f85a500f3076f8c71f3a1de9a8df34eece"
+        },
+        {
+          "id": "modis_2013_Kenya.csv",
+          "sha256": "2ff032445d2e2a5092e356a87a68813f12a02eafc6f7f4df555f1ca8fb47cb9a"
+        },
+        {
+          "id": "modis_2014_Kenya.csv",
+          "sha256": "dab058b11da69e50ca157208336190647aa7887229de14604cd5fe3a270425b6"
+        },
+        {
+          "id": "modis_2015_Kenya.csv",
+          "sha256": "6be495315eae8994110a5886688daeabbfdd9ff1a03df5f018c385d7d1794371"
+        },
+        {
+          "id": "modis_2016_Kenya.csv",
+          "sha256": "4740475d985b742c78c08b85a7b8be593408a89918be765418867e428d55f0d6"
+        },
+        {
+          "id": "modis_2017_Kenya.csv",
+          "sha256": "c97d1b7b4dab25b90c2f60419439f0635948a450692b024aba8ea4952bc8e1ba"
+        },
+        {
+          "id": "modis_2018_Kenya.csv",
+          "sha256": "072c22d4f6d9092287c54edb1a531d31895348b5b73a9a48b3bf553559bd685c"
+        },
+        {
+          "id": "modis_2019_Kenya.csv",
+          "sha256": "ce3c9ce402f6911a718ecd1b7b77e2bead738605db46dffc7494baf21360f298"
+        },
+        {
+          "id": "modis_2020_Kenya.csv",
+          "sha256": "8c0e706f10c953a89b60023e2d4fcf05731dbfcf5156209bada704389bb82c09"
+        },
+        {
+          "id": "modis_2021_Kenya.csv",
+          "sha256": "1baba69ffcbbd9438604775a87a24f7a58aceba491abc1b6248a69163d6eecac"
+        },
+        {
+          "id": "modis_2022_Kenya.csv",
+          "sha256": "65c729e362f1bf2fbf4e3052606fcf12e9a0efa063f14e38b55c42395890970a"
+        },
+        {
+          "id": "modis_2023_Kenya.csv",
+          "sha256": "1885461d1cc1c391d0d80f8330643ab9a913aeb9447ab45868664e89c68a54bd"
+        },
+        {
+          "id": "modis_2024_Kenya.csv",
+          "sha256": "7ed4692ae4a6c0a9d8b593703a7f4f3b735517aa112dc538b97195ae042b9165"
+        },
+        {
+          "id": "modis_2025_Kenya.csv",
+          "sha256": "71ca2ad8b39a07a686df1f590642a520ead18058fe75fd9d696121c03edf71b0"
+        },
+        {
+          "id": "viirs-jpss1_2018_Kenya.csv",
+          "sha256": "256b9b05e3de330f32ad81c7fd525d0d80e9635a78f36e892bc0e25293169728"
+        },
+        {
+          "id": "viirs-jpss1_2019_Kenya.csv",
+          "sha256": "f5facbfbb08d653b3d8b738c4d107cb793c159c564ccb859af69945667bb285a"
+        },
+        {
+          "id": "viirs-jpss1_2020_Kenya.csv",
+          "sha256": "3019a60b5bb82ac9af27204a8e629a40c552c30b188df2b9f8bc40244ec69ea9"
+        },
+        {
+          "id": "viirs-jpss1_2021_Kenya.csv",
+          "sha256": "ec9d05bdd7ad2baa60b8a16011131ec624529adfae648a7cd9b8993888e3f041"
+        },
+        {
+          "id": "viirs-jpss1_2022_Kenya.csv",
+          "sha256": "9b41b1bc27e903b37b1916cdb2688b09bdf16e1d007047961846a7efe7c7e3ef"
+        },
+        {
+          "id": "viirs-jpss1_2023_Kenya.csv",
+          "sha256": "41a9648663a1ea43a52ae660a91a8f36fb4c16ca0bcb7b785f40d294e5ed7d1d"
+        },
+        {
+          "id": "viirs-jpss1_2024_Kenya.csv",
+          "sha256": "7892c1401fabc5a750533d58284fc49d2368bf94be778d56bcca8020afe92f69"
+        },
+        {
+          "id": "viirs-jpss1_2025_Kenya.csv",
+          "sha256": "ce4c61d9da48885bbc5794098d32faf2e9ae6290b937317722de87dece393182"
+        },
+        {
+          "id": "viirs-snpp_2018_Kenya.csv",
+          "sha256": "59caa555adfa276b4d271ca2691cdc6d70c3547231189c653a07df9ff4c4d18a"
+        },
+        {
+          "id": "viirs-snpp_2019_Kenya.csv",
+          "sha256": "3141df060748c15c12be1af88e951036070cc3eabba89e4c49edd08577158e9c"
+        },
+        {
+          "id": "viirs-snpp_2020_Kenya.csv",
+          "sha256": "946b3b7b7e68c0eb3cb1e0c3c5f4954c55b2c25b533f57227c9ce53e43a29648"
+        },
+        {
+          "id": "viirs-snpp_2021_Kenya.csv",
+          "sha256": "f8d0300cb540c4a59a06849b3c498589cefe0651749723cf1d041fae62fcf181"
+        },
+        {
+          "id": "viirs-snpp_2022_Kenya.csv",
+          "sha256": "12a9a8ccc63eb08afdd57eda13d4e87659b8ae998b369adc30ad222eb9109cd1"
+        },
+        {
+          "id": "viirs-snpp_2023_Kenya.csv",
+          "sha256": "e0f67c8ecb8f0791cd7e7dffae5475de0b83156f8204eab535c4bd924bf44c52"
+        },
+        {
+          "id": "viirs-snpp_2024_Kenya.csv",
+          "sha256": "4829fefb5ad260635b15637d4a55aceca81f5bf1ec496bf031f32a48edb6e0c5"
+        },
+        {
+          "id": "viirs-snpp_2025_Kenya.csv",
+          "sha256": "397f5160bf691948c288d38557039f82387167df15c5b4d20710c00ea549cf66"
+        }
+      ]
+    }
+  ],
+  "code_sha256": {
+    "engine.py": "ae38002c4e1c5ac0acb9c8863fec3358eaa8362e84aa51c6219adca701ea910a",
+    "science.py": "576dcbe108fcc1378acad9d90d43e283168d2b6d0f03ccfc05a3051157c62388"
+  },
+  "target_files": [
+    {
+      "id": "modis_2024_Spain.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 167436,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Spain.csv"
+    },
+    {
+      "id": "viirs-snpp_2024_Spain.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 654773,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Spain.csv"
+    },
+    {
+      "id": "viirs-jpss1_2024_Spain.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 729168,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Spain.csv"
+    },
+    {
+      "id": "modis_2025_Spain.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 757793,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Spain.csv"
+    },
+    {
+      "id": "viirs-snpp_2025_Spain.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 2407569,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Spain.csv"
+    },
+    {
+      "id": "viirs-jpss1_2025_Spain.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 2469474,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Spain.csv"
+    },
+    {
+      "id": "modis_2024_Chile.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 526327,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Chile.csv"
+    },
+    {
+      "id": "viirs-snpp_2024_Chile.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 1737186,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Chile.csv"
+    },
+    {
+      "id": "viirs-jpss1_2024_Chile.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 1771440,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Chile.csv"
+    },
+    {
+      "id": "modis_2025_Chile.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 547628,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Chile.csv"
+    },
+    {
+      "id": "viirs-snpp_2025_Chile.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 2078518,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Chile.csv"
+    },
+    {
+      "id": "viirs-jpss1_2025_Chile.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 2073080,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Chile.csv"
+    },
+    {
+      "id": "modis_2024_Thailand.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 1545203,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Thailand.csv"
+    },
+    {
+      "id": "viirs-snpp_2024_Thailand.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 11297113,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Thailand.csv"
+    },
+    {
+      "id": "viirs-jpss1_2024_Thailand.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 11810940,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Thailand.csv"
+    },
+    {
+      "id": "modis_2025_Thailand.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 1228690,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Thailand.csv"
+    },
+    {
+      "id": "viirs-snpp_2025_Thailand.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 8177244,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Thailand.csv"
+    },
+    {
+      "id": "viirs-jpss1_2025_Thailand.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 8696690,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Thailand.csv"
+    },
+    {
+      "id": "modis_2024_Zambia.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 16450393,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Zambia.csv"
+    },
+    {
+      "id": "viirs-snpp_2024_Zambia.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 61367625,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Zambia.csv"
+    },
+    {
+      "id": "viirs-jpss1_2024_Zambia.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 73824411,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Zambia.csv"
+    },
+    {
+      "id": "modis_2025_Zambia.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 14851303,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Zambia.csv"
+    },
+    {
+      "id": "viirs-snpp_2025_Zambia.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 68228708,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Zambia.csv"
+    },
+    {
+      "id": "viirs-jpss1_2025_Zambia.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 69835284,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Zambia.csv"
+    }
+  ],
+  "metric_contract": {
+    "unit": "distinct platform x equal-area cell x UTC day, summed by month",
+    "reference": "Aqua comparator, not ground truth",
+    "metrics": [
+      "WAPE",
+      "MAE",
+      "signed_bias",
+      "circular_peak_month_displacement"
+    ],
+    "comparators": [
+      "raw VIIRS identity",
+      "source-trained annual ratio",
+      "source-trained pooled seasonal ratio"
+    ],
+    "policy": "No target-region fitting, parameter selection, exclusion based on outcomes, or promotion after scoring. Missing/corrupt sources fail the region; no invented zeros. Report every case, including failures."
+  },
+  "independent_validation": {
+    "source": "USGS/USFS MTBS 2023 burned-area boundaries, layer 80",
+    "bbox": [
+      -124,
+      42,
+      -116,
+      46
+    ],
+    "selection": "All returned 2023 Wildfire polygons intersecting bounding box; no manual event selection",
+    "windows_days_after_ignition": [
+      7,
+      30,
+      60
+    ],
+    "distance_buffers_km": [
+      0,
+      1
+    ],
+    "sensors": [
+      "aqua",
+      "snpp",
+      "noaa20"
+    ],
+    "strata": "D and N reported separately",
+    "interpretation": "Reference-event corroboration against independently mapped postfire footprints, not pixel recall, precision, exact ignition latency or burned-area estimation. Retain incomplete/invalid reference events."
+  },
+  "coverage_pilot": {
+    "source": "NOAA-20 operational VIIRS I-band E-FIRE and matching terrain-corrected imagery geolocation",
+    "date": "2023-08-15",
+    "bbox": [
+      -124,
+      42,
+      -116,
+      46
+    ],
+    "selection": "All same-date granules whose full geolocated pixels enter the box; retain cloud, unknown, missing, bowtie, water and fire separately",
+    "limitations": "NOAA operational QA does not verify NASA Aqua or VJ114IMG standard-product observation masks. This is a selected-day pilot, not historical/global QA completion."
+  },
+  "integrity_note": "Locally frozen first-look geographic evaluation; not independently blinded or externally timestamped. Freeze metadata alone is not tamper-proof."
+}

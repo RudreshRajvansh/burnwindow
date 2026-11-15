@@ -1,0 +1,37 @@
+{
+  "provider": "USGS/USFS MTBS",
+  "reference": "Landsat/Sentinel-2 postfire burned-area mapping with incident attributes",
+  "query_urls": [
+    "https://apps.fs.usda.gov/ArcX/rest/services/EDW/EDW_MTBS_01/MapServer/80/query?f=json&where=year%3D2023+AND+fire_type%3D%27Wildfire%27&geometry=-124%2C42%2C-116%2C46&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&returnIdsOnly=true",
+    "https://apps.fs.usda.gov/ArcX/rest/services/EDW/EDW_MTBS_01/MapServer/80/query?f=geojson&objectIds=1043623%2C1043652%2C1043658%2C1043715%2C1043730%2C1043747%2C1043749%2C1043750%2C1043764%2C1043774%2C1043784%2C1043785%2C1043834%2C1043835%2C1043839%2C1043845%2C1043846%2C1043864%2C1043869%2C1043973%2C1043995%2C1044562%2C1045597&outFields=%2A&outSR=4326&returnGeometry=true"
+  ],
+  "selected_ids": [
+    1043623,
+    1043652,
+    1043658,
+    1043715,
+    1043730,
+    1043747,
+    1043749,
+    1043750,
+    1043764,
+    1043774,
+    1043784,
+    1043785,
+    1043834,
+    1043835,
+    1043839,
+    1043845,
+    1043846,
+    1043864,
+    1043869,
+    1043973,
+    1043995,
+    1044562,
+    1045597
+  ],
+  "events": 23,
+  "sha256": "7e50d4abc88f6d5c46e4b9f3723a6fb55b9221656ccc88382505127b2507e8f2",
+  "selection_complete": true,
+  "limitations": "Large mapped fires only; omitted/unmapped/small events are not negatives. Ignition dates do not specify fire cessation or pixel burning time."
+}

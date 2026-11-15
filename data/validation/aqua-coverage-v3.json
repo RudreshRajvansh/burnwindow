@@ -1,0 +1,259 @@
+{
+  "product": "Aqua MYD14.061 + MYD03.061",
+  "date": "2024-08-15",
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "granules": [
+    {
+      "mask_file": "MYD14.A2024228.0955.061.2024229110927.hdf",
+      "geolocation_file": "MYD03.A2024228.0955.061.2024229150250.hdf",
+      "state": "decoded_native_samples",
+      "counts": {
+        "missing_input": 0,
+        "obsolete_unprocessed": 0,
+        "other_unprocessed": 0,
+        "nonfire_water": 1665,
+        "cloud": 32027,
+        "nonfire_land": 42859,
+        "unknown": 0,
+        "low_fire": 0,
+        "nominal_fire": 0,
+        "high_fire": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 76551,
+      "native_shape": [
+        2030,
+        1354
+      ],
+      "alignment_checks": 28,
+      "max_alignment_error_degrees": 0.0,
+      "pixel_evidence": {
+        "file": "aqua-pixel-evidence/MYD14.A2024228.0955.061.2024229110927.hdf.npz",
+        "sha256": "f80f1b3b8f55167f3c74289d3749a963ba27278edd413a078bde6e2c2e6eb19d"
+      },
+      "sources": [
+        {
+          "file": "MYD14.A2024228.0955.061.2024229110927.hdf",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.0955.061.2024229110927/MYD14.A2024228.0955.061.2024229110927.hdf",
+          "product": "MYD14.061",
+          "concept_id": "G3199009200-LPCLOUD",
+          "sha256": "b7d640f3ea0b2d67a7886a0ca3cefdeecb313de4875be168071c8a47132416aa",
+          "bytes": 530000
+        },
+        {
+          "file": "MYD03.A2024228.0955.061.2024229150250.hdf",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.0955.061.2024229150250.hdf",
+          "product": "MYD03.061",
+          "sha256": "289ac61706a204732c8e2850e1b8051d22f878047b354a50cb35f7d0aadd601d",
+          "bytes": 38676920
+        }
+      ]
+    },
+    {
+      "mask_file": "MYD14.A2024228.1135.061.2024229111336.hdf",
+      "geolocation_file": "MYD03.A2024228.1135.061.2024229150250.hdf",
+      "state": "decoded_native_samples",
+      "counts": {
+        "missing_input": 0,
+        "obsolete_unprocessed": 0,
+        "other_unprocessed": 0,
+        "nonfire_water": 1921,
+        "cloud": 32015,
+        "nonfire_land": 45106,
+        "unknown": 0,
+        "low_fire": 0,
+        "nominal_fire": 0,
+        "high_fire": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 79042,
+      "native_shape": [
+        2030,
+        1354
+      ],
+      "alignment_checks": 4,
+      "max_alignment_error_degrees": 0.0,
+      "pixel_evidence": {
+        "file": "aqua-pixel-evidence/MYD14.A2024228.1135.061.2024229111336.hdf.npz",
+        "sha256": "034faf47569cfaf04ac6acdab0f30b291daa890646b6be726144464360ff5820"
+      },
+      "sources": [
+        {
+          "file": "MYD14.A2024228.1135.061.2024229111336.hdf",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.1135.061.2024229111336/MYD14.A2024228.1135.061.2024229111336.hdf",
+          "product": "MYD14.061",
+          "concept_id": "G3199008932-LPCLOUD",
+          "sha256": "45406ea6b7946874fecf0e3e6b3dbfbed3821262f6e1057943e919072aa06a26",
+          "bytes": 262397
+        },
+        {
+          "file": "MYD03.A2024228.1135.061.2024229150250.hdf",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.1135.061.2024229150250.hdf",
+          "product": "MYD03.061",
+          "sha256": "af4ffe545373beb7b9bfad22c7fefe8d81f0104fd37438a9baa958c7639f2bde",
+          "bytes": 29194150
+        }
+      ]
+    },
+    {
+      "mask_file": "MYD14.A2024228.2100.061.2024229112158.hdf",
+      "geolocation_file": "MYD03.A2024228.2100.061.2024229150925.hdf",
+      "state": "decoded_native_samples",
+      "counts": {
+        "missing_input": 0,
+        "obsolete_unprocessed": 0,
+        "other_unprocessed": 0,
+        "nonfire_water": 1004,
+        "cloud": 24392,
+        "nonfire_land": 33943,
+        "unknown": 0,
+        "low_fire": 0,
+        "nominal_fire": 0,
+        "high_fire": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 59339,
+      "native_shape": [
+        2030,
+        1354
+      ],
+      "alignment_checks": 16,
+      "max_alignment_error_degrees": 0.0,
+      "pixel_evidence": {
+        "file": "aqua-pixel-evidence/MYD14.A2024228.2100.061.2024229112158.hdf.npz",
+        "sha256": "4122f3e4719316101c3a8353a00509fe95cd445240a0f4f75d8efe975c970194"
+      },
+      "sources": [
+        {
+          "file": "MYD14.A2024228.2100.061.2024229112158.hdf",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2100.061.2024229112158/MYD14.A2024228.2100.061.2024229112158.hdf",
+          "product": "MYD14.061",
+          "concept_id": "G3199009194-LPCLOUD",
+          "sha256": "cf19f9749c64d01c4a0bfa3276793ffe281ba83cca9fd335c007f3d7af5a8148",
+          "bytes": 519329
+        },
+        {
+          "file": "MYD03.A2024228.2100.061.2024229150925.hdf",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2100.061.2024229150925.hdf",
+          "product": "MYD03.061",
+          "sha256": "b6f3f1ebf6c6710586c797299e5440e92f848b5d743395355878ef2e2d5fb1b5",
+          "bytes": 40310223
+        }
+      ]
+    },
+    {
+      "mask_file": "MYD14.A2024228.2105.061.2024229112242.hdf",
+      "geolocation_file": "MYD03.A2024228.2105.061.2024229150914.hdf",
+      "state": "decoded_native_samples",
+      "counts": {
+        "missing_input": 0,
+        "obsolete_unprocessed": 0,
+        "other_unprocessed": 0,
+        "nonfire_water": 456,
+        "cloud": 41061,
+        "nonfire_land": 25313,
+        "unknown": 1,
+        "low_fire": 0,
+        "nominal_fire": 0,
+        "high_fire": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 66831,
+      "native_shape": [
+        2030,
+        1354
+      ],
+      "alignment_checks": 106,
+      "max_alignment_error_degrees": 0.0,
+      "pixel_evidence": {
+        "file": "aqua-pixel-evidence/MYD14.A2024228.2105.061.2024229112242.hdf.npz",
+        "sha256": "553ea65d7250c9a400812f182e292264464b69e44075a76328088d13b992c31d"
+      },
+      "sources": [
+        {
+          "file": "MYD14.A2024228.2105.061.2024229112242.hdf",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2105.061.2024229112242/MYD14.A2024228.2105.061.2024229112242.hdf",
+          "product": "MYD14.061",
+          "concept_id": "G3199009935-LPCLOUD",
+          "sha256": "e1b92f29742b88f020b265d60d85c716e8dc4b731976ff2a43a3e87a8849fd0d",
+          "bytes": 803375
+        },
+        {
+          "file": "MYD03.A2024228.2105.061.2024229150914.hdf",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2105.061.2024229150914.hdf",
+          "product": "MYD03.061",
+          "sha256": "900dd8404bfcafa23806af2b16430351a5a8303c3389f034395154166e82b127",
+          "bytes": 41696926
+        }
+      ]
+    },
+    {
+      "mask_file": "MYD14.A2024228.2240.061.2024229112642.hdf",
+      "geolocation_file": "MYD03.A2024228.2240.061.2024229151443.hdf",
+      "state": "decoded_native_samples",
+      "counts": {
+        "missing_input": 0,
+        "obsolete_unprocessed": 0,
+        "other_unprocessed": 0,
+        "nonfire_water": 345,
+        "cloud": 21296,
+        "nonfire_land": 11269,
+        "unknown": 0,
+        "low_fire": 0,
+        "nominal_fire": 0,
+        "high_fire": 0,
+        "unknown_code": 0
+      },
+      "pixel_samples": 32910,
+      "native_shape": [
+        2030,
+        1354
+      ],
+      "alignment_checks": 0,
+      "max_alignment_error_degrees": null,
+      "pixel_evidence": {
+        "file": "aqua-pixel-evidence/MYD14.A2024228.2240.061.2024229112642.hdf.npz",
+        "sha256": "6601bda0602d60911c684bebb1305993832ae552bb8c6c0647279485a94e5db3"
+      },
+      "sources": [
+        {
+          "file": "MYD14.A2024228.2240.061.2024229112642.hdf",
+          "url": "https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MYD14.061/MYD14.A2024228.2240.061.2024229112642/MYD14.A2024228.2240.061.2024229112642.hdf",
+          "product": "MYD14.061",
+          "concept_id": "G3199009857-LPCLOUD",
+          "sha256": "ce09626e8a1dfb90f85e977ed494a9153dcc45af9d4be03f6c9e53e53263f423",
+          "bytes": 342979
+        },
+        {
+          "file": "MYD03.A2024228.2240.061.2024229151443.hdf",
+          "url": "https://data.laadsdaac.earthdatacloud.nasa.gov/prod-lads/MYD03/MYD03.A2024228.2240.061.2024229151443.hdf",
+          "product": "MYD03.061",
+          "sha256": "42ace053295c02b03b82746d9c33d24299c158e26ead00948b88c929f20cea55",
+          "bytes": 28761091
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "missing_input": 0,
+    "obsolete_unprocessed": 0,
+    "other_unprocessed": 0,
+    "nonfire_water": 5391,
+    "cloud": 150791,
+    "nonfire_land": 158490,
+    "unknown": 1,
+    "low_fire": 0,
+    "nominal_fire": 0,
+    "high_fire": 0,
+    "unknown_code": 0
+  },
+  "pixel_samples": 314673,
+  "all_selected_decoded": true,
+  "interpretation": "Native geolocated product-class samples only. Cloud and nonfire labels are product observations, not independently verified cloud/fire truth. Full-area/day coverage and pixel-area weighting are not established. Raw MODIS QA is not interpreted with NOAA bit meanings.",
+  "processed_at_utc": "2026-11-15T14:07:28.537604+00:00"
+}

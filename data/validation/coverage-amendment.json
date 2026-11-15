@@ -1,0 +1,14 @@
+{
+  "id": "coverage-amendment-001",
+  "utc": "2026-11-15T13:31:56.109105+00:00",
+  "reason": "The public NOAA EFIRE archive has no 2023 directory. No raster outcomes were read. Use 2024-08-15 instead. Limit full geolocation downloads to the first four chronological candidate granules to bound a ~400 MB pilot; never represent this sample as full-day or global coverage.",
+  "original_protocol_sha256": "e8b0549fedd46e23c42f55197aee6116308d307316a0813e4f92605422f5fdb2",
+  "date": "2024-08-15",
+  "bbox": [
+    -124,
+    42,
+    -116,
+    46
+  ],
+  "selection": "Use complete CMR NOAA-20 VIIRS geolocation metadata search for the box/day, then match NOAA granules overlapping each candidate temporal interval, extended 90 seconds each side. Retain first four unique chronological candidates, before reading QA outcomes. Validate time/shape/full-pixel geolocation; missing/mismatched data remain unknown."
+}

@@ -1,0 +1,4692 @@
+{
+  "title": "Frozen first-look geographic transfer",
+  "cases": [
+    {
+      "region": {
+        "name": "Badajoz",
+        "country": "Spain",
+        "lat": 38.878,
+        "lon": -6.97
+      },
+      "sensor": "snpp",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.20759493670886076,
+          "pooled": 0.17439002017978353
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 3,
+          "target": 6,
+          "raw": 6,
+          "annual": 1.2455696202531645,
+          "pooled": 1.2202531645569619
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 1,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.830379746835443,
+          "pooled": 0.701204758973127
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.4531645569620253,
+          "pooled": 1.185974370995468
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 1,
+          "target": 5,
+          "raw": 5,
+          "annual": 1.0379746835443038,
+          "pooled": 1.0786060321925302
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.20759493670886076,
+          "pooled": 0.17162949568012859
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 4,
+          "target": 6,
+          "raw": 6,
+          "annual": 1.2455696202531645,
+          "pooled": 2.0350679793717767
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 3,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.9063291139240506,
+          "pooled": 5.011508591695714
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 5,
+          "target": 15,
+          "raw": 15,
+          "annual": 3.113924050632911,
+          "pooled": 2.0418609815678437
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 5,
+          "target": 29,
+          "raw": 29,
+          "annual": 6.020253164556962,
+          "pooled": 6.971964369432723
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 7,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.529113924050633,
+          "pooled": 3.782036744022504
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 10,
+          "raw": 10,
+          "annual": 2.0759493670886076,
+          "pooled": 2.0337552742616034
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 8,
+          "raw": 8,
+          "annual": 1.660759493670886,
+          "pooled": 1.3951201614382682
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 3,
+          "target": 6,
+          "raw": 6,
+          "annual": 1.2455696202531645,
+          "pooled": 1.2202531645569619
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 1,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.8683544303797468,
+          "pooled": 1.5777107076895356
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 1,
+          "target": 11,
+          "raw": 11,
+          "annual": 2.283544303797468,
+          "pooled": 1.863674011564307
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 1,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.4151898734177215,
+          "pooled": 0.431442412877012
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 7,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.4531645569620253,
+          "pooled": 1.2014064697609002
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 3,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.529113924050633,
+          "pooled": 5.766025941553368
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 16,
+          "target": 23,
+          "raw": 23,
+          "annual": 4.774683544303797,
+          "pooled": 8.233192686357244
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 4,
+          "target": 19,
+          "raw": 19,
+          "annual": 3.944303797468354,
+          "pooled": 2.5863572433192688
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 17,
+          "target": 54,
+          "raw": 54,
+          "annual": 11.21012658227848,
+          "pooled": 12.982278481012658
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 8,
+          "target": 12,
+          "raw": 12,
+          "annual": 2.491139240506329,
+          "pooled": 2.6696729957805907
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 283,
+          "wape": 197.89473684210526,
+          "bias": 197.89473684210526,
+          "mae": 7.833333333333333
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 58.74936708860759,
+          "wape": 50.91805463024651,
+          "bias": -38.15856095936043,
+          "mae": 2.0155063291139244
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 66.33538605884027,
+          "wape": 51.272675058572425,
+          "bias": -30.17327783279971,
+          "mae": 2.0295433877351585
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Badajoz",
+        "country": "Spain",
+        "lat": 38.878,
+        "lon": -6.97
+      },
+      "sensor": "snpp",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 0,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.6278026905829597,
+          "pooled": 0.3187059577194107
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.15695067264573992,
+          "pooled": 0.09899562059108909
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 11,
+          "raw": 11,
+          "annual": 1.7264573991031391,
+          "pooled": 0.7673143996013951
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 0,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.6278026905829597,
+          "pooled": 0.279023418036871
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7847533632286996,
+          "pooled": 0.3487792725460887
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.5695067264573992,
+          "pooled": 2.780891878425511
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 1,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.5695067264573992,
+          "pooled": 2.6086696562032885
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 1,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7847533632286996,
+          "pooled": 1.0895200132868292
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.20926756352765324
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.15695067264573992,
+          "pooled": 0.06975585450921774
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.15695067264573992,
+          "pooled": 0.07967648942985267
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.2969868617732673
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.21751303746188988
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7847533632286996,
+          "pooled": 0.3487792725460887
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.4125560538116593,
+          "pooled": 0.6278026905829597
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 1,
+          "target": 12,
+          "raw": 12,
+          "annual": 1.883408071748879,
+          "pooled": 0.837070254110613
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 1,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.3542600896860986,
+          "pooled": 4.171337817638267
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 6,
+          "target": 32,
+          "raw": 32,
+          "annual": 5.022421524663677,
+          "pooled": 8.347742899850523
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 2,
+          "target": 17,
+          "raw": 17,
+          "annual": 2.668161434977579,
+          "pooled": 3.7043680451752197
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 17,
+          "raw": 17,
+          "annual": 2.668161434977579,
+          "pooled": 1.1858495266567017
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7847533632286996,
+          "pooled": 0.3487792725460887
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.1395117090184355
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 174,
+          "wape": 1350.0,
+          "bias": 1350.0,
+          "mae": 6.75
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 27.309417040358746,
+          "wape": 147.45889387144993,
+          "bias": 127.57847533632288,
+          "mae": 0.7372944693572497
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 28.87634151123726,
+          "wape": 143.35167502513363,
+          "bias": 140.6361792603105,
+          "mae": 0.7167583751256682
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 4,
+          "annual": 4,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Badajoz",
+        "country": "Spain",
+        "lat": 38.878,
+        "lon": -6.97
+      },
+      "sensor": "noaa20",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.39265762170790103,
+          "pooled": 0.3306210182797283
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 3,
+          "target": 12,
+          "raw": 12,
+          "annual": 2.3559457302474063,
+          "pooled": 2.4464580604034594
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 1,
+          "target": 6,
+          "raw": 6,
+          "annual": 1.1779728651237031,
+          "pooled": 1.0228092812199325
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.3743016759776536,
+          "pooled": 1.0969118559900684
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 1,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.19632881085395051,
+          "pooled": 0.17059058260175577
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.9816440542697525,
+          "pooled": 0.7835084685643345
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 4,
+          "target": 12,
+          "raw": 12,
+          "annual": 2.3559457302474063,
+          "pooled": 3.1304203245544024
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 3,
+          "target": 21,
+          "raw": 21,
+          "annual": 4.122905027932961,
+          "pooled": 8.008872822872165
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 5,
+          "target": 21,
+          "raw": 21,
+          "annual": 4.122905027932961,
+          "pooled": 3.0392987863610093
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 5,
+          "target": 35,
+          "raw": 35,
+          "annual": 6.871508379888268,
+          "pooled": 7.720670391061453
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 7,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.3375897845171587,
+          "pooled": 3.925901973195366
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.3375897845171587,
+          "pooled": 2.427817682007626
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.7486033519553073,
+          "pooled": 2.314347127958098
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 3,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.7853152434158021,
+          "pooled": 0.8154860201344865
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 1,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.39265762170790103,
+          "pooled": 0.34093642707331084
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 1,
+          "target": 11,
+          "raw": 11,
+          "annual": 2.159616919393456,
+          "pooled": 1.723718630841536
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 1,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.5889864325618516,
+          "pooled": 0.5117717478052674
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 7,
+          "target": 8,
+          "raw": 8,
+          "annual": 1.5706304868316041,
+          "pooled": 1.2536135497029353
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 3,
+          "target": 18,
+          "raw": 18,
+          "annual": 3.533918595371109,
+          "pooled": 4.695630486831604
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 16,
+          "target": 26,
+          "raw": 26,
+          "annual": 5.1045490822027135,
+          "pooled": 9.915747304508395
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 4,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.7486033519553073,
+          "pooled": 2.0261991909073394
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 17,
+          "target": 64,
+          "raw": 64,
+          "annual": 12.565043894652833,
+          "pooled": 14.11779728651237
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 8,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.3375897845171587,
+          "pooled": 3.925901973195366
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 337,
+          "wape": 254.73684210526315,
+          "bias": 254.73684210526315,
+          "mae": 10.083333333333334
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 66.16280925778132,
+          "wape": 49.950854790607806,
+          "bias": -30.354937623388082,
+          "mae": 1.977221335461559
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 95,
+          "estimate_total": 75.74503099258202,
+          "wape": 48.408323303259344,
+          "bias": -20.26838842886104,
+          "mae": 1.9161627974206823
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 3
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Badajoz",
+        "country": "Spain",
+        "lat": 38.878,
+        "lon": -6.97
+      },
+      "sensor": "noaa20",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.5882352941176471,
+          "pooled": 0.35307593827909173
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.14705882352941177,
+          "pooled": 0.10028621999171027
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7352941176470589,
+          "pooled": 0.32679738562091504
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 0,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.3235294117647058,
+          "pooled": 0.5882352941176471
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 8,
+          "raw": 8,
+          "annual": 1.1764705882352942,
+          "pooled": 0.5228758169934641
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 11,
+          "raw": 11,
+          "annual": 1.6176470588235294,
+          "pooled": 2.38562091503268
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 1,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.2058823529411766,
+          "pooled": 4.684095860566448
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 1,
+          "target": 11,
+          "raw": 11,
+          "annual": 1.6176470588235294,
+          "pooled": 2.246732026143791
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.14705882352941177,
+          "pooled": 0.06535947712418301
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.20057243998342053
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.4411764705882353,
+          "pooled": 0.19607843137254904
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 6,
+          "raw": 6,
+          "annual": 0.8823529411764706,
+          "pooled": 0.3921568627450981
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 1,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.4705882352941178,
+          "pooled": 0.6535947712418301
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 1,
+          "target": 17,
+          "raw": 17,
+          "annual": 2.5,
+          "pooled": 3.6868686868686873
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 6,
+          "target": 30,
+          "raw": 30,
+          "annual": 4.411764705882353,
+          "pooled": 9.368191721132897
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 2,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.2058823529411766,
+          "pooled": 3.063725490196078
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.058823529411765,
+          "pooled": 0.9150326797385622
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 170,
+          "wape": 1316.6666666666667,
+          "bias": 1316.6666666666667,
+          "mae": 6.583333333333333
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 25.0,
+          "wape": 134.80392156862743,
+          "bias": 108.33333333333336,
+          "mae": 0.6740196078431372
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 12,
+          "estimate_total": 30.272175834142516,
+          "wape": 158.04155243049047,
+          "bias": 152.26813195118763,
+          "mae": 0.7902077621524524
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chillan",
+        "country": "Chile",
+        "lat": -36.6066,
+        "lon": -72.1034
+      },
+      "sensor": "snpp",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 10,
+          "target": 18,
+          "raw": 18,
+          "annual": 3.7367088607594936,
+          "pooled": 3.1390203632361033
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 5,
+          "target": 16,
+          "raw": 16,
+          "annual": 3.321518987341772,
+          "pooled": 3.2540084388185653
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 34,
+          "target": 59,
+          "raw": 59,
+          "annual": 12.248101265822784,
+          "pooled": 10.342770194853623
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 126,
+          "target": 232,
+          "raw": 232,
+          "annual": 48.1620253164557,
+          "pooled": 39.306579152992654
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 117,
+          "target": 262,
+          "raw": 262,
+          "annual": 54.38987341772152,
+          "pooled": 56.51895608688857
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 2,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.4151898734177215,
+          "pooled": 0.34325899136025717
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 36,
+          "target": 74,
+          "raw": 74,
+          "annual": 15.362025316455696,
+          "pooled": 25.099171745585245
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 22,
+          "target": 62,
+          "raw": 62,
+          "annual": 12.870886075949366,
+          "pooled": 22.193823763223875
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 33,
+          "target": 91,
+          "raw": 91,
+          "annual": 18.89113924050633,
+          "pooled": 12.387289954844919
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 13,
+          "target": 90,
+          "raw": 90,
+          "annual": 18.68354430379747,
+          "pooled": 21.637130801687764
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 1,
+          "target": 36,
+          "raw": 36,
+          "annual": 7.473417721518987,
+          "pooled": 8.009018987341772
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 52,
+          "raw": 52,
+          "annual": 10.79493670886076,
+          "pooled": 10.575527426160336
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 7,
+          "target": 31,
+          "raw": 31,
+          "annual": 6.435443037974683,
+          "pooled": 5.406090625573289
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 29,
+          "target": 46,
+          "raw": 46,
+          "annual": 9.549367088607594,
+          "pooled": 9.355274261603375
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 12,
+          "target": 16,
+          "raw": 16,
+          "annual": 3.321518987341772,
+          "pooled": 2.804819035892508
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 124,
+          "target": 252,
+          "raw": 252,
+          "annual": 52.31392405063291,
+          "pooled": 42.69507735583685
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 117,
+          "target": 254,
+          "raw": 254,
+          "annual": 52.72911392405063,
+          "pooled": 54.79318643538053
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 67,
+          "target": 186,
+          "raw": 186,
+          "annual": 38.6126582278481,
+          "pooled": 31.923086196503917
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 24,
+          "target": 83,
+          "raw": 83,
+          "annual": 17.230379746835442,
+          "pooled": 28.15177371464291
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 8,
+          "target": 33,
+          "raw": 33,
+          "annual": 6.850632911392405,
+          "pooled": 11.81284168042561
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 11,
+          "target": 56,
+          "raw": 56,
+          "annual": 11.625316455696202,
+          "pooled": 7.622947664519949
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 20,
+          "target": 111,
+          "raw": 111,
+          "annual": 23.043037974683543,
+          "pooled": 26.685794655414906
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 6,
+          "target": 59,
+          "raw": 59,
+          "annual": 12.248101265822784,
+          "pooled": 13.125892229254571
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 7,
+          "target": 63,
+          "raw": 63,
+          "annual": 13.078481012658228,
+          "pooled": 12.8126582278481
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 2184,
+          "wape": 161.8705035971223,
+          "bias": 161.8705035971223,
+          "mae": 56.25
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 453.3873417721519,
+          "wape": 54.25735361078225,
+          "bias": -45.6370093798379,
+          "mae": 18.854430379746834
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 459.9959979898902,
+          "wape": 57.07589028562464,
+          "bias": -44.844604557567116,
+          "mae": 19.833871874254562
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chillan",
+        "country": "Chile",
+        "lat": -36.6066,
+        "lon": -72.1034
+      },
+      "sensor": "snpp",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 5,
+          "target": 24,
+          "raw": 24,
+          "annual": 3.766816143497758,
+          "pooled": 1.912235746316464
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 16,
+          "raw": 16,
+          "annual": 2.5112107623318387,
+          "pooled": 1.5839299294574254
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.197309417040359,
+          "pooled": 1.5225912622332292
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 33,
+          "raw": 33,
+          "annual": 5.179372197309418,
+          "pooled": 2.3019431988041856
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 4,
+          "target": 96,
+          "raw": 96,
+          "annual": 15.067264573991032,
+          "pooled": 6.696562032884904
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.1395117090184355
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 2,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.5695067264573992,
+          "pooled": 2.780891878425511
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.4125560538116593,
+          "pooled": 2.3478026905829594
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 0,
+          "target": 8,
+          "raw": 8,
+          "annual": 1.2556053811659194,
+          "pooled": 1.743232021258927
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 6,
+          "raw": 6,
+          "annual": 0.9417040358744395,
+          "pooled": 0.4185351270553065
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.0986547085201794,
+          "pooled": 0.4882909815645242
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 1,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.4125560538116593,
+          "pooled": 0.6278026905829597
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 18,
+          "raw": 18,
+          "annual": 2.8251121076233185,
+          "pooled": 1.4341768097373482
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 15,
+          "target": 51,
+          "raw": 51,
+          "annual": 8.004484304932737,
+          "pooled": 5.048776650145544
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 6,
+          "target": 21,
+          "raw": 21,
+          "annual": 3.2959641255605385,
+          "pooled": 2.2838868933498437
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 2,
+          "target": 18,
+          "raw": 18,
+          "annual": 2.8251121076233185,
+          "pooled": 1.2556053811659194
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 79,
+          "raw": 79,
+          "annual": 12.399103139013453,
+          "pooled": 5.510712506228201
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 48,
+          "raw": 48,
+          "annual": 7.533632286995516,
+          "pooled": 3.348281016442452
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.3542600896860986,
+          "pooled": 4.171337817638267
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.0986547085201794,
+          "pooled": 1.826068759342302
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7847533632286996,
+          "pooled": 1.0895200132868292
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.197309417040359,
+          "pooled": 0.9765819631290484
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 1,
+          "target": 12,
+          "raw": 12,
+          "annual": 1.883408071748879,
+          "pooled": 0.837070254110613
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.5695067264573992,
+          "pooled": 0.6975585450921774
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 532,
+          "wape": 1337.837837837838,
+          "bias": 1337.837837837838,
+          "mae": 20.625
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 83.49775784753363,
+          "wape": 187.09247363955885,
+          "bias": 125.66961580414495,
+          "mae": 2.884342301943199
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 51.04290587785338,
+          "wape": 135.43824499056944,
+          "bias": 37.953799669873995,
+          "mae": 2.0880062769379455
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 4,
+          "annual": 4,
+          "pooled": 4
+        },
+        {
+          "year": 2025,
+          "raw": 3,
+          "annual": 3,
+          "pooled": 3
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chillan",
+        "country": "Chile",
+        "lat": -36.6066,
+        "lon": -72.1034
+      },
+      "sensor": "noaa20",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 10,
+          "target": 23,
+          "raw": 23,
+          "annual": 4.515562649640862,
+          "pooled": 3.8021417102168753
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 5,
+          "target": 18,
+          "raw": 18,
+          "annual": 3.533918595371109,
+          "pooled": 3.669687090605189
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 34,
+          "target": 65,
+          "raw": 65,
+          "annual": 12.761372705506783,
+          "pooled": 11.080433879882602
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 126,
+          "target": 238,
+          "raw": 238,
+          "annual": 46.72625698324022,
+          "pooled": 37.295003103662324
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 117,
+          "target": 267,
+          "raw": 267,
+          "annual": 52.41979249800479,
+          "pooled": 45.54768555466879
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 2,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.9816440542697525,
+          "pooled": 0.7835084685643345
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 36,
+          "target": 140,
+          "raw": 140,
+          "annual": 27.48603351955307,
+          "pooled": 36.52157045313469
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 22,
+          "target": 52,
+          "raw": 52,
+          "annual": 10.209098164405427,
+          "pooled": 19.83149460901679
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 33,
+          "target": 94,
+          "raw": 94,
+          "annual": 18.45490822027135,
+          "pooled": 13.604480281806422
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 13,
+          "target": 82,
+          "raw": 82,
+          "annual": 16.098962490023943,
+          "pooled": 18.088427773343973
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 1,
+          "target": 46,
+          "raw": 46,
+          "annual": 9.031125299281724,
+          "pooled": 10.623028868646285
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 64,
+          "raw": 64,
+          "annual": 12.565043894652833,
+          "pooled": 9.140019508734593
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 7,
+          "target": 27,
+          "raw": 27,
+          "annual": 5.300877893056664,
+          "pooled": 4.463383746776332
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 29,
+          "target": 45,
+          "raw": 45,
+          "annual": 8.834796488427774,
+          "pooled": 9.174217726512973
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 12,
+          "target": 22,
+          "raw": 22,
+          "annual": 4.319233838786912,
+          "pooled": 3.750300697806419
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 124,
+          "target": 260,
+          "raw": 260,
+          "annual": 51.04549082202713,
+          "pooled": 40.742440365345395
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 117,
+          "target": 271,
+          "raw": 271,
+          "annual": 53.20510774142059,
+          "pooled": 46.23004788507581
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 67,
+          "target": 173,
+          "raw": 173,
+          "annual": 33.96488427773344,
+          "pooled": 27.109393012325974
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 24,
+          "target": 98,
+          "raw": 98,
+          "annual": 19.24022346368715,
+          "pooled": 25.565099317194285
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 8,
+          "target": 38,
+          "raw": 38,
+          "annual": 7.460494812450119,
+          "pooled": 14.492246060435347
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 11,
+          "target": 57,
+          "raw": 57,
+          "annual": 11.19074221867518,
+          "pooled": 8.249525277265597
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 20,
+          "target": 100,
+          "raw": 100,
+          "annual": 19.632881085395052,
+          "pooled": 22.05905826017558
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 6,
+          "target": 52,
+          "raw": 52,
+          "annual": 10.209098164405427,
+          "pooled": 12.008641329774061
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 7,
+          "target": 44,
+          "raw": 44,
+          "annual": 8.638467677573823,
+          "pooled": 6.283763412255032
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 2281,
+          "wape": 173.50119904076737,
+          "bias": 173.50119904076737,
+          "mae": 60.291666666666664
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 447.8260175578611,
+          "wape": 52.71473164644661,
+          "bias": -46.30383482519651,
+          "mae": 18.318369247140197
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 834,
+          "estimate_total": 430.1155983932257,
+          "wape": 57.419734382452276,
+          "bias": -48.42738628378589,
+          "mae": 19.953357697902167
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chillan",
+        "country": "Chile",
+        "lat": -36.6066,
+        "lon": -72.1034
+      },
+      "sensor": "noaa20",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 5,
+          "target": 31,
+          "raw": 31,
+          "annual": 4.5588235294117645,
+          "pooled": 2.3230786567500563
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 13,
+          "raw": 13,
+          "annual": 1.911764705882353,
+          "pooled": 1.1474967994070482
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.2058823529411766,
+          "pooled": 1.504293299875654
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 30,
+          "raw": 30,
+          "annual": 4.411764705882353,
+          "pooled": 1.9607843137254903
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 4,
+          "target": 104,
+          "raw": 104,
+          "annual": 15.294117647058824,
+          "pooled": 6.797385620915033
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.4411764705882353,
+          "pooled": 0.19607843137254904
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 2,
+          "target": 20,
+          "raw": 20,
+          "annual": 2.9411764705882355,
+          "pooled": 4.337492572786691
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.0294117647058825,
+          "pooled": 2.185911401597676
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 0,
+          "target": 11,
+          "raw": 11,
+          "annual": 1.6176470588235294,
+          "pooled": 2.246732026143791
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.3235294117647058,
+          "pooled": 0.5882352941176471
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.3235294117647058,
+          "pooled": 0.5882352941176471
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 1,
+          "target": 13,
+          "raw": 13,
+          "annual": 1.911764705882353,
+          "pooled": 0.8496732026143792
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.2058823529411766,
+          "pooled": 1.1240703177822853
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 15,
+          "target": 56,
+          "raw": 56,
+          "annual": 8.23529411764706,
+          "pooled": 4.943063135907284
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 6,
+          "target": 16,
+          "raw": 16,
+          "annual": 2.3529411764705883,
+          "pooled": 1.6045795198673642
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 2,
+          "target": 21,
+          "raw": 21,
+          "annual": 3.088235294117647,
+          "pooled": 1.3725490196078431
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 93,
+          "raw": 93,
+          "annual": 13.676470588235295,
+          "pooled": 6.07843137254902
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 61,
+          "raw": 61,
+          "annual": 8.970588235294118,
+          "pooled": 3.9869281045751634
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 27,
+          "raw": 27,
+          "annual": 3.9705882352941178,
+          "pooled": 5.855614973262033
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 0,
+          "target": 12,
+          "raw": 12,
+          "annual": 1.7647058823529411,
+          "pooled": 3.7472766884531588
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 8,
+          "raw": 8,
+          "annual": 1.1764705882352942,
+          "pooled": 1.6339869281045751
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 11,
+          "raw": 11,
+          "annual": 1.6176470588235294,
+          "pooled": 0.7189542483660131
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 1,
+          "target": 10,
+          "raw": 10,
+          "annual": 1.4705882352941178,
+          "pooled": 0.6535947712418301
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.0294117647058825,
+          "pooled": 0.4575163398692811
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 602,
+          "wape": 1527.027027027027,
+          "bias": 1527.027027027027,
+          "mae": 23.541666666666668
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 88.52941176470588,
+          "wape": 197.93322734499205,
+          "bias": 139.26868044515103,
+          "mae": 3.051470588235294
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 37,
+          "estimate_total": 56.901962333009514,
+          "wape": 152.45644789468108,
+          "bias": 53.7890873865122,
+          "mae": 2.350370238376333
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 4,
+          "annual": 4,
+          "pooled": 4
+        },
+        {
+          "year": 2025,
+          "raw": 3,
+          "annual": 3,
+          "pooled": 3
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chiang Mai",
+        "country": "Thailand",
+        "lat": 18.79,
+        "lon": 98.985
+      },
+      "sensor": "snpp",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 28,
+          "target": 130,
+          "raw": 130,
+          "annual": 26.987341772151897,
+          "pooled": 22.67070262337186
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 150,
+          "target": 609,
+          "raw": 609,
+          "annual": 126.4253164556962,
+          "pooled": 123.85569620253165
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 370,
+          "target": 1296,
+          "raw": 1296,
+          "annual": 269.04303797468356,
+          "pooled": 227.19034190729315
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 257,
+          "target": 1247,
+          "raw": 1247,
+          "annual": 258.8708860759494,
+          "pooled": 211.27286294733554
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 67,
+          "target": 477,
+          "raw": 477,
+          "annual": 99.02278481012658,
+          "pooled": 102.89901547116736
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 1,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.6227848101265823,
+          "pooled": 0.5148884870403858
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 2,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.6227848101265823,
+          "pooled": 0.4083721963135687
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 3,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.8683544303797468,
+          "pooled": 2.163713080168776
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 1,
+          "target": 40,
+          "raw": 40,
+          "annual": 8.30379746835443,
+          "pooled": 8.898909985935303
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 21,
+          "target": 96,
+          "raw": 96,
+          "annual": 19.929113924050633,
+          "pooled": 19.52405063291139
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 15,
+          "target": 114,
+          "raw": 114,
+          "annual": 23.665822784810125,
+          "pooled": 19.88046230049532
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 74,
+          "target": 256,
+          "raw": 256,
+          "annual": 53.14430379746835,
+          "pooled": 52.064135021097044
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 274,
+          "target": 788,
+          "raw": 788,
+          "annual": 163.58481012658228,
+          "pooled": 138.13733751770602
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 85,
+          "target": 293,
+          "raw": 293,
+          "annual": 60.8253164556962,
+          "pooled": 49.64149867166745
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 34,
+          "target": 95,
+          "raw": 95,
+          "annual": 19.72151898734177,
+          "pooled": 20.49351461165807
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 3,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.529113924050633,
+          "pooled": 2.917701426562186
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 4,
+          "raw": 4,
+          "annual": 0.830379746835443,
+          "pooled": 1.3567119862478512
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 2,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.20759493670886076,
+          "pooled": 0.3579648994068367
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.4151898734177215,
+          "pooled": 0.2722481308757125
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 1,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.529113924050633,
+          "pooled": 4.087013595874355
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 2,
+          "target": 42,
+          "raw": 42,
+          "annual": 8.718987341772152,
+          "pooled": 9.343855485232067
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 21,
+          "target": 152,
+          "raw": 152,
+          "annual": 31.554430379746833,
+          "pooled": 30.91308016877637
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 5691,
+          "wape": 303.4727143869596,
+          "bias": 303.3309709425939,
+          "mae": 178.41666666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 1181.4227848101266,
+          "wape": 26.396756048766925,
+          "bias": -16.270532614448857,
+          "mae": 15.51909282700422
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 1048.8640773496682,
+          "wape": 35.67955470584978,
+          "bias": -25.665196502504017,
+          "mae": 20.976604870814185
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chiang Mai",
+        "country": "Thailand",
+        "lat": 18.79,
+        "lon": 98.985
+      },
+      "sensor": "snpp",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 40,
+          "raw": 40,
+          "annual": 6.278026905829597,
+          "pooled": 3.187059577194107
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 4,
+          "target": 611,
+          "raw": 611,
+          "annual": 95.8968609865471,
+          "pooled": 60.48632418115543
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 30,
+          "target": 1810,
+          "raw": 1810,
+          "annual": 284.0807174887893,
+          "pooled": 196.84929890301035
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 36,
+          "target": 1219,
+          "raw": 1219,
+          "annual": 191.32286995515696,
+          "pooled": 85.03238664673643
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 8,
+          "target": 309,
+          "raw": 309,
+          "annual": 48.497757847533634,
+          "pooled": 21.554559043348284
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.15695067264573992,
+          "pooled": 0.06975585450921774
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 0,
+          "target": 27,
+          "raw": 27,
+          "annual": 4.237668161434978,
+          "pooled": 1.883408071748879
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 45,
+          "raw": 45,
+          "annual": 7.062780269058297,
+          "pooled": 3.58544202434337
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 1,
+          "target": 263,
+          "raw": 263,
+          "annual": 41.2780269058296,
+          "pooled": 26.03584821545643
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 19,
+          "target": 1134,
+          "raw": 1134,
+          "annual": 177.98206278026908,
+          "pooled": 123.32989224089157
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 2,
+          "target": 207,
+          "raw": 207,
+          "annual": 32.488789237668165,
+          "pooled": 14.439461883408073
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 18,
+          "raw": 18,
+          "annual": 2.8251121076233185,
+          "pooled": 1.2556053811659194
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.1395117090184355
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.5217339312406577
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.20926756352765324
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 2,
+          "target": 44,
+          "raw": 44,
+          "annual": 6.9058295964125564,
+          "pooled": 3.0692575984055805
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 5735,
+          "wape": 5467.961165048544,
+          "bias": 5467.961165048544,
+          "mae": 234.66666666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 900.1121076233185,
+          "wape": 773.8952501197266,
+          "bias": 773.8952501197266,
+          "mae": 33.21300448430494
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 541.6488128251603,
+          "wape": 425.87263381083534,
+          "bias": 425.87263381083534,
+          "mae": 18.277033867715016
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chiang Mai",
+        "country": "Thailand",
+        "lat": 18.79,
+        "lon": 98.985
+      },
+      "sensor": "noaa20",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 28,
+          "target": 156,
+          "raw": 156,
+          "annual": 30.62729449321628,
+          "pooled": 25.788439425818805
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 150,
+          "target": 566,
+          "raw": 566,
+          "annual": 111.122106943336,
+          "pooled": 115.39127184902983
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 370,
+          "target": 1297,
+          "raw": 1297,
+          "annual": 254.63846767757383,
+          "pooled": 221.0972729570421
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 257,
+          "target": 1139,
+          "raw": 1139,
+          "annual": 223.61851556264963,
+          "pooled": 178.4832291389554
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 67,
+          "target": 465,
+          "raw": 465,
+          "annual": 91.292897047087,
+          "pooled": 79.32462090981643
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 1,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.5889864325618516,
+          "pooled": 0.4701050811386007
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.19632881085395051,
+          "pooled": 0.26086836037953354
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.39265762170790103,
+          "pooled": 0.7627497926544919
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 2,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.39265762170790103,
+          "pooled": 0.2894570272724771
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 3,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.7486033519553073,
+          "pooled": 3.088268156424581
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 1,
+          "target": 35,
+          "raw": 35,
+          "annual": 6.871508379888268,
+          "pooled": 8.082739356578696
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 21,
+          "target": 93,
+          "raw": 93,
+          "annual": 18.258579409417397,
+          "pooled": 13.281590848629955
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 15,
+          "target": 101,
+          "raw": 101,
+          "annual": 19.829209896249,
+          "pooled": 16.696361423126277
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 74,
+          "target": 236,
+          "raw": 236,
+          "annual": 46.33359936153232,
+          "pooled": 48.1136751879347
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 274,
+          "target": 835,
+          "raw": 835,
+          "annual": 163.9345570630487,
+          "pooled": 142.34095830310727
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 85,
+          "target": 325,
+          "raw": 325,
+          "annual": 63.80686352753392,
+          "pooled": 50.928050456681746
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 34,
+          "target": 98,
+          "raw": 98,
+          "annual": 19.24022346368715,
+          "pooled": 16.717877094972067
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 3,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.7669592976855546,
+          "pooled": 1.4103152434158022
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.19632881085395051,
+          "pooled": 0.26086836037953354
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 2,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.39265762170790103,
+          "pooled": 0.7627497926544919
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.5889864325618516,
+          "pooled": 0.43418554090871564
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 1,
+          "target": 23,
+          "raw": 23,
+          "annual": 4.515562649640862,
+          "pooled": 5.073583399840383
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 2,
+          "target": 33,
+          "raw": 33,
+          "annual": 6.478850758180367,
+          "pooled": 7.620868536202769
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 21,
+          "target": 178,
+          "raw": 178,
+          "annual": 34.94652833200319,
+          "pooled": 25.420679258668088
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 5617,
+          "wape": 298.08646350106306,
+          "bias": 298.08646350106306,
+          "mae": 175.25
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 1102.7789305666402,
+          "wape": 30.481458249315747,
+          "bias": -21.84415800378171,
+          "mae": 17.920557329076882
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 1411,
+          "estimate_total": 962.1007855016328,
+          "wape": 37.06242386168152,
+          "bias": -31.814260418027448,
+          "mae": 21.789616695346925
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Chiang Mai",
+        "country": "Thailand",
+        "lat": 18.79,
+        "lon": 98.985
+      },
+      "sensor": "noaa20",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 39,
+          "raw": 39,
+          "annual": 5.735294117647059,
+          "pooled": 2.922582826233942
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 4,
+          "target": 631,
+          "raw": 631,
+          "annual": 92.79411764705883,
+          "pooled": 55.69772926352672
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 30,
+          "target": 1844,
+          "raw": 1844,
+          "annual": 271.1764705882353,
+          "pooled": 184.92778966471374
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 36,
+          "target": 1306,
+          "raw": 1306,
+          "annual": 192.05882352941177,
+          "pooled": 85.35947712418302
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 8,
+          "target": 333,
+          "raw": 333,
+          "annual": 48.970588235294116,
+          "pooled": 21.764705882352942
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.14705882352941177,
+          "pooled": 0.06535947712418301
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.4411764705882353,
+          "pooled": 0.19607843137254904
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 0,
+          "target": 27,
+          "raw": 27,
+          "annual": 3.9705882352941178,
+          "pooled": 1.7647058823529413
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 36,
+          "raw": 36,
+          "annual": 5.294117647058823,
+          "pooled": 2.6977687626774847
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 1,
+          "target": 285,
+          "raw": 285,
+          "annual": 41.911764705882355,
+          "pooled": 25.156660602385287
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 19,
+          "target": 1165,
+          "raw": 1165,
+          "annual": 171.32352941176472,
+          "pooled": 116.83344629034247
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 2,
+          "target": 293,
+          "raw": 293,
+          "annual": 43.088235294117645,
+          "pooled": 19.15032679738562
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 24,
+          "raw": 24,
+          "annual": 3.5294117647058822,
+          "pooled": 1.5686274509803924
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.4337492572786691
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.4411764705882353,
+          "pooled": 0.19607843137254904
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 2,
+          "target": 53,
+          "raw": 53,
+          "annual": 7.794117647058823,
+          "pooled": 3.4640522875816995
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 6047,
+          "wape": 5770.873786407767,
+          "bias": 5770.873786407767,
+          "mae": 247.66666666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 889.2647058823529,
+          "wape": 763.3637921187892,
+          "bias": 763.3637921187892,
+          "mae": 32.7610294117647
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 103,
+          "estimate_total": 522.3298573861126,
+          "wape": 407.11636639428406,
+          "bias": 407.11636639428406,
+          "mae": 17.472077391088025
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Kabwe",
+        "country": "Zambia",
+        "lat": -14.446,
+        "lon": 28.446
+      },
+      "sensor": "snpp",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 5,
+          "raw": 5,
+          "annual": 1.0379746835443038,
+          "pooled": 0.8719501008989177
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 1,
+          "target": 30,
+          "raw": 30,
+          "annual": 6.227848101265822,
+          "pooled": 6.10126582278481
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 3,
+          "target": 38,
+          "raw": 38,
+          "annual": 7.888607594936708,
+          "pooled": 6.661445210244706
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 52,
+          "target": 167,
+          "raw": 167,
+          "annual": 34.66835443037974,
+          "pooled": 28.293959993749024
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 212,
+          "target": 524,
+          "raw": 524,
+          "annual": 108.77974683544304,
+          "pooled": 113.03791217377714
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 477,
+          "target": 1190,
+          "raw": 1190,
+          "annual": 247.0379746835443,
+          "pooled": 204.23909985935302
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 1274,
+          "target": 1790,
+          "raw": 1790,
+          "annual": 371.59493670886076,
+          "pooled": 607.1286138459134
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 714,
+          "target": 2144,
+          "raw": 2144,
+          "annual": 445.08354430379745,
+          "pooled": 767.4767443282578
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 290,
+          "target": 1038,
+          "raw": 1038,
+          "annual": 215.48354430379746,
+          "pooled": 141.29677992449479
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 140,
+          "target": 600,
+          "raw": 600,
+          "annual": 124.55696202531645,
+          "pooled": 144.2475386779184
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 34,
+          "target": 119,
+          "raw": 119,
+          "annual": 24.70379746835443,
+          "pooled": 26.474257208157525
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 57,
+          "target": 155,
+          "raw": 155,
+          "annual": 32.177215189873415,
+          "pooled": 31.52320675105485
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.20759493670886076,
+          "pooled": 0.20337552742616033
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 1.0379746835443038,
+          "pooled": 0.8765059487164086
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 3,
+          "target": 17,
+          "raw": 17,
+          "annual": 3.529113924050633,
+          "pooled": 2.8802234724175655
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 33,
+          "target": 131,
+          "raw": 131,
+          "annual": 27.19493670886076,
+          "pooled": 28.259478043444286
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 203,
+          "target": 722,
+          "raw": 722,
+          "annual": 149.88354430379746,
+          "pooled": 123.91649588105284
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 610,
+          "target": 1403,
+          "raw": 1403,
+          "annual": 291.2556962025316,
+          "pooled": 475.8667291764338
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 1337,
+          "target": 3640,
+          "raw": 3640,
+          "annual": 755.6455696202531,
+          "pooled": 1302.9922338408855
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 652,
+          "target": 2104,
+          "raw": 2104,
+          "annual": 436.779746835443,
+          "pooled": 286.4050336812495
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 273,
+          "target": 981,
+          "raw": 981,
+          "annual": 203.6506329113924,
+          "pooled": 235.84472573839662
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 39,
+          "target": 199,
+          "raw": 199,
+          "annual": 41.31139240506329,
+          "pooled": 44.272077180028134
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 1,
+          "target": 5,
+          "raw": 5,
+          "annual": 1.0379746835443038,
+          "pooled": 1.0168776371308017
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 17008,
+          "wape": 165.4908693616357,
+          "bias": 165.45965350398004,
+          "mae": 441.7916666666667
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 3530.7746835443036,
+          "wape": 45.337635062915766,
+          "bias": -44.89192003208517,
+          "mae": 121.03259493670886
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 4579.886530023786,
+          "wape": 30.79171422883141,
+          "bias": -28.51745699978483,
+          "mae": 82.20104711005119
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 1
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Kabwe",
+        "country": "Zambia",
+        "lat": -14.446,
+        "lon": 28.446
+      },
+      "sensor": "snpp",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.2969868617732673
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.3262695561928348
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 13,
+          "raw": 13,
+          "annual": 2.040358744394619,
+          "pooled": 0.9068261086198307
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 1,
+          "target": 62,
+          "raw": 62,
+          "annual": 9.730941704035875,
+          "pooled": 4.3248629795715
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 2,
+          "target": 181,
+          "raw": 181,
+          "annual": 28.408071748878925,
+          "pooled": 12.625809666168411
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 5,
+          "target": 420,
+          "raw": 420,
+          "annual": 65.91928251121077,
+          "pooled": 116.79745889387146
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 6,
+          "target": 684,
+          "raw": 684,
+          "annual": 107.35426008968611,
+          "pooled": 178.43300448430494
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 4,
+          "target": 454,
+          "raw": 454,
+          "annual": 71.25560538116592,
+          "pooled": 98.92841720644411
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 3,
+          "target": 270,
+          "raw": 270,
+          "annual": 42.37668161434978,
+          "pooled": 18.834080717488792
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 2,
+          "target": 35,
+          "raw": 35,
+          "annual": 5.493273542600897,
+          "pooled": 2.441454907822621
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 58,
+          "raw": 58,
+          "annual": 9.103139013452916,
+          "pooled": 4.045839561534629
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.31390134529147984,
+          "pooled": 0.15935297885970534
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.0986547085201794,
+          "pooled": 0.6929693441376236
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 35,
+          "raw": 35,
+          "annual": 5.493273542600897,
+          "pooled": 3.806478155583073
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 0,
+          "target": 28,
+          "raw": 28,
+          "annual": 4.394618834080718,
+          "pooled": 1.9531639262580969
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 36,
+          "raw": 36,
+          "annual": 5.650224215246637,
+          "pooled": 2.5112107623318387
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 73,
+          "raw": 73,
+          "annual": 11.457399103139014,
+          "pooled": 5.092177379172895
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 140,
+          "raw": 140,
+          "annual": 21.973094170403588,
+          "pooled": 38.932486297957155
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 5,
+          "target": 692,
+          "raw": 692,
+          "annual": 108.60986547085203,
+          "pooled": 180.51994020926756
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 9,
+          "target": 731,
+          "raw": 731,
+          "annual": 114.73094170403589,
+          "pooled": 159.28782594253445
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 9,
+          "target": 451,
+          "raw": 451,
+          "annual": 70.7847533632287,
+          "pooled": 31.459890383657203
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 7,
+          "target": 83,
+          "raw": 83,
+          "annual": 13.026905829596414,
+          "pooled": 5.789735924265073
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.47085201793721976,
+          "pooled": 0.20926756352765324
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 4464,
+          "wape": 7871.428571428572,
+          "bias": 7871.428571428572,
+          "mae": 183.66666666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 700.627802690583,
+          "wape": 1151.121076233184,
+          "bias": 1151.121076233184,
+          "mae": 26.859491778774295
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 868.3755098113447,
+          "wape": 1454.9929249335976,
+          "bias": 1450.670553234544,
+          "mae": 33.94983491511727
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 1
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Kabwe",
+        "country": "Zambia",
+        "lat": -14.446,
+        "lon": 28.446
+      },
+      "sensor": "noaa20",
+      "daynight": "D",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 1,
+          "target": 7,
+          "raw": 7,
+          "annual": 1.3743016759776536,
+          "pooled": 1.157173563979049
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 1,
+          "target": 23,
+          "raw": 23,
+          "annual": 4.515562649640862,
+          "pooled": 4.689044615773297
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 3,
+          "target": 42,
+          "raw": 42,
+          "annual": 8.245810055865922,
+          "pooled": 7.159664968539528
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 52,
+          "target": 161,
+          "raw": 161,
+          "annual": 31.608938547486034,
+          "pooled": 25.228972687771574
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 212,
+          "target": 675,
+          "raw": 675,
+          "annual": 132.5219473264166,
+          "pooled": 115.14864325618515
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 477,
+          "target": 1323,
+          "raw": 1323,
+          "annual": 259.74301675977654,
+          "pooled": 207.31634078212292
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 1274,
+          "target": 3340,
+          "raw": 3340,
+          "annual": 655.7382282521947,
+          "pooled": 871.300323667642
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 714,
+          "target": 2189,
+          "raw": 2189,
+          "annual": 429.7637669592977,
+          "pooled": 834.8296480603415
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 290,
+          "target": 1146,
+          "raw": 1146,
+          "annual": 224.99281723862728,
+          "pooled": 165.85887662712938
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 140,
+          "target": 588,
+          "raw": 588,
+          "annual": 115.44134078212291,
+          "pooled": 129.7072625698324
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 34,
+          "target": 164,
+          "raw": 164,
+          "annual": 32.19792498004789,
+          "pooled": 37.873407270825886
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 57,
+          "target": 158,
+          "raw": 158,
+          "annual": 31.01995211492418,
+          "pooled": 22.564423162188525
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 1,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 3,
+          "raw": 3,
+          "annual": 0.5889864325618516,
+          "pooled": 0.6116145151008648
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 15,
+          "raw": 15,
+          "annual": 2.9449321628092577,
+          "pooled": 2.557023203049831
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 3,
+          "target": 14,
+          "raw": 14,
+          "annual": 2.7486033519553073,
+          "pooled": 2.1938237119801367
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 33,
+          "target": 113,
+          "raw": 113,
+          "annual": 22.185155626496407,
+          "pooled": 19.2767358339984
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 203,
+          "target": 732,
+          "raw": 732,
+          "annual": 143.71268954509176,
+          "pooled": 114.70563979781858
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 610,
+          "target": 1683,
+          "raw": 1683,
+          "annual": 330.4213886671987,
+          "pooled": 439.04145051875497
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 1337,
+          "target": 3653,
+          "raw": 3653,
+          "annual": 717.1891460494812,
+          "pooled": 1393.1624962834296
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 652,
+          "target": 2173,
+          "raw": 2173,
+          "annual": 426.62250598563446,
+          "pooled": 314.4950601315463
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 273,
+          "target": 978,
+          "raw": 978,
+          "annual": 192.00957701516361,
+          "pooled": 215.73758978451716
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 39,
+          "target": 195,
+          "raw": 195,
+          "annual": 38.284118116520354,
+          "pooled": 45.03240498665273
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 1,
+          "target": 9,
+          "raw": 9,
+          "annual": 1.7669592976855546,
+          "pooled": 1.2853152434158022
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 19384,
+          "wape": 202.57530825659435,
+          "bias": 202.54409239893866,
+          "mae": 540.7916666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 3805.6376695929766,
+          "wape": 41.021311611613946,
+          "bias": -40.60187810842864,
+          "mae": 109.50980978983773
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 6407,
+          "estimate_total": 4970.932935242596,
+          "wape": 28.605941160911822,
+          "bias": -22.414032538745186,
+          "mae": 76.36594375748419
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 0
+        }
+      ]
+    },
+    {
+      "region": {
+        "name": "Kabwe",
+        "country": "Zambia",
+        "lat": -14.446,
+        "lon": 28.446
+      },
+      "sensor": "noaa20",
+      "daynight": "N",
+      "state": "scored",
+      "months": [
+        {
+          "year": 2024,
+          "month": 1,
+          "aqua": 0,
+          "target": 0,
+          "raw": 0,
+          "annual": 0.0,
+          "pooled": 0.0
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "aqua": 0,
+          "target": 1,
+          "raw": 1,
+          "annual": 0.14705882352941177,
+          "pooled": 0.08826898456977293
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "aqua": 0,
+          "target": 5,
+          "raw": 5,
+          "annual": 0.7352941176470589,
+          "pooled": 0.5014310999585513
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "aqua": 0,
+          "target": 18,
+          "raw": 18,
+          "annual": 2.6470588235294117,
+          "pooled": 1.1764705882352942
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "aqua": 1,
+          "target": 76,
+          "raw": 76,
+          "annual": 11.176470588235295,
+          "pooled": 4.967320261437909
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "aqua": 2,
+          "target": 182,
+          "raw": 182,
+          "annual": 26.764705882352942,
+          "pooled": 11.895424836601308
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "aqua": 5,
+          "target": 808,
+          "raw": 808,
+          "annual": 118.82352941176471,
+          "pooled": 175.23469994058232
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "aqua": 6,
+          "target": 698,
+          "raw": 698,
+          "annual": 102.64705882352942,
+          "pooled": 217.9665940450254
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "aqua": 4,
+          "target": 529,
+          "raw": 529,
+          "annual": 77.79411764705883,
+          "pooled": 108.04738562091504
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "aqua": 3,
+          "target": 296,
+          "raw": 296,
+          "annual": 43.529411764705884,
+          "pooled": 19.346405228758172
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "aqua": 2,
+          "target": 37,
+          "raw": 37,
+          "annual": 5.4411764705882355,
+          "pooled": 2.4183006535947715
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "aqua": 3,
+          "target": 63,
+          "raw": 63,
+          "annual": 9.264705882352942,
+          "pooled": 4.11764705882353
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.14987604237097138
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "aqua": 0,
+          "target": 12,
+          "raw": 12,
+          "annual": 1.7647058823529411,
+          "pooled": 1.0592278148372751
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "aqua": 0,
+          "target": 32,
+          "raw": 32,
+          "annual": 4.705882352941177,
+          "pooled": 3.2091590397347285
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "aqua": 0,
+          "target": 30,
+          "raw": 30,
+          "annual": 4.411764705882353,
+          "pooled": 1.9607843137254903
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "aqua": 0,
+          "target": 33,
+          "raw": 33,
+          "annual": 4.852941176470589,
+          "pooled": 2.1568627450980395
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "aqua": 0,
+          "target": 88,
+          "raw": 88,
+          "annual": 12.941176470588236,
+          "pooled": 5.751633986928105
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "aqua": 0,
+          "target": 175,
+          "raw": 175,
+          "annual": 25.735294117647058,
+          "pooled": 37.953060011883544
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "aqua": 5,
+          "target": 707,
+          "raw": 707,
+          "annual": 103.97058823529412,
+          "pooled": 220.77705156136528
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "aqua": 9,
+          "target": 836,
+          "raw": 836,
+          "annual": 122.94117647058825,
+          "pooled": 170.7516339869281
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "aqua": 9,
+          "target": 527,
+          "raw": 527,
+          "annual": 77.5,
+          "pooled": 34.44444444444444
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "aqua": 7,
+          "target": 72,
+          "raw": 72,
+          "annual": 10.588235294117647,
+          "pooled": 4.705882352941177
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "aqua": 0,
+          "target": 2,
+          "raw": 2,
+          "annual": 0.29411764705882354,
+          "pooled": 0.13071895424836602
+        }
+      ],
+      "missing_months": [],
+      "metrics": {
+        "raw": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 5229,
+          "wape": 9237.5,
+          "bias": 9237.5,
+          "mae": 215.54166666666666
+        },
+        "annual": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 768.9705882352941,
+          "wape": 1273.1617647058824,
+          "bias": 1273.1617647058824,
+          "mae": 29.707107843137255
+        },
+        "pooled": {
+          "n": 24,
+          "aqua_total": 56,
+          "estimate_total": 1028.8102835730076,
+          "wape": 1745.3544979770093,
+          "bias": 1737.161220666085,
+          "mae": 40.72493828613022
+        }
+      },
+      "peak_displacement": [
+        {
+          "year": 2024,
+          "raw": 1,
+          "annual": 1,
+          "pooled": 0
+        },
+        {
+          "year": 2025,
+          "raw": 0,
+          "annual": 0,
+          "pooled": 1
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "modis_2024_Spain.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 167436,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Spain.csv",
+      "sha256": "baa8e1cd86831df65750fe75c8c57b462d533b49fbcbe9a1405c5b0e8ef9def4",
+      "bytes": 167436,
+      "audit": {
+        "read": 2110,
+        "rejected": 0,
+        "eligible": 870
+      }
+    },
+    {
+      "id": "viirs-snpp_2024_Spain.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 654773,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Spain.csv",
+      "sha256": "b03d03a4c4d5eb5420b554be2886dd15babb139819d44065b57c8c65ac68570f",
+      "bytes": 654773,
+      "audit": {
+        "read": 8381,
+        "rejected": 0,
+        "eligible": 5107
+      }
+    },
+    {
+      "id": "viirs-jpss1_2024_Spain.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Spain",
+      "bytes_advertised": 729168,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Spain.csv",
+      "sha256": "a7505fbc46d1d10a23d64aad18c678a8139823703596d840e0f1b817829c7216",
+      "bytes": 729168,
+      "audit": {
+        "read": 9096,
+        "rejected": 0,
+        "eligible": 5506
+      }
+    },
+    {
+      "id": "modis_2025_Spain.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 757793,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Spain.csv",
+      "sha256": "28c2e7a7edbbde5e43e16b86444d0793b997a87f6493d447d0b3cad825c8ac1c",
+      "bytes": 757793,
+      "audit": {
+        "read": 9461,
+        "rejected": 0,
+        "eligible": 4383
+      }
+    },
+    {
+      "id": "viirs-snpp_2025_Spain.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 2407569,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Spain.csv",
+      "sha256": "5d0fdaf6fb9cfe64240c6bcf9e9ddc005daba0f4ab91f753488ff6e823ed439f",
+      "bytes": 2407569,
+      "audit": {
+        "read": 30751,
+        "rejected": 0,
+        "eligible": 25778
+      }
+    },
+    {
+      "id": "viirs-jpss1_2025_Spain.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Spain",
+      "bytes_advertised": 2469474,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Spain.csv",
+      "sha256": "c5d8e0b239499b9e2acb79577bf3922b0e32492385a9673137eb5449e6a9604d",
+      "bytes": 2469474,
+      "audit": {
+        "read": 30761,
+        "rejected": 0,
+        "eligible": 25568
+      }
+    },
+    {
+      "id": "modis_2024_Chile.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 526327,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Chile.csv",
+      "sha256": "c1c86ecebc767911bd35b18bba1f33cb8a6f1443baf2139555bc902e61338700",
+      "bytes": 526327,
+      "audit": {
+        "read": 6495,
+        "rejected": 0,
+        "eligible": 2724
+      }
+    },
+    {
+      "id": "viirs-snpp_2024_Chile.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 1737186,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Chile.csv",
+      "sha256": "bbf8704aeeb4ca02a2a4ff8057bad2c524ccd7ffd8d4790ed558cc15b1a4ccc5",
+      "bytes": 1737186,
+      "audit": {
+        "read": 21647,
+        "rejected": 0,
+        "eligible": 14403
+      }
+    },
+    {
+      "id": "viirs-jpss1_2024_Chile.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Chile",
+      "bytes_advertised": 1771440,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Chile.csv",
+      "sha256": "74a0d83a261c9bd273c46300c97a5b998e16002e8048c8463631964948cf1428",
+      "bytes": 1771440,
+      "audit": {
+        "read": 21526,
+        "rejected": 0,
+        "eligible": 14513
+      }
+    },
+    {
+      "id": "modis_2025_Chile.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 547628,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Chile.csv",
+      "sha256": "c225abab2d48f6f52644d1b7295ef3cdabf3ce492bb21d960087acea530cf2ca",
+      "bytes": 547628,
+      "audit": {
+        "read": 6737,
+        "rejected": 0,
+        "eligible": 3417
+      }
+    },
+    {
+      "id": "viirs-snpp_2025_Chile.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 2078518,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Chile.csv",
+      "sha256": "c6ad5e85bcb65e7a49f3aa60446dcceedf835bcd3f0ee86769be7df79a3e89cf",
+      "bytes": 2078518,
+      "audit": {
+        "read": 25885,
+        "rejected": 0,
+        "eligible": 18799
+      }
+    },
+    {
+      "id": "viirs-jpss1_2025_Chile.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Chile",
+      "bytes_advertised": 2073080,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Chile.csv",
+      "sha256": "93fef398c4b4923ed51733b706d9a042d7223fed1b156cf270d432b86d92b9bf",
+      "bytes": 2073080,
+      "audit": {
+        "read": 25195,
+        "rejected": 0,
+        "eligible": 18243
+      }
+    },
+    {
+      "id": "modis_2024_Thailand.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 1545203,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Thailand.csv",
+      "sha256": "668fab2f7ac0b5f9e3d056f230b152de56da8d43164c569e05687360e8b22567",
+      "bytes": 1545203,
+      "audit": {
+        "read": 19532,
+        "rejected": 0,
+        "eligible": 10939
+      }
+    },
+    {
+      "id": "viirs-snpp_2024_Thailand.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 11297113,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Thailand.csv",
+      "sha256": "2ca29f148a0ecc9233208350375eb31e85f6b1543b22875b00dcb7148b0b7c6d",
+      "bytes": 11297113,
+      "audit": {
+        "read": 143538,
+        "rejected": 0,
+        "eligible": 123972
+      }
+    },
+    {
+      "id": "viirs-jpss1_2024_Thailand.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Thailand",
+      "bytes_advertised": 11810940,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Thailand.csv",
+      "sha256": "dab18e541f924cc07e2d2beba7efa9a409a2ba923774fb2cad5840fb8865303b",
+      "bytes": 11810940,
+      "audit": {
+        "read": 146326,
+        "rejected": 0,
+        "eligible": 126110
+      }
+    },
+    {
+      "id": "modis_2025_Thailand.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 1228690,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Thailand.csv",
+      "sha256": "3e71c9ebc0e5dbc95ec6f7d61b1dae1135085fc934c0bbc846d82984e9b2e758",
+      "bytes": 1228690,
+      "audit": {
+        "read": 15512,
+        "rejected": 0,
+        "eligible": 8852
+      }
+    },
+    {
+      "id": "viirs-snpp_2025_Thailand.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 8177244,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Thailand.csv",
+      "sha256": "8230e32516b5d968a445386568393b57d13dffb5754030109f848f9e0774a41f",
+      "bytes": 8177244,
+      "audit": {
+        "read": 103794,
+        "rejected": 0,
+        "eligible": 93976
+      }
+    },
+    {
+      "id": "viirs-jpss1_2025_Thailand.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Thailand",
+      "bytes_advertised": 8696690,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Thailand.csv",
+      "sha256": "4fca7483531bcf89dd3680278b1c09efa164541de4ef35aa2036dd110e65c98b",
+      "bytes": 8696690,
+      "audit": {
+        "read": 107648,
+        "rejected": 0,
+        "eligible": 96884
+      }
+    },
+    {
+      "id": "modis_2024_Zambia.csv",
+      "product": "modis",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 16450393,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2024_Zambia.csv",
+      "sha256": "03a1f7773736359eac4d6aff2e89458d0f709f23421ddcdd1a190daf9259c384",
+      "bytes": 16450393,
+      "audit": {
+        "read": 205982,
+        "rejected": 0,
+        "eligible": 158207
+      }
+    },
+    {
+      "id": "viirs-snpp_2024_Zambia.csv",
+      "product": "snpp",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 61367625,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2024_Zambia.csv",
+      "sha256": "aa50fda58208ffff371218a5cde3a0aa02460e71cb391cfa31afa88c82433184",
+      "bytes": 61367625,
+      "audit": {
+        "read": 775316,
+        "rejected": 0,
+        "eligible": 639383
+      }
+    },
+    {
+      "id": "viirs-jpss1_2024_Zambia.csv",
+      "product": "noaa20",
+      "year": 2024,
+      "country": "Zambia",
+      "bytes_advertised": 73824411,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2024_Zambia.csv",
+      "sha256": "9cdae2498bcaf1384ae3a1fcb5fe3f810b94175cbacb96bc4f243b928a889bbf",
+      "bytes": 73824411,
+      "audit": {
+        "read": 909464,
+        "rejected": 0,
+        "eligible": 746163
+      }
+    },
+    {
+      "id": "modis_2025_Zambia.csv",
+      "product": "modis",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 14851303,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/modis_2025_Zambia.csv",
+      "sha256": "ad4e11bc0af10f6568af338f18e5baedaa2dda981ad6d4d269adaa50851d0461",
+      "bytes": 14851303,
+      "audit": {
+        "read": 186254,
+        "rejected": 0,
+        "eligible": 145846
+      }
+    },
+    {
+      "id": "viirs-snpp_2025_Zambia.csv",
+      "product": "snpp",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 68228708,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-snpp_2025_Zambia.csv",
+      "sha256": "8d941368c5240dce4d8e31eda186f1c1d6a9e53b0ce8d1befaab4e5448a4ab0f",
+      "bytes": 68228708,
+      "audit": {
+        "read": 862158,
+        "rejected": 0,
+        "eligible": 697051
+      }
+    },
+    {
+      "id": "viirs-jpss1_2025_Zambia.csv",
+      "product": "noaa20",
+      "year": 2025,
+      "country": "Zambia",
+      "bytes_advertised": 69835284,
+      "url": "https://firms.modaps.eosdis.nasa.gov/data/country/viirs-jpss1_2025_Zambia.csv",
+      "sha256": "1282e8a9df8acb81d79d9771766900d60b4aa52b2d0ade797f203bc9729d36ab",
+      "bytes": 69835284,
+      "audit": {
+        "read": 860439,
+        "rejected": 0,
+        "eligible": 690668
+      }
+    }
+  ],
+  "source_failures": {},
+  "interpretation": "No target-area calibration. Models pool source-area annual counts before fitting. First-look locally frozen test, not externally blinded. Four selected areas do not establish global validity; after inspection this dataset is evaluation evidence, not an untouched future test.",
+  "protocol_sha256": "e8b0549fedd46e23c42f55197aee6116308d307316a0813e4f92605422f5fdb2",
+  "scored_at_utc": "2026-11-15T13:37:53.477720+00:00",
+  "evaluator_sha256": "3631bb83a7e778833ec91569a5f15061aef9dc5a47fd034c857ec8e2ed5a3507"
+}

@@ -1,0 +1,8 @@
+{
+  "aqua_result": "aqua-coverage-v3.json",
+  "aqua_result_sha256": "f085d49fabb62beeef6b83159f3f6cb78de411c70c5e7dd39a26bc47f6a4622d",
+  "aqua_processor_sha256": "20dd453fbba1d0bf00b28607327d0ff34f2aef6688487430b63d8fa51a2c0a63",
+  "nasa_viirs_result": "nasa-viirs-coverage.json",
+  "nasa_viirs_result_sha256": "d22dbbcffe2b8fff18802af643e405a710e9d0d9e2810ef79f246fde6eb4e703",
+  "errata": "Aqua initial decoder encountered an empty sparse-fire HDF4 SDS; the first correction exposed pyhdf returning scalar shape metadata for 1D arrays. Both initial result files are preserved. v3 handles zero-length arrays and verifies the exact named MYD03 input. No geographic model or evaluation score changed."
+}
